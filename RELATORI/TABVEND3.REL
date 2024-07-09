@@ -1,0 +1,51 @@
+[Ordenacao1]
+Campo=11
+Quebra=1
+Tudo=0
+Pede=1
+Inicio=01000000000000000000000000000000000000000000000000
+Fim=00000000000000000000000000000000000000000000000000
+DifNulo=0
+
+[Ordenacao2]
+Campo=3
+Quebra=0
+Tudo=1
+Pede=0
+Inicio=
+Fim=
+DifNulo=0
+
+[Ordenacao3]
+Campo=0
+Quebra=0
+Tudo=1
+Pede=0
+Inicio=
+Fim=
+DifNulo=0
+
+[Opcoes]
+Filtro=1 0  
+
+
+[Impressora]
+Info=32515 0 1 9 2970 2100 100 1 15 600 2 1 600 2  
+[Fonte]
+Nome=Courier New
+Tamanho=12
+Tipo=0
+[Identificacao]
+Assinatura=JPAY
+Tipo=1
+Nome=Tabela de Preços Departamento
+Descricao001=Tabela de Preço de Venda, ordenado por Departamento
+Decrescente=0
+ModoGrafico=1
+EmEscala=1
+PedeOpcoes=0
+[CamposAImprimir]
+001=1
+002=2
+003=3
+004=5

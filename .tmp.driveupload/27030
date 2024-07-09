@@ -1,0 +1,38 @@
+[Formato 1]
+Nome=14 x 26mm - 5 Carr(F_House)
+Tipo=0
+Largura=19
+Altura=4
+Carreiras=5
+EspacamentoHor=5
+EspacamentoVer=0
+MargemEsquerda=1
+Inicializacao={27}{77}{27}{15}
+Finalizacao={27}@
+001=FarmaHouse 392-7119
+002={DESCRICAO,19}
+003={CODIGO}     {PRECO}
+
+[Formato 2]
+Nome=14 x 26mm - 5 Carr(Univ_Rem)
+Tipo=0
+Largura=19
+Altura=4
+Carreiras=5
+EspacamentoHor=5
+EspacamentoVer=0
+MargemEsquerda=1
+Inicializacao={27}{77}{27}{15}
+Finalizacao={27}@
+001=FarmaHouse 447-0721
+002={DESCRICAO,19}
+003={CODIGO}     {PRECO}
+
+[EtiquetadoraTexto]
+PortaDeComunicacao=COM2:9600,N,8,1
+PortaParalela=1
+SaidaArquivo=0
+ArquivoFormato=PVETIQT.ETQ
+UltimoFormato=1
+AcessoDireto=0
+

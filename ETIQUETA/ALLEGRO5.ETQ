@@ -1,0 +1,171 @@
+;
+; Identificacao
+;
+;[Identificacao]
+;Assinatura=PLAY
+;Tipo=0           ; 0 para Produtos e 1 para Mala Direta
+;Nome=<nome-do-formato>
+;
+
+[Identificacao]
+Assinatura=PLAY
+Tipo=0
+TipoImpressora=2
+Nome=Gondola - GRANDE Dimensoes-105mm x 205mm
+
+;
+; Definicao do Formulario: Todas as Coordenadas e dimensoes em MM
+;
+; 0,0                +
+;  +-----------------> x
+;  |
+;  |
+;  |
+;  V Y +
+;
+;  [Formulario]
+;  Margens=<Esquerda> <Superior>  ; Posicao da Primeira Etiqueta
+;  Espacamento=<Horizontal> <Vertical> ; Espacamento entre etiquetas
+;  Dimensao=<Largura-da-Etiqueta> <Altura-Da-Etiqueta>
+;  Carreiras=<Numero-de-Colunas-de-Etiquetas>
+;  EtiquetasPorPagina=<Numero-de-Etiquetas-Por-Pagina>
+
+[Formulario]
+Margens=0.0 0.0
+Espacamento=0 0
+Dimensao=102 205
+Carreiras=1
+EtiquetasPorPagina=1
+Continuo=1
+
+;
+; Fontes de Caractere. Enumerar de 001 ate NNN. Os valores devem ser
+; sequencias
+;
+; <Tamanho> indica o corpo do caractere (8,10,12, etc)
+; <Atributo> indica o tipo de impressao, que pode ser:
+;            0 Caractere Normal
+;            1 Caractere Italico
+;            2 Caractere em Negrito
+;            4 Caractere Sublinhado
+;            8 Caractere Riscado
+;
+; Para utilizar mais de um tipo de formato, os valores devem ser adicionados,
+; como por exemplo: Negrito+Italico=3
+;
+; <Angulo> Indica o angulo da letra. variando de 0 graus ate 360 graus.
+; <Nome-Da-Fonte> Indica o nome da fonte, tal qual apresentado pelo Windows
+;
+;
+; [Fontes]
+; 001=<Tamanho> <Atributo> <Angulo> <Nome-da-Fonte>
+; nnn=<Tamanho> <Atributo> <Angulo> <Nome-da-Fonte>
+
+[Fontes]
+001=24 0 90 Arial
+002=30 0 90 Arial
+
+;
+; Campos de Impressao de cada etiqueta. Os Numeros devem ser
+; Sequencias, iniciando de 001
+;
+; Os Tipos podem ser:
+;
+; 0-Texto
+; 1-Borda
+; 2-Retangulo Cheio
+; 3-Linha
+; 4-Codigo de Barras
+;   O campo Fonte indica o tipo do codigo de barras:
+;       1- 3 de 9
+;       2- I 2 de 5
+;       3- UPC-A
+;       4- UPC-E
+;       5- EAN-13
+;       6- EAN-8
+;       7- Codigo 128
+;       8- Codigo 93
+;   Somar 128 ao valor, caso nao deseje imprimir o valor
+;   no codigo de barra
+;
+;
+; Valores Possiveis para o Atributo de Alinhamento
+;
+;         0         Alinhamento no Topo a Esquerda
+;         1         Centraliza horizontalmente
+;         2         Alinhamento a direita
+;         4         Alinhamento ao centro na vertical
+;         8         Alinhamento na base
+;         16        Quebra Palavra
+;         32        Linha Simples
+;
+; O conteudo (Texto) pode conter ou nao uma variavel. As variaveis
+; especiais devem ser definidas entre chaves ({}). Caso a variavel
+; seja definida com uma virgula e um numero, este indicara o tamanho
+; maximo do campo em caracteres (ex.: {DESCRICAO,20}, apenas os 20
+; primeiros caracteres serao utilizados.
+;
+; A lista de variaveis pode ser:
+;
+; {CODIGO}     - Codigo Interno do Produto
+; {EAN}        - Codigo de Barras do Produto
+; {EANOUCODIGO} - Se EAN definido, imprime EAN, caso contro o codigo interno
+; {DESCRICAO}  - Descricao do Produto
+; {PRECO}      - Preco do Produto
+; {PRECODESCONTO} - Preco com Desconto
+; {DESCONTO}   - Percentual de Desconto
+; {PRECOPROMOCAO} - Preco Promocional
+; {INDPROMOCAO}- Indicador de Promocao, caso o Desconto seja diferente de 0
+; {UNIDADE}    - Unidade do Produto
+; {NOMELOJA}   - Nome da Loja
+;
+
+;
+; Dados Adicionais de Inicializacao
+;
+
+[Campo001]
+Tipo=7
+Dimensao=0 0 0 0
+Cor=0 0 0
+Texto=SG{13}PG{13}R0000{13}W{13}^01
+Alinhamento=0
+Fonte=1
+EspessuraLinha=0
+
+;
+; Descricao do Produto: Primeira Linha
+;
+[Campo002]
+Tipo=0
+Dimensao=80 195 100 5
+Cor=0 0 0
+Texto={DESCRICAO1}
+Alinhamento=16
+Fonte=1
+EspessuraLinha=32
+
+;
+; Descricao do Produto: Primeira Linha
+;
+[Campo003]
+Tipo=0
+Dimensao=60 195 80 5
+Cor=0 0 0
+Texto={DESCRICAO2}
+Alinhamento=16
+Fonte=1
+EspessuraLinha=32
+
+;
+; Preco
+;
+[Campo004]
+Tipo=0
+Dimensao=20 195 40 60
+Cor=0 0 0
+Texto=R$ {PRECODESCONTO}
+Alinhamento=16
+Fonte=2
+EspessuraLinha=32
+

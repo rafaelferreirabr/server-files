@@ -1,0 +1,43 @@
+[Impressora]
+Info=28483 1408 1 121 3048 770 100 1 257 100 1 1 100 2              
+[Ordenacao1]
+Campo=1
+Quebra=0
+Tudo=1
+Pede=0
+Inicio=
+Fim=
+DifNulo=0
+[Ordenacao2]
+Campo=0
+Quebra=0
+Tudo=1
+Pede=0
+Inicio=
+Fim=
+DifNulo=0
+[Ordenacao3]
+Campo=0
+Quebra=0
+Tudo=1
+Pede=0
+Inicio=
+Fim=
+DifNulo=0
+[Fonte]
+Nome=Courier New
+Tamanho=16
+Tipo=0
+[Opcoes]
+Filtro=1 0              
+[Identificacao]
+Assinatura=JPAY
+Tipo=1
+Nome=CODIGO E DESC
+Decrescente=0
+ModoGrafico=1
+EmEscala=0
+PedeOpcoes=0
+[CamposAImprimir]
+001=1
+002=3

@@ -1,0 +1,87 @@
+BATATA LISA                                0000000199
+BATATINHA                                  0000000199
+BATATA ASTERIX                             0000000299
+CEBOLA                                     0000000249
+CEBOLA CX2                                 0000000149
+CENOURA                                    0000000199
+ALHO                                       0000001699
+TOMATE                                     0000000299
+PIMENTÃO                                   0000000399
+BATATA DOCE                                0000000199
+BETERRABA                                  0000000299
+INHAME                                     0000000799
+AIPIM                                      0000000399
+JILÓ                                       0000000499
+QUIABO                                     0000000499
+REPOLHO                                    0000000149
+PEPINO                                     0000000249
+PEPINO JAPONÊS                             0000000299
+VAGEM                                      0000000199
+NABO                                       0000000199
+COUVE FLOR                                 0000000250
+ABORORA                                    0000000350
+GENGIBRE                                   0000000699
+CEBOLA ROXA                                0000000399
+CHUCHU                                     0000000049
+BERINGELA                                  0000000299
+ABOBRINHA ITALIANA                         0000000149
+ABOBRINHA BRASILEIRA                       0000000199
+TOMATE MÉDIO                               0000000199
+TOMATE CEREJA                              0000000299
+VAGEM EMBALADA                             0000000299
+LARANJA PERA                               0000000299
+LARANJA LIMA                               0000000499
+LARANJA SELETA                             0000000399
+LIMÃO                                      0000000599
+TANGERINA POKAN                            0000000399
+TANGERINA MUKOT                            0000000199
+BANANA PRATA                               0000000349
+BANANA D'AGUA                              0000000399
+MAÇÃ NACIONAL                              0000000499
+MAÇÃ ARGENTINA                             0000001499
+ABACATE                                    0000000899
+MELÃO                                      0000000399
+MELÂNCIA                                   0000000249
+MAMÃO FORMOSA                              0000000399
+MAMÃO PAPAYA                               0000000149
+UVA RED GLOBE                              0000000999
+UVA SEM CAROÇO (CAMBUCADA)                 0000000499
+UVA ROSADA (CAMBUCADA)                     0000000499
+MORANGO                                    0000000299
+ABACAXI                                    0000000300
+COCO SECO                                  0000000999
+COCO VERDE                                 0000000300
+PÊRA                                       0000000999
+MANGA ESPADA                               0000000399
+MANGA TOMY                                 0000000299
+MANGA PALMER                               0000000399
+MARACUJÁ                                   0000000699
+GOIABA                                     0000000399
+LARANJA (SACO)                             0000000350
+PÊSSEGO                                    0000000499
+AMEIXA                                     0000000499
+OVOS EXTRA DUZIA                           0000000399
+LORO                                       0000000080
+ALFACE                                     0000000080
+COENTRO                                    0000000080
+CHEIRO VERDE                               0000000080
+ESPINAFRE                                  0000000080
+AGRIÃO                                     0000000080
+SALSA                                      0000000080
+CEBOLINHA                                  0000000080
+BROCULES                                   0000000199
+BRACULES AMERICANO                         0000000300
+COUVE                                      0000000080
+HORTELÃ                                    0000000080
+ALFACE CREPA                               0000000080
+ALFACE AMERICANA                           0000000200
+CHICORIA                                   0000000080
+RUCULA                                     0000000080
+MOSTARDA                                   0000000080
+OVOS EXTRA 1/2 DUZIA                       0000000200
+OVOS EXTRA CARTELA                         0000001000
+ALHO PORÓ                                  0000000199
+SALSÃO                                     0000000199
+ALECRIM                                    0000000199
+MANGERICÃO                                 0000000199
+PROMOÇÃO VERDURAS                          0000000200

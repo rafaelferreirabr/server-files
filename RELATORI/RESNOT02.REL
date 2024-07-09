@@ -1,0 +1,42 @@
+[Ordenacao1]
+Campo=4
+Quebra=1
+Tudo=1
+Pede=0
+Inicio=
+Fim=
+DifNulo=0
+
+[Ordenacao2]
+Campo=1
+Quebra=0
+Tudo=1
+Pede=0
+Inicio=
+Fim=
+DifNulo=0
+
+[Ordenacao3]
+Campo=0
+Quebra=0
+Tudo=1
+Pede=0
+Inicio=
+Fim=
+DifNulo=0
+
+[Opcoes]
+Filtro=1 0
+
+[Identificacao]
+Assinatura=JPAY
+Tipo=11
+Nome=Espelho das Notas de Entrada
+Descricao001=Impressão de Todos os Itens da Nota por Data de Entrada
+Decrescente=0
+ModoGrafico=1
+EmEscala=1
+PedeOpcoes=0
+
+[CamposAImprimir]
+001=4

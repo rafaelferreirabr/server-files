@@ -1,0 +1,159 @@
+;
+; Identificacao
+;
+;[Identificacao]
+;Assinatura=PLAY
+;Tipo=0           ; 0 para Produtos e 1 para Mala Direta
+;Nome=<nome-do-formato>
+;
+
+[Identificacao]
+Assinatura=PLAY
+Tipo=0
+Nome=Gondola - Pimaco/6180-25,4mm x 66,7
+
+;
+; Definicao do Formulario: Todas as Coordenadas e dimensoes em MM
+;
+; 0,0                +
+;  +-----------------> x
+;  |
+;  |
+;  |
+;  V Y +
+;
+;  [Formulario]
+;  Margens=<Esquerda> <Superior>  ; Posicao da Primeira Etiqueta
+;  Espacamento=<Horizontal> <Vertical> ; Espacamento entre etiquetas
+;  Dimensao=<Largura-da-Etiqueta> <Altura-Da-Etiqueta>
+;  Carreiras=<Numero-de-Colunas-de-Etiquetas>
+;  EtiquetasPorPagina=<Numero-de-Etiquetas-Por-Pagina>
+
+[Formulario]
+Margens=7 14
+Espacamento=3 0
+Dimensao=66.7 25.4
+Carreiras=3
+EtiquetasPorPagina=30
+
+;
+; Fontes de Caractere. Enumerar de 001 ate NNN. Os valores devem ser
+; sequencias
+;
+; <Tamanho> indica o corpo do caractere (8,10,12, etc)
+; <Atributo> indica o tipo de impressao, que pode ser:
+;            0 Caractere Normal
+;            1 Caractere Italico
+;            2 Caractere em Negrito
+;            4 Caractere Sublinhado
+;            8 Caractere Riscado
+;
+; Para utilizar mais de um tipo de formato, os valores devem ser adicionados,
+; como por exemplo: Negrito+Italico = 3
+;
+; <Angulo> Indica o angulo da letra. variando de 0 graus ate 360 graus.
+; <Nome-Da-Fonte> Indica o nome da fonte, tal qual apresentado pelo Windows
+;
+;
+; [Fontes]
+; 001=<Tamanho> <Atributo> <Angulo> <Nome-da-Fonte>
+; nnn=<Tamanho> <Atributo> <Angulo> <Nome-da-Fonte>
+
+[Fontes]
+001=8 0 0 Arial
+002=12 0 0 Arial
+003=10 1 0 Arial
+004=20 2 0 Times New Roman
+
+
+;
+; Campos de Impressao de cada etiqueta. Os Numeros devem ser
+; Sequencias, iniciando de 001
+;
+; Os Tipos podem ser:
+;
+; 0-Texto
+; 1-Borda
+; 2-Retangulo Cheio
+; 3-Linha
+;
+; Valores Possiveis para o Atributo de Alinhamento
+;
+;         0         Alinhamento no Topo a Esquerda
+;         1         Centraliza horizontalmente
+;         2         Alinhamento a direita
+;         4         Alinhamento ao centro na vertical
+;         8         Alinhamento na base
+;         16        Quebra Palavra
+;         32        Linha Simples
+;
+; O conteudo (Texto) pode conter ou nao uma variavel. As variaveis
+; especiais devem ser definidas entre chaves ({}). Caso a variavel
+; seja definida com uma virgula e um numero, este indicara o tamanho
+; maximo do campo em caracteres (ex.: {DESCRICAO,20}, apenas os 20
+; primeiros caracteres serao utilizados.
+;
+; A lista de variaveis pode ser:
+;
+; {CODIGO}     - Codigo Interno do Produto
+; {EAN}        - Codigo de Barras do Produto
+; {EANOUCODIGO} - Se EAN definido, imprime EAN, caso contro o codigo interno
+; {DESCRICAO}  - Descricao do Produto
+; {PRECO}      - Preco do Produto
+; {PRECODESCONTO} - Preco com Desconto
+; {DESCONTO}   - Percentual de Desconto
+; {PRECOPROMOCAO} - Preco Promocional
+; {INDPROMOCAO}- Indicador de Promocao, caso o Desconto seja diferente de 0
+; {UNIDADE}    - Unidade do Produto
+; {NOMELOJA}   - Nome da Loja
+;
+;
+; Codigo do Produto
+;
+[Campo001]
+Tipo=0
+Dimensao=34 1 64 5
+Cor=0 0 0
+Texto={EANOUCODIGO}
+Alinhamento=34
+Fonte=1
+EspessuraLinha=0
+
+;
+; Descricao do Produto
+;
+[Campo002]
+Tipo=0
+Dimensao=2 5 64 16
+Cor=0 0 0
+Texto={DESCRICAO}
+Alinhamento=16
+Fonte=2
+EspessuraLinha=0
+
+;
+; Indicador de Promocao
+;
+[Campo003]
+Tipo=0
+Dimensao=2 16 32 25
+;Cor=128 0 0
+Cor=0 0 0
+; Promoção
+Texto={INDPROMOCAO}De: R$ {PRECO} Por:
+Alinhamento=38
+Fonte=3
+EspessuraLinha=0
+
+;
+; PRECO
+;
+[Campo004]
+Tipo=0
+Dimensao=33 15 63 23
+Cor=0 0 0
+Texto=R$ {PRECODESCONTO}
+Alinhamento=34
+Fonte=4
+EspessuraLinha=0
+

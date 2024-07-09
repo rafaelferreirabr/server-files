@@ -1,0 +1,45 @@
+[Ordenacao1]
+Campo=3
+Quebra=0
+Tudo=1
+Pede=0
+Inicio=
+Fim=
+DifNulo=0
+
+[Ordenacao2]
+Campo=0
+Quebra=0
+Tudo=1
+Pede=0
+Inicio=
+Fim=
+DifNulo=0
+
+[Ordenacao3]
+Campo=0
+Quebra=0
+Tudo=1
+Pede=0
+Inicio=
+Fim=
+DifNulo=0
+
+[Opcoes]
+Filtro=1 1024
+
+[Identificacao]
+Assinatura=JPAY
+Tipo=1
+Nome=Tabela de Preços Seletiva
+Descricao001=Tabela de Preço de Venda, com Seleção de Produtos um-a-um
+Decrescente=0
+ModoGrafico=1
+EmEscala=1
+PedeOpcoes=0
+
+[CamposAImprimir]
+001=1
+002=2
+003=3
+004=5

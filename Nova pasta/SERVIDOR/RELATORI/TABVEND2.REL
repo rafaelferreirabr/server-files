@@ -1,0 +1,51 @@
+[Ordenacao1]
+Campo=3
+Quebra=0
+Tudo=1
+Pede=0
+Inicio=
+Fim=
+DifNulo=0
+
+[Ordenacao2]
+Campo=0
+Quebra=0
+Tudo=1
+Pede=0
+Inicio=
+Fim=
+DifNulo=0
+
+[Ordenacao3]
+Campo=0
+Quebra=0
+Tudo=1
+Pede=0
+Inicio=
+Fim=
+DifNulo=0
+
+[Opcoes]
+Filtro=1 0 
+
+
+[Identificacao]
+Assinatura=JPAY
+Tipo=1
+Nome=Tabela de Preços Descrição
+Descricao001=Tabela de Preço de Venda, ordenado por Descrição do produto
+Decrescente=0
+ModoGrafico=1
+EmEscala=1
+PedeOpcoes=0
+[Impressora]
+Info=28483 1408 1 121 3048 770 100 1 15 100 1 1 100 2 
+[CamposAImprimir]
+001=1
+002=2
+003=3
+004=5
+[Fonte]
+Nome=Courier New
+Tamanho=12
+Tipo=0

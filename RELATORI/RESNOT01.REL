@@ -1,0 +1,45 @@
+[Ordenacao1]
+Campo=1
+Quebra=0
+Tudo=1
+Pede=0
+Inicio=
+Fim=
+DifNulo=0
+
+[Ordenacao2]
+Campo=0
+Quebra=0
+Tudo=1
+Pede=0
+Inicio=
+Fim=
+DifNulo=0
+
+[Ordenacao3]
+Campo=0
+Quebra=0
+Tudo=1
+Pede=0
+Inicio=
+Fim=
+DifNulo=0
+
+[Opcoes]
+Filtro=0 0
+
+[Identificacao]
+Assinatura=JPAY
+Tipo=11
+Nome=Resumo das Notas por Número
+Descricao001=Resumo das Notas de Entrada ordenado por Número da Nota
+Decrescente=0
+ModoGrafico=1
+EmEscala=1
+PedeOpcoes=0
+
+[CamposAImprimir]
+001=1
+002=2
+003=4
+004=6

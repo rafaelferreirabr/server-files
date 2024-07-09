@@ -1,0 +1,53 @@
+[Ordenacao1]
+Campo=3
+Quebra=0
+Tudo=1
+Pede=0
+Inicio=
+Fim=
+DifNulo=0
+
+[Ordenacao2]
+Campo=0
+Quebra=0
+Tudo=1
+Pede=0
+Inicio=
+Fim=
+DifNulo=0
+
+[Ordenacao3]
+Campo=0
+Quebra=0
+Tudo=1
+Pede=0
+Inicio=
+Fim=
+DifNulo=0
+
+[Opcoes]
+Filtro=1 0
+Filtro2=1
+
+[Identificacao]
+Assinatura=JPAY
+Tipo=2
+Nome=Relatório de Compras
+Descricao001=Estoque Atual, Ordenado Descrição, abaixo do Mínimo,
+Descricao002=indicando o total a comprar.
+Decrescente=0
+ModoGrafico=1
+EmEscala=1
+PedeOpcoes=0
+
+[CamposAImprimir]
+001=1
+002=2
+003=3
+004=15
+005=22
+006=23
+007=30
+
+[Redefinicao]
+001=Comprar 30 10 2 1

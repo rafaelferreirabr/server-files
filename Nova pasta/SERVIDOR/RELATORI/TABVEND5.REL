@@ -1,0 +1,50 @@
+[Ordenacao1]
+Campo=18
+Quebra=1
+Tudo=1
+Pede=0
+Inicio=
+Fim=
+DifNulo=0
+
+[Ordenacao2]
+Campo=3
+Quebra=0
+Tudo=1
+Pede=0
+Inicio=
+Fim=
+DifNulo=0
+
+[Ordenacao3]
+Campo=0
+Quebra=0
+Tudo=1
+Pede=0
+Inicio=
+Fim=
+DifNulo=0
+
+[Opcoes]
+Filtro=1 512
+
+[Identificacao]
+Assinatura=JPAY
+Tipo=1
+Nome=Produtos por Fornecedor
+Descricao001=Tabela de Produtos Ordenada por Fornecedores
+Decrescente=0
+ModoGrafico=1
+EmEscala=1
+PedeOpcoes=0
+
+[CamposAImprimir]
+001=1
+002=2
+003=3
+004=4
+005=5
+
+[Redefinicao]
+001=Custo 4 10 2 2
+002=Preço 5 10 2 2

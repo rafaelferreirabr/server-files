@@ -1,0 +1,220 @@
+
+MultiPDV 1.63  - LEIA-ME
+------------------------
+Em 20 de Novembro de 1998
+
+  Este arquivo contem informacoes adicionais do Sistema MultiPDV, que
+  constam em nenhuma parte de sua documentacao ate a presente data. Por
+  motivos de compatibilidade, este arquivo nao contem nenhum tipo
+  de acentuacao ou caractere especial, permitindo sua leitura
+  em qualquer tipo de ambiente diferente do Windows.
+
+
+Este arquivo contem as seguintes informacoes:
+
+  - Historico das Versoes
+  - Novas Funcoes desta versao
+  - Utilizacao da Senha Mestre
+  - Base de Dados Padrao
+  - Atualizacao e Desinstalacao do Sistema
+
+
+1) Historico das Versoes
+
+  Implementacao a Partir da Versao 1.63 (26/1/99)
+
+    - Suporte a Impressora Fiscal Sigtron Modelo FS-315 e FS-300
+    - O Sistema permite a utilizacao de ate 5 tabelas de preco
+      adicional, alem do Preco Final do Produto
+
+  Implementacao a Partir da Versao 1.62i (7/1/99)
+
+    - A entrada de Nota Fiscal passa a aceitar a especificacao de
+      itens adicionais, tais como IPI, Desconto, Frete, etc. Para
+      utilizar esta especificacao, deve-se acessar o botao OUTROS
+      a partir da edicao da Nota Fiscal.
+
+  Implementacao a Partir da Versao 1.62c (2/12/98):
+
+    - Passa a aceitar a venda de precos com 3 casas decimais:
+      Para isso foi incluido no cadastro de produtos o campo Preco Especial
+      o qual aceita 3 casas decimais. Alem disto, o campo deve ser
+      marcado com Solicita Preco no processo de venda, e a unidade,
+      no caso de combustivel deve ser L (litro). Quando o item for vendido,
+      sera solicitado o preco total do item, e o programa se encarregara
+      de efetuar a divisao pelo preco unitario e transforma a
+      descricao, composta da quantidade. A unidade passa ser UN.
+
+      Por exemplo: Supondo o produto 1 como sendo Gasolina Comum, com
+      preco especial de 0.899 e Solicita Preco ligado, bem como a unidade
+      definida por L., quando da venda do produto, sera solicitado o valor
+      total vendido, como por exemplo 21,50. O item descrito e vendido sera
+      de uma unidade com a seguinte descricao:
+
+          000001 23,915 L Gasolina Comum
+                 UN 1 x 21,50..................21,50
+
+    - A impressao de etiquetas, a partir cadastro de produtos ou do
+      estoque, pode ser feita a reespecificacao da descricao do produto.
+      Para verificar tal implementacao, basta solicitar a impressao de
+      uma etiqueta a partir do cadastro de produtos.
+
+  Implementacoes Versao 1.62 (20/11/98):
+
+    - Incluido os atributos especiais para os produtos de Balanca, permitindo
+      especificar Tecla de Associacao, Codigo da Receita, Dias de Validade e
+      Nome do Setor. Ate esta versao, apenas o concentrador de Balanca Filizola
+      PGR possui a interpretacao destes novos parametros. No caso da definicao
+      do Setor (diferente de branco), este sera assumido para a carga,
+      sendo ignorada a configuracao local de mapeamento de departamentos.
+      Alem destas definicoes, podemos indicar se o produto deve ser carregado
+      ou nao no concentrador. O padrao e SIM.
+    - Criado nova funcao de Movimento: Circulacao de Produtos. Esta funcao
+      apresenta as mesmas informacoes de Movimento de Vendas, porem inclui
+      tambem o total de compras efetuadas (Numero de Itens, Valor Total Comprado
+      e o Custo Medio baseado na compra do periodo.
+    - Ao ser solicitado o botao Compras no cadastro de produto ou no estoque,
+      passa a ser apresentada a quantidade comprada, o custo medio e o total
+      comprado. Alem disto, pode-se redefinir um periodo de analise.
+    - Nas funcoes que suportam a pesquisa atraves da lista de selecao, como
+      eh o caso da funcao de remarcacao de precos, foi adicionado o recurso
+      de procura por palavra (subtexto) no campo descricao. Para acessar
+      deve ser selecionado o botao Procurar, e definir o campo de pesquisa
+      como sendo Palavra (SubTexto). Poderao ser definida 2 frases que serao
+      procuradas em qualquer parte da Descricao. Por exemplo, se
+      for solicita a procura da palavra FRALDA, onde quer que ela apareca
+      na descricao, sera adicionado na lista o produto em questao.
+    - Refeita a funcao de Recalculo de Estoque, a qual tambem verifica
+      todas as compras efetuadas, e o valor de contagem do ultimo inventario.
+
+
+  Implementacoes Versao 1.60 (4/9/98):
+
+    - Programa de Instalacao e Desinstalacao (Maiores detalhes a seguir)
+    - Definicao e utilizacao da Senha Mestre (Maiores detalhes a seguir)
+    - Se o cliente for solicitado no inicio da venda, sua definicao
+      nao sera obrigatoria. Para nao especificar o cliente neste ponto,
+      deve-se pressionar ENTER puro, e o cliente sera ignorado. Para
+      efetuar a consulta ao cadastro de clientes, deve-se pressionar
+      F9 (consulta) ou F10 (lista simplificada). Se o cliente for
+      definido, todas as criticas necessarias serao efetuadas normalmente.
+    - O Terminal de venda pode operar apenas para as funcoes de orcamento
+      e/ou fichas. Ou seja, pode operar sem os processos de venda normais
+      (abertura, reducao z, entrada de operador, etc.)
+      Alem disto, pode-se especificar qual a funcao primaria do terminal
+      de venda, que pode ser: Iniciar em Orcamento, ou Iniciar em modo Ficha.
+      Estas opcoes encontram-se na tela de configuracao do Terminal de Venda.
+      Para desabilitar a funcao de venda do terminal, ela somente surtira
+      efeito quando o caixa estiver FECHADO. Caso esta opcao tenha sido
+      ativada com o caixa aberto, ela entrara em acao apos o fechamento do
+      caixa. Neste modo de operacao, o terminal de venda nao gera nenhum
+      tipo de LOG de operacoes, porem os processos de impressao de
+      cupons de relatorios podera ser utilizados normalmente.
+    - Nova opcao de configuracao de Orcamento, que permite apagar o orcamento
+      do disco apos a concretizacao de sua venda.
+
+   Correcoes na Versao 1.60 (4/9/98)
+
+    - Impressao do Orcamento na constava o Digito Verificador
+    - Em alguns casos, o cupom de orcamento lido continha produtos
+      indicados como nao cadastrados incorretamente
+    - Quando uma das funcoes adicionais do caixa (recebimento, orcamento ou
+      ficha) estavam desativadas, o terminal de venda entrava em um loop
+      infinito. Agora o terminal apresenta a mensagem: "Funcao Nao Disponivel",
+      caso tenha sido solicitada uma funcao nao configurada.
+    - No administrador, havia uma inconsistencia da ordenacao apresentada
+      pelas funcoes de edicao atraves do bota Lista.
+
+
+2) Utilizacao da Senha Mestre
+
+  No processo de Instalacao, caso nao exista o cadastro de uma Senha Mestre,
+  a mesma sera solicitada. Esta senha comando todo o ambiente local instalado,
+  principalmente quando nao houver acesso disponivel ao cadastro de usuarios.
+  Ela podera ser utilizada em todos os modulos, quando solicitada a
+  identificacao e senha. A partir do Modulo Administrador, pode-se alterar
+  a Senha Mestre atraves da funcao "Alterar Senha" do Menu Principal. Para
+  tanto, deve-se especificar a identificacao e a senha Mestre no inicio da
+  execucao do Administrador.
+
+  Apenas o programa de instalacao cria a Senha Mestre. Caso voce esqueca
+  a identificacao e/ou a senha definida, voce deve desinstalar todo o
+  Sistema, e efetuar sua reinstalacao. Como o programa Instalador permite
+  a criacao de uma nova senha, e esta por sua vez da acesso a todo o Sistema,
+  recomendamos que os Discos de Instalacao fiquem bem guardados, evitando
+  qualquer tipo de violacao de informacoes por pessoas nao credenciadas.
+
+  Na Primeira instalacao do Modulo Administrador, e instalado um cadastro
+  de usuarios com apenas um usuario do tipo Gerente, com a seguinte
+  identificacao e senha:
+
+          Identificacao: 1
+          Senha        : 1
+
+  A partir deste ponto, o operador podera alterar o cadastro de usuarios
+  permitindo a redefinicao desta identificacao e da senha.
+
+  Na primeira execucao, com uma nova base de dados, voce somente podera
+  entrar no sistema atraves da definicao da Senha Mestre.
+
+3) Atualizacao e Desinstalacao
+
+  O Instalador do MultiPDV, permite efetuar os procedimentos
+  de instalacao, atualizacao e desinstalacao de todo o Sistema. Quando
+  o Instalador for executado, a instalacao corrente sera verificada, e somente
+  os modulos mais recentes serao copiados. Isto permite efetuar os procedimentos
+  de atualizacao, caso haja uma versao mais recente da instalada.
+
+  Para desinstalar todos os componentes do MultiPDV, deve-se executar
+  o INSTALA a partir do disco de instalacao, e selecionar a
+  opcao "Desinstalar Tudo" quando apresentada. Por motivos de seguranca,
+  a base de dados nao sera removida. Para tal voce deve proceder manualmente
+  sua remocao da seguinte forma:
+
+     a) Atraves do Aviso de Comandos do MS-DOS
+
+       - Acesse o aviso de comando do MS-DOS
+       - Digite a seguinte sequencia, supondo que a base de dados
+         esta instalada no diretorio C:\SERVIDOR
+
+            c:
+            deltree \SERVIDOR
+
+       - Todos os comandos deve ser seguidos do pressionamento da tecla ENTER.
+       - Sera solicitada uma confirmacao, pelo MS-DOS, antes da remocao
+         do diretorio de dados.
+       - O mesmo deve ser efetuado para a remocao da base de dados local
+         do terminal. Supondo que os dados do terminal de venda, ou de
+         consulta, estejam no diretorio C:\TERMINAL, execute os seguintes
+         comandos:
+
+            c:
+            deltree \TERMINAL
+
+     b) Atraves do Windows Explorer (Windows 95/98) ou Gerenciador de Arquivos
+
+       - Posicione a barra de selecao sobre a pasta C:\SERVIDOR
+       - Pressione a tecla DEL
+       - Confirme todas as possiveis solicitacoes de remocao
+
+       O mesmo deve ser feito para o diretorio local de dados, porem
+       deve-se posicionar a barra de selecao sobre a pasta C:\TERMINAl.
+
+
+4) Base de Dados
+
+  Na primeira instalacao, o Instalador cria uma base de dados padrao no
+  diretorio de dados do Administrador (Retaguarda). Somente serao copiados
+  os arquivos que ainda nao existam na base atual. Portanto, a base instalada
+  sempre prevalecera.
+
+  Apos a instalacao, e na primeira chamada ao programa Administrador MultiPDV,
+  sera efetuada uma manutencao dos arquivos de dados, permitindo efetuar
+  a reindexacao dos arquivos, e atualizar eventuais estruturas de arquivos.
+
+  Caso algum cadastro nao exista na base de dados, o sistema solicitara
+  ao operador a confirmacao de sua criacao.
+
+
+  ======================== FIM DO LEIA-ME =================================
+

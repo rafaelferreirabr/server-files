@@ -1,0 +1,264 @@
+PLU200400000026320240709100138
+ABACATE                                 0000211
+ABACATE PROMOÇÃO                        0002110
+ABACAXI                                 0000220
+ABACAXI(PROMOÇÃO)                       0000232
+ABOBORA                                 0000122
+ABOBORA PROMOÇÃO                        0001220
+ABOBRINHA BRASILEIRA                    0000128
+ABOBRINHA ITALIANA                      0000127
+AÇAFRÃO                                 0000409
+ACHOCOLATADO                            0000542
+AÇUCAR                                  0000551
+AGRIÃO                                  0000307
+AGUA DE COCO GARRAFA 500ML              0000560
+AGUA MINERAL 1,5L                       0000555
+AGUA MINERAL S/G 500ML                  0000552
+AIPIM                                   0000113
+ALECRIM                                 0000323
+ALECRIM                                 0000408
+ALFACE                                  0000303
+ALFACE AMERICANA                        0000315
+ALHO                                    0000107
+ALHO FRITO                              0000419
+ALHO PORÓ                               0000321
+ALHO PROMOÇÃO                           0001070
+ALHO SOLTO                              0000141
+AMEIXA IMPORTADA                        0000265
+AMEIXA PEQUENA                          0000234
+AMENDOIM DOCE                           0000548
+Amora Caixa                             0000253
+ARROZ 1KG                               0000525
+ATMOIA                                  0000249
+AVEIA                                   0000540
+BANANA DA TERRA                         0000246
+BANANA DA TERRA PROMOCAO                0002460
+BANANA D'AGUA                           0000208
+BANANA D'AGUA PROMOCAO                  0002080
+BANANA PRATA                            0000207
+BANANA PRATA PROMOÇÃO                   0002070
+BANDEJA                                 0000502
+BANDEJA IZOPOR                          0000611
+BATATA ASTERIX                          0001030
+BATATA BAROA                            0000136
+BATATA CAROÇO                           0000102
+BATATA CAROÇO                           0001020
+BATATA DOCE BRANCA                      0000137
+BATATA DOCE PROMOÇÃO                    0001100
+BATATA LISA                             0000101
+BATATA LISA (PROMOCAO)                  0001010
+BERINGELA                               0000126
+BETERRABA                               0000111
+BETERRABA                               0001110
+BISCOITO ARTESANAL                      0000544
+BISCOITO CREAM CRACKER                  0000532
+BISCOITO MAIZENA                        0000533
+BISCOITO ROSQUINHA                      0000534
+BOBINA DE PAPEL(IMPRESSORA)             0000607
+BOBINA SAQUINHO TAM "M"                 0000604
+BOLINHO DE BACALHAU                     0000509
+BOLINHO DE CAMARÃO                      0000510
+BOLSA 20X35(MILHEIRO)                   0000603
+BOLSA 40X50(MILHEIRO)                   0000602
+BOLSA PLASCOL                           0000601
+BROCULES                                0000310
+BROCULES AMERICANO                      0000311
+Cajá                                    0000245
+CAJU                                    0000247
+CANELA EM PAU                           0000406
+CANELA EM PÓ                            0000405
+CANETA                                  0000613
+CANJICA                                 0000546
+CAQUI                                   0000243
+CAQUI FUYU                              0000256
+CAQUI PROMOÇÃO                          0002430
+CARA                                    0000133
+CARAMBOLA                               0000242
+CARREGADOR                              0000616
+CARVÃO                                  0000503
+CEBOLA                                  0000104
+CEBOLA CX2                              0000105
+CEBOLA ROXA                             0000124
+CEBOLINHA                               0000309
+CENOURA                                 0000106
+CENOURA PROMOÇÃO                        0001060
+CEREJA                                  0000238
+CHEIRO VERDE                            0000305
+CHICORIA                                0000316
+CHIMICHURRI                             0000417
+CHUCHU                                  0000125
+CHUCHU PROMOÇÃO                         0001250
+CLORO                                   0000501
+COCA COLA LATA                          0000554
+COCADA                                  0000557
+COCO SECO                               0000221
+COCO VERDE                              0000222
+COCO VERDE PROMOÇÃO                     0000252
+COENTRO                                 0000304
+COENTRO                                 0000407
+COLORAL                                 0000411
+COMÉIA DE OVOS                          0000609
+COMEIA IZOPOR OVOS                      0000610
+COMINHO                                 0000401
+COUVE                                   0000312
+COUVE FLOR                              0000121
+CRAVO                                   0000410
+CURRY                                   0000412
+DOCE DE LEITE                           0000513
+ERVA DOCE                               0000415
+ERVILHA                                 0000328
+ESPINAFRE                               0000306
+EXTRATO DE TOMATE                       0000530
+FARINHA DE MANDIOCA                     0000550
+FEIJÃO 1KG                              0000524
+FEIJÃO MARRON                           0000559
+FERMENTO                                0000543
+FITA DUREX                              0000614
+FITILHO                                 0000606
+GAS                                     0000618
+GENGIBRE                                0000123
+GOIABA                                  0000228
+GOIABA PROMOCAO                         0002280
+GOIABADA                                0000512
+GRAVIOLA                                0000250
+GUARAVITA                               0000553
+GUARAVITON                              0000563
+HORTELÃ                                 0000313
+INHAME                                  0000112
+INHAME PROMOÇÃO                         0001120
+Iogurte Integral                        0000538
+JILÓ                                    0000114
+JILO PROMOÇÃO                           0001140
+KIWI                                    0000233
+KIWI POR KILO                           0002330
+LARANJA (SACO)                          0000229
+LARANJA BAHIA                           0000255
+LARANJA LIMA                            0000202
+LARANJA LIMA PROMOÇÃO                   0002020
+LARANJA NATAL                           0000262
+LARANJA PERA                            0000201
+LARANJA PÊRA PROMOÇÃO                   0002010
+LARANJA SELETA                          0000203
+LEITE CX 1LITRO                         0000529
+LICHIA                                  0000240
+LIMÃO                                   0000204
+LIMÃO PROMOÇÃO                          0002040
+LIMÃO SICILIANO                         0000254
+LINGUIÇA 500G                           0000511
+LORO                                    0000302
+LOURO EM PÓ                             0000416
+MAÇÃ NACIONAL                           0000209
+MAÇÃ PROMOÇÃO                           0000248
+MACÃ RED                                0000263
+MAÇÃ VERDE                              0000235
+MACARRÃO DE SOPA 500G                   0000528
+MACARRÃO ESPAGUETE 500G                 0000526
+MACARRÃO PARAFUSO                       0000541
+MACARRÃO TALHARIM 500G                  0000527
+MAIONESE 200ML                          0000556
+MAMÃO FORMOSA                           0000214
+MAMÃO FORMOSA PROMOÇÃO                  0002140
+MAMÃO PAPAYA                            0000215
+MAMÃO PAPAYA PROMOÇÃO                   0002150
+MANGA ESPADA                            0000224
+MANGA PALMER                            0000226
+MANGA PALMER PROMOÇÃO                   0002260
+MANGA TOMY                              0000225
+MANGERICÃO                              0000324
+MANJERICÃO                              0000413
+MANTEIGA                                0000515
+MARACUJA                                0000227
+MAXIXE                                  0000138
+Mel 1 Litro                             0000507
+Mel 210ml                               0000505
+Mel 500ml                               0000506
+MELÂNCIA                                0000213
+MELANCIA UNIDADE                        0000236
+MELANCIA UNIDADE PROMOÇÃO               0002360
+MELÃO                                   0000212
+MELAO REI                               0000258
+MELAO SAPO                              0000259
+MELÃO SAPO                              0000120
+MERCADO PROMOÇÃO                        0000549
+MILHO VERDE                             0000134
+MIXIRICA                                0000257
+MOLHO DE PIMENTA GARRAFA                0000517
+MORANGO                                 0000219
+MOSTARDA                                0000318
+ÓLEO DE SOJA                            0000539
+OREGANO                                 0000404
+OVO DE CODORNA                          0000326
+OVO UNIDADE                             0000327
+OVO VERMELHO 1 DUZIA                    0000329
+OVOS GRANDE CARTELA                     0000330
+OVOS JUMBO 1/2 DUZIA                    0000319
+OVOS JUMBO CARTELA                      0000320
+OVOS JUMBO DUZIA                        0000301
+PAPEL A4                                0000615
+PAPRICA                                 0000420
+PEPINO                                  0000117
+PEPINO JAPONÊS                          0000118
+PEPIONO JAPONE PROMOÇÃO                 0001180
+PÊRA                                    0000223
+PÊSSEGO                                 0000230
+PESSEGO PEQUENO                         0000264
+PICOLE                                  0000600
+PILOTO                                  0000612
+PIMENTA CALABRESA                       0000403
+PIMENTA DO REINO                        0000402
+PIMENTA GARRAFA                         0000516
+PIMENTÃO                                0000109
+PIMENTÃO COLORIDO                       0000132
+PIMENTAO PROMOCAO                       0001090
+PINHA                                   0000244
+PITAIA                                  0000260
+PLACA DE PREÇO                          0000617
+PROMOCAO VERDURAS                       0000325
+QUEIJO                                  0000508
+QUEIJO DESIDRATADO                      0000547
+QUEIJO MEIA CURA MEIA PEÇA              0000522
+QUEIJO MEIA CURA MEIA PEÇA (VACUO)      0000562
+QUEIJO MEIA CURA PEÇA INTEIRA           0000523
+QUEIJO METADE                           0000537
+QUEIJO MUSSARELA NOZINHO                0000521
+QUEIJO NAPOLITANO                       0000520
+QUEIJO PROVOLONE DESIDRATADO            0000531
+QUEIJO RICOTA                           0000535
+QUEIJO TIPO REINO                       0000518
+QUEIJO TIRA GOSTO                       0000536
+QUEJI MUSSARELA PALITO                  0000519
+QUEJO MEIA CURA PEÇA (VACUO)            0000561
+QUIABO                                  0000115
+QUIABO PROMOÇÃO                         0001150
+RAPADURA                                0000545
+REPOLHO                                 0000116
+REPOLHO ROXO                            0000140
+REQUEIJÃO                               0000558
+ROLO PVC (PLÁSTICO FILME)               0000605
+RUCULA                                  0000317
+SAL GROSSO TEMPERADO                    0000514
+SALSA                                   0000308
+SALSA DESIDRATADA                       0000418
+SALSÃO                                  0000322
+SAQUINHO DE PAPEL                       0000608
+SUCO 500                                0000504
+TANGERINA MURCOTE                       0000206
+TANGERINA POKAN                         0000205
+TANGERINA POKAN PROMOCAO                0002050
+TAXA DE ENTREGA                         0000619
+TOMATE                                  0000108
+TOMATE CEREJA                           0000130
+TOMATE ITALIANO                         0000139
+TOMATE MEDIO                            0000129
+TOMATE PROMOÇÃO                         0001080
+TOMILHO                                 0000414
+UVA ITALIA                              0000237
+UVA RED GLOB                            0000216
+UVA ROSADA (CAMBUCADA)                  0000218
+UVA ROSADA / PRETINHA                   0000239
+UVA ROSADA PROMOCAO                     0002180
+UVA S/CAROÇO                            0000241
+UVA SEM CAROÇO (CAMBUCADA) TOMPSON      0000217
+UVA VITORIA CAMBUCADA                   0000261
+VAGEM                                   0000119
+VAGEM EMBALADA                          0000131

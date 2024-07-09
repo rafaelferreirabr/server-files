@@ -1,0 +1,89 @@
+PLU200400000008820161122103705
+ABACATE                                 0000211
+ABACAXI                                 0000220
+ABACAXI(PROMOÇÃO)                       0000232
+ABOBRINHA BRASILEIRA                    0000128
+ABOBRINHA ITALIANA                      0000127
+ABORORA                                 0000122
+AGRIÃO                                  0000307
+AIPIM                                   0000113
+ALECRIM                                 0000323
+ALFACE                                  0000303
+ALFACE AMERICANA                        0000315
+ALFACE CREPA                            0000314
+ALHO                                    0000107
+ALHO PORÓ                               0000321
+AMEIXA                                  0000231
+BANANA D'AGUA                           0000208
+BANANA PRATA                            0000207
+BATATA ASTERIX                          0000103
+BATATA DOCE                             0000110
+BATATA LISA                             0000101
+BATATINHA                               0000102
+BERINGELA                               0000126
+BETERRABA                               0000111
+BRACULES AMERICANO                      0000311
+BROCULES                                0000310
+CEBOLA                                  0000104
+CEBOLA ROXA                             0000124
+CEBOLINHA                               0000309
+CEBOLINHA                               0000105
+CENOURA                                 0000106
+CHEIRO VERDE                            0000305
+CHICORIA                                0000316
+CHUCHU                                  0000125
+COCO SECO                               0000221
+COCO VERDE                              0000222
+COENTRO                                 0000304
+COUVE                                   0000312
+COUVE FLOR                              0000121
+ESPINAFRE                               0000306
+GENGIBRE                                0000123
+GOIABA                                  0000228
+HORTELÃ                                 0000313
+INHAME                                  0000112
+JILÓ                                    0000114
+LARANJA (SACO)                          0000229
+LARANJA LIMA                            0000202
+LARANJA PERA                            0000201
+LARANJA SELETA                          0000203
+LIMÃO                                   0000204
+LORO                                    0000302
+MAÇÃ ARGENTINA                          0000210
+MAÇÃ NACIONAL                           0000209
+MAMÃO FORMOSA                           0000214
+MAMÃO PAPAYA                            0000215
+MANGA ESPADA                            0000224
+MANGA PALMER                            0000226
+MANGA TOMY                              0000225
+MANGERICÃO                              0000324
+MARACUJÁ                                0000227
+MELÂNCIA                                0000213
+MELÃO                                   0000212
+MORANGO                                 0000219
+MOSTARDA                                0000318
+NABO                                    0000120
+OVOS EXTRA 1/2 DUZIA                    0000319
+OVOS EXTRA CARTELA                      0000320
+OVOS EXTRA DUZIA                        0000301
+PEPINO                                  0000117
+PEPINO JAPONÊS                          0000118
+PÊRA                                    0000223
+PÊSSEGO                                 0000230
+PIMENTÃO                                0000109
+PROMOÇÃO VERDURAS                       0000325
+QUIABO                                  0000115
+REPOLHO                                 0000116
+RUCULA                                  0000317
+SALSA                                   0000308
+SALSÃO                                  0000322
+TANGERINA MUKOT                         0000206
+TANGERINA POKAN                         0000205
+TOMATE                                  0000108
+TOMATE CEREJA                           0000130
+TOMATINHO                               0000129
+UVA RED GLOBE                           0000216
+UVA ROSADA (CAMBUCADA)                  0000218
+UVA SEM CAROÇO (CAMBUCADA)              0000217
+VAGEM                                   0000119
+VAGEM EMBALADA                          0000131

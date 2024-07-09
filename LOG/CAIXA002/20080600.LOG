@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<assembly xmlns="urn:schemas-microsoft-com:asm.v3" manifestVersion="1.0" copyright="Copyright (c) Microsoft Corporation. All Rights Reserved.">
+  <assemblyIdentity name="Microsoft-Windows-UPnPSSDP" version="6.1.7600.16385" processorArchitecture="x86" language="neutral" buildType="release" publicKeyToken="31bf3856ad364e35" versionScope="nonSxS" />
+  <dependency discoverable="no" resourceType="Resources">
+    <dependentAssembly>
+      <assemblyIdentity name="Microsoft-Windows-UPnPSSDP.Resources" version="6.1.7600.16385" processorArchitecture="x86" language="*" buildType="release" publicKeyToken="31bf3856ad364e35" />
+    </dependentAssembly>
+  </dependency>
+  <file name="ssdpapi.dll" destinationPath="$(runtime.system32)\" sourceName="ssdpapi.dll" sourcePath=".\" importPath="$(build.nttree)\">
+    <securityDescriptor name="WRP_FILE_DEFAULT_SDDL" />
+    <asmv2:hash xmlns:asmv2="urn:schemas-microsoft-com:asm.v2">
+      <dsig:Transforms xmlns:dsig="http://www.w3.org/2000/09/xmldsig#">
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue xmlns:dsig="http://www.w3.org/2000/09/xmldsig#">qVF5Bo97huBPl2tyTxVdqGJTt/RBT0Pb2V8gWCgrmeQ=</dsig:DigestValue>
+    </asmv2:hash>
+  </file>
+  <file name="ssdpsrv.dll" destinationPath="$(runtime.system32)\" sourceName="ssdpsrv.dll" sourcePath=".\" importPath="$(build.nttree)\">
+    <securityDescriptor name="WRP_FILE_DEFAULT_SDDL" />
+    <asmv2:hash xmlns:asmv2="urn:schemas-microsoft-com:asm.v2">
+      <dsig:Transforms xmlns:dsig="http://www.w3.org/2000/09/xmldsig#">
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue xmlns:dsig="http://www.w3.org/2000/09/xmldsig#">84utkOx5E2jDfCEJAwJwjS37g+zpCWYJrZqmZ7LlWS4=</dsig:DigestValue>
+    </asmv2:hash>
+  </file>
+  <file name="ssdpsrv.mof" destinationPath="$(runtime.wbem)\" sourceName="ssdpsrv.mof" sourcePath=".\" importPath="$(build.nttree)\">
+    <securityDescriptor name="WRP_FILE_DEFAULT_SDDL" />
+    <asmv2:hash xmlns:asmv2="urn:schemas-microsoft-com:asm.v2">
+      <dsig:Transforms xmlns:dsig="http://www.w3.org/2000/09/xmldsig#">
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue xmlns:dsig="http://www.w3.org/2000/09/xmldsig#">o9nVMLMPcuOcJLSaL8F1oUCUm7Z1MTpw+lzG4/rMPwE=</dsig:DigestValue>
+    </asmv2:hash>
+  </file>
+  <memberships>
+    <categoryMembership>
+      <id name="Microsoft.Windows.Categories.Services" version="6.1.7600.16385" publicKeyToken="31bf3856ad364e35" typeName="Service" />
+      <categoryInstance subcategory="SSDPSRV">
+        <serviceData name="SSDPSRV" displayName="@%systemroot%\system32\ssdpsrv.dll,-100" errorControl="normal" imagePath="%SystemRoot%\system32\svchost.exe -k LocalServiceAndNoImpersonation" start="demand" type="win32ShareProcess" description="@%systemroot%\system32\ssdpsrv.dll,-101" dependOnService="HTTP" objectName="NT AUTHORITY\LocalService" sidType="unrestricted" requiredPrivileges="SeChangeNotifyPrivilege,SeCreateGlobalPrivilege">
+          <securityDescriptor name="SSDPServiceSecurity" />
+          <failureActions resetPeriod="86400">
+            <actions>
+              <action type="restartService" delay="100" />
+              <action type="restartService" delay="100" />
+              <action type="none" />
+            </actions>
+          </failureActions>
+        </serviceData>
+      </categoryInstance>
+    </categoryMembership>
+    <categoryMembership>
+      <id name="Microsoft.Windows.Categories" version="1.0.0.0" publicKeyToken="365143bb27e7ac8b" typeName="SvcHost" />
+      <categoryInstance subcategory="LocalServiceAndNoImpersonation">
+        <serviceGroup xmlns="urn:schemas-microsoft-com:asm.v3" position="last" serviceName="SSDPSRV" />
+      </categoryInstance>
+    </categoryMembership>
+  </memberships>
+  <registryKeys>
+    <registryKey keyName="HKEY_LOCAL_MACHINE\System\CurrentControlSet\Services\SSDPSRV\Parameters" owner="false">
+      <registryValue name="ServiceDll" valueType="REG_EXPAND_SZ" value="%SystemRoot%\System32\ssdpsrv.dll" operationHint="replace" owner="true" />
+      <registryValue name="ServiceDllUnloadOnStop" valueType="REG_DWORD" value="0x00000001" operationHint="replace" owner="true" />
+    </registryKey>
+  </registryKeys>
+  <trustInfo>
+    <security>
+      <accessControl>
+        <securityDescriptorDefinitions>
+          <securityDescriptorDefinition name="SSDPServiceSecurity" sddl="D:(A;;GA;;;SY)(A;;GA;;;BA)(A;;GA;;;SO)(A;;GRRP;;;IU)(A;;GRGX;;;LS)(A;;GRGX;;;NS)" operationHint="replace" />
+          <securityDescriptorDefinition name="WRP_FILE_DEFAULT_SDDL" sddl="O:S-1-5-80-956008885-3418522649-1831038044-1853292631-2271478464G:S-1-5-80-956008885-3418522649-1831038044-1853292631-2271478464D:P(A;;FA;;;S-1-5-80-956008885-3418522649-1831038044-1853292631-2271478464)(A;;GRGX;;;BA)(A;;GRGX;;;SY)(A;;GRGX;;;BU)S:(AU;FASA;0x000D0116;;;WD)" operationHint="replace" description="Default SDDL for Windows Resource Protected file" />
+        </securityDescriptorDefinitions>
+      </accessControl>
+    </security>
+  </trustInfo>
+  <localization>
+    <resources culture="en-US">
+      <stringTable>
+        <string id="description4" value="ServiceStartType" />
+        <string id="description5" value="SSDPServiceConfig" />
+        <string id="displayName4" value="Allows SSDPSRV to be demand start on client SKUs and disabled on Server Skus" />
+      </stringTable>
+    </resources>
+  </localization>
+  <migration scope="Upgrade,MigWiz,USMT" settingsVersion="0">
+    <supportedComponents>
+      <supportedComponent>
+        <assemblyIdentity name="_" version="1.0.0.0" />
+        <supportedComponentIdentity xmlns="urn:schemas-microsoft-com:asm.v3" buildType="release" language="neutral" name="Microsoft-Windows-UPnPSSDP" processorArchitecture="*" publicKeyToken="31bf3856ad364e35" settingsVersionRange="0" versionScope="nonSxS" />
+      </supportedComponent>
+      <supportedComponent>
+        <assemblyIdentity name="_" version="1.0.0.0" />
+        <supportedComponentIdentity xmlns="urn:schemas-microsoft-com:asm.v3" buildType="release" language="*" name="Microsoft-Windows-UPnPSSDP-DL" processorArchitecture="*" publicKeyToken="31bf3856ad364e35" settingsVersionRange="0" versionScope="nonSxS" />
+      </supportedComponent>
+    </supportedComponents>
+    <migXml xmlns="">
+      <rules context="System">
+        <include>
+          <objectSet>
+            <pattern type="Registry">HKLM\SYSTEM\CurrentControlSet\Services\SSDPSRV\Parameters [AdditionalIPv6Scope]</pattern>
+            <pattern type="Registry">HKLM\SYSTEM\CurrentControlSet\Services\SSDPSRV\Parameters [MaxCache]</pattern>
+            <pattern type="Registry">HKLM\SYSTEM\CurrentControlSet\Services\SSDPSRV\Parameters [TTL]</pattern>
+            <pattern type="Registry">HKLM\SYSTEM\CurrentControlSet\Services\SSDPSRV\Parameters [ReceiveScope]</pattern>
+            <pattern type="Registry">HKLM\SYSTEM\CurrentControlSet\Services\SSDPSRV\Parameters [MaxDeviceLifetime]</pattern>
+            <pattern type="Registry">HKLM\SYSTEM\CurrentControlSet\Services\SSDPSRV\Parameters [MinDeviceLifetime]</pattern>
+            <pattern type="Registry">HKLM\SYSTEM\CurrentControlSet\Services\SSDPSRV\Parameters [MaxHttpSize]</pattern>
+          </objectSet>
+        </include>
+      </rules>
+    </migXml>
+    <migrationDisplayID xmlns="urn:schemas-microsoft-com:asm.v3">Additional_Options\Windows_Core_Settings</migrationDisplayID>
+  </migration>
+  <WinsockAppPermittedLspCategories xmlns="urn:schemas-microsoft-com:asm.v3" tion\Transforms\Categories\d6c02d4b-6833-45b4-971a-05a4b04bab91\cba9e78b-49a3-49ea-93d4-6bcba8c4de07\" owner="false">
+      <registryValue name="" valueType="REG_NONE" value="" operationHint="replace" owner="true" />
+      <securityDescriptor name="WRP_REGKEY_DEFAULT_SDDL" />
+    </registryKey>
+    <registryKey keyName="HKEY_CLASSES_ROOT\CLSID\{cba9e78b-49a3-49ea-93d4-6bcba8c4de07}\InprocServer32\" owner="false">
+      <registryValue name="" valueType="REG_SZ" value="$(runtime.system32)\mp43decd.dll" operationHint="replace" owner="true" />
+      <registryValue name="ThreadingModel" valueType="REG_SZ" value="Both" operationHint="replace" owner="true" />
+    </registryKey>
+    <registryKey keyName="HKEY_CLASSES_ROOT\CLSID\{cba9e78b-49a3-49ea-93d4-6bcba8c4de07}\" owner="false">
+      <registryValue name="" valueType="REG_SZ" value="Mpeg43 Decoder DMO" operationHint="replace" owner="true" />
+      <registryValue name="Merit" valueType="REG_DWORD" value="0x00800001" operationHint="replace" owner="true" />
+      <securityDescriptor name="WRP_REGKEY_DEFAULT_SDDL" />
+    </registryKey>
+    <registryKey keyName="HKEY_CLASSES_ROOT\MediaFoundation\Transforms\Preferred" owner="false">
+      <registryValue name="{3334706D-0000-0010-8000-00AA00389B71}" valueType="REG_SZ" value="{CBA9E78B-49A3-49EA-93D4-6BCBA8C4DE07}" operationHint="replace" owner="true" />
+      <registryValue name="{3334504D-0000-0010-8000-00AA00389B71}" valueType="REG_SZ" value="{CBA9E78B-49A3-49EA-93D4-6BCBA8C4DE07}" operationHint="replace" owner="true" />
+    </registryKey>
+    <registryKey keyName="HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\DirectShow\Preferred" owner="false" perUserVirtualization="DisableRecurse">
+      <registryValue name="{3334706D-0000-0010-8000-00AA00389B71}" valueType="REG_SZ" value="{CBA9E78B-49A3-49EA-93D4-6BCBA8C4DE07}" operationHint="replace" owner="true" />
+      <registryValue name="{3334504D-0000-0010-8000-00AA00389B71}" valueType="REG_SZ" value="{CBA9E78B-49A3-49EA-93D4-6BCBA8C4DE07}" operationHint="replace" owner="true" />
+    </registryKey>
+  </registryKeys>
+  <trustInfo>
+    <secur

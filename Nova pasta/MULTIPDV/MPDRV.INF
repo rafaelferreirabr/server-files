@@ -1,0 +1,132 @@
+[ImpressoraDeCupom]
+001=bematecf.d16,Impressora Fiscal BEMATECH MP-20F
+002=bematec2.d16,Impressora Fiscal BEMATECH MP-20F II
+003=bematec3.d16,Impressora Fiscal BEMATECH MP-25/50 FI (NOVA)
+004=dataregi.d16,Impressora Fiscal DATAREGIS IF1 (ANTIGA)
+005=datareg2.d16,Impressora Fiscal DATAREGIS IF1 V.9.10 (ATUALIZACAO)
+006=datareg3.d16,Impressora Fiscal DATAREGIS 375-EP
+007=datareg4.d16,Impressora Fiscal DATAREGIS 375-EP 02.05 (NOVA)
+008=itautec.d16,Impressora Fiscal ITAUTEC V.6/V.7 (Antiga)
+009=itautec1.d16,Impressora Fiscal ITAUTEC V 1.00 (NOVA)
+010=zanthus.d16,Impressora Fiscal ZANTHUS 1E
+011=zantqz.d16,Impressora Fiscal ZANTHUS QZ-1000
+012=corisc74.d16,Impressora Fiscal CORISCO CT-7000 V 4.0 (NOVA)
+013=corisco7.d16,Impressora Fiscal CORISCO CT-7000
+014=corisco8.d16,Impressora Fiscal CORISCO CT-8000
+015=sweda.d16,Impressora Fiscal SWEDA IF-7000
+016=sweda1.d16,Impressora Fiscal SWEDA IF-7000/9000 V 1.00
+017=sweda2.d16,Impressora Fiscal SWEDA ST100/ST1000
+018=urano.d16,Impressora Fiscal URANO 2EFE
+019=urano1ef.d16,Impressora Fiscal URANO 1EFC (NOVA)
+020=uranoc.d16,Impressora Fiscal URANO 2EFC (NOVA)
+021=uranolog.d16,Impressora Fiscal URANO LOGGER 2EFC
+022=sigtron.d16,Impressora Fiscal SIGTRON FS-315/300
+023=yanco8.d16,Impressora Fiscal YANCO 8000/8500
+024=procomp.d16,Impressora Fiscal MECAF 3001-3002/ELGIN IF500
+025=schaltf.d16,Impressora Fiscal SCHALTER S-PRINT
+026=quattro.d16,Impressora Fiscal QUATTRO Easy APF V1.03/2.00
+027=general.d16,Impressora Fiscal GENERAL GP-2000
+028=zantiz41.d16,Impressora Fiscal ZANTHUS IZ-41 (NOVA)
+029=daruma.d16,Impressora Fiscal DARUMA FS-345
+030=ibm3bs.d16,Impressora Fiscal IBM 4679-3BS/3BM V.8C (NOVA)
+031=ibm3fb.d16,Impressora Fiscal IBM 4679-3FB V.6 e 7
+032=generica.d16,Impressora Nao Fiscal GENERICA
+033=bematecn.d16,Impressora Nao Fiscal BEMATECH MP-20I
+034=schaltn.d16,Impressora Nao Fiscal SCHALTER S-PRINT
+035=yanconf.d16,Impressora Nao Fiscal YANCO 8100 SERIAL
+036=swth80.d16,Impressora Nao Fiscal SWEDA TH-80 SERIAL
+037=epsontm.d16,Impressora Nao Fiscal EPSON TM-U300
+
+[LogTerminal]
+001=lterm01.d16,Gravação MultiPDV (Padrão)
+002=ltermmp.d16,Gravação Genérica
+003=ltermdgm.d16,Gravação DROGASMIL
+004=ltermjv.d16,Gravação JVSA
+005=ltermdib.d16,Gravação Retaguarda de Loja MPLOJA
+
+[LogServidor]
+001=lserv01.d16,Leitura MultiPDV (Padrão)
+002=lservmp.d16,Leitura Genérica
+003=lservdgm.d16,Leitura DROGASMIL
+004=lservjv.d16,Leitura JVSA
+005=lservdib.d16,Leitura Retaguarda de Loja MPLOJA
+
+[DadosDoTerminal]
+001=dadostxt.d16,Acesso de Dados MultiPDV (Padrão)
+002=dat01.d16,Acesso de Dados Binário
+
+[DadosDoCliente]
+001=datcli01.d16,Acesso de Clientes MultiPDV (Padrão)
+002=datclirl.d16,Acesso de Clientes MultiPDV MPLOJA
+
+[DadosDeConvenio]
+001=convdrg.d16,Acesso a Convênios Drogasmil
+002=convjv.d16,Acesso a Convênios JVSA
+003=convmp.d16,Acesso a Convênios Padrão MultiPDV
+
+[LeitoraDeBarras]
+001=laser.d16,Leitora de Código de Barras Serial
+002=ibmlcb.d16,Leitora de Código de Barras POS IBM 4694
+
+[BalancaDeCaixa]
+001=filizola.d16,Filizola BP-15/MF-30/CS
+002=toledo.d16,Toledo 9094/2096 DD
+003=uranoudc.d16,Urano UDC 15000
+
+[TecladoPrincipal]
+001=teclado.d16,Mapeador do Teclado Principal
+002=ibmpokbd.d16,Teclado POS IBM 4694
+
+[DisplayOperador]
+001=dispsim.d16,Diplay Simulado no Video
+002=dispkeyt.d16,Display de Teclado Keytec
+003=dispg65.d16,Display de Teclado Gertec TECD-65
+004=dispz340.d16,Display de Teclado Zanthus ZTM-340
+005=ibmdpcli.d16,Display de Cliente POS IBM 4694
+
+[DisplayCliente]
+001=dispswed.d16,Display Sweda S-2070
+002=dispgcli.d16,Display Gertec Torre Serial
+003=dispsimc.d16,Display Simulado no Video
+
+[ImpressoraDeCheque]
+001=imprcheq.d16,Imprecheq SCHALTER
+
+[ImpressoraDeEtiqueta]
+001=etiqueta.d16,Impressora de Etiquetas Gráfica
+002=etiqtxt.d16,Impressora de Etiquetas Texto (ANTIGA)
+
+[ConcentradorDeBalanca]
+001=bcsar.d16,Concentrador BCSAR Filizola
+002=conctole.d16,Concentrador Toledo
+003=mgv4bal.d16,Toledo PRIX 4 (MGV4)
+004=pgr.d16,Concentrador PGR/TSC Filizola
+005=uranorf.d16,Concentrador URANO Rádio Freqüência (URF32)
+
+[Gaveta]
+001=gavmenno.d16,Gaveta Serial Menno MGI
+002=gavgerbo.d16,Gaveta Serial GERBO
+
+[PinPad]
+001=verifone.d16,PIN PAD Verifone
+002=pingen.d16,PIN PAD Verifone/Dione/Schlumberger/Gertec (NOVO)
+
+[Tef]
+001=tefse.d16,Serviço para o SiTef
+
+[TefDiscado]
+001=tefdisc.d16,TEF Discado Padrão
+
+[ColetorDeDados]
+001=pdt3100.d16,Coletor de Dados Symbol PDT-3100
+002=coltxt.d16,Coletor de Dados Texto Padrão
+
+[ImpressoraDeNotaFiscal]
+001=notaf.d16,Impressora de Nota Fiscal Genérica
+
+[SmartClub]
+001=smartclu.d16,PIN PAD Smart Club CM-552
+
+[CartaoMagnetico]
+001=msrkbd.d16,Cartao Magnético Acoplado ao Teclado
+

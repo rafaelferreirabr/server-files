@@ -1,0 +1,1038 @@
+/05/04 14:08:41.711  3000   484 S0   CMachineStatus::PerformBasicChecks(): No changes in local monitor status to send to provider
+2022/05/04 14:08:48.825  3000  3412 S0   SecurityInformationQuerier::GetAntivirusStatus(): No third party security products detected
+2022/05/04 14:08:48.840  3000  3412 S0   SecurityInformationQuerier::IsWindowsFirewallEnabled(): Firewall state for profile 4: 1
+2022/05/04 14:08:48.840  3000  3412 S0   CDiskSpace::GetDiskSpaceInformation(): drive: C:\, free space: 469219733504, capacity: 499581448192
+2022/05/04 14:08:48.840  3000  3412 S0   ActionCenterWin::GetHealthState(): Policy setting value: 4
+2022/05/04 14:08:48.840  3000  3412 S0   CMachineStatus::PerformBasicChecks(): No changes in local monitor status to send to provider
+2022/05/04 14:10:57.665  3000  3700 S0   SecurityInformationQuerier::GetAntivirusStatus(): No third party security products detected
+2022/05/04 14:10:57.681  3000  3700 S0   SecurityInformationQuerier::IsWindowsFirewallEnabled(): Firewall state for profile 4: 1
+2022/05/04 14:10:57.681  3000  3700 S0   CDiskSpace::GetDiskSpaceInformation(): drive: C:\, free space: 469219733504, capacity: 499581448192
+2022/05/04 14:10:57.681  3000  3700 S0   ActionCenterWin::GetHealthState(): Policy setting value: 4
+2022/05/04 14:10:57.681  3000  3700 S0   CMachineStatus::PerformBasicChecks(): No changes in local monitor status to send to provider
+2022/05/04 14:12:39.346  3000  2776 S0   SecurityInformationQuerier::GetAntivirusStatus(): No third party security products detected
+2022/05/04 14:12:39.362  3000  2776 S0   SecurityInformationQuerier::IsWindowsFirewallEnabled(): Firewall state for profile 4: 1
+2022/05/04 14:12:39.362  3000  2776 S0   CDiskSpace::GetDiskSpaceInformation(): drive: C:\, free space: 469219733504, capacity: 499581448192
+2022/05/04 14:12:39.362  3000  2776 S0   ActionCenterWin::GetHealthState(): Policy setting value: 4
+2022/05/04 14:12:39.362  3000  2776 S0   CMachineStatus::PerformBasicChecks(): No changes in local monitor status to send to provider
+2022/05/04 14:12:57.411  3000  1724 S0   SecurityInformationQuerier::GetAntivirusStatus(): No third party security products detected
+2022/05/04 14:12:57.427  3000  1724 S0   SecurityInformationQuerier::IsWindowsFirewallEnabled(): Firewall state for profile 4: 1
+2022/05/04 14:12:57.427  3000  1724 S0   CDiskSpace::GetDiskSpaceInformation(): drive: C:\, free space: 469219733504, capacity: 499581448192
+2022/05/04 14:12:57.427  3000  1724 S0   ActionCenterWin::GetHealthState(): Policy setting value: 4
+2022/05/04 14:12:57.427  3000  1724 S0   CMachineStatus::PerformBasicChecks(): No changes in local monitor status to send to provider
+2022/05/04 14:18:42.156  3000  3904 S0   SecurityInformationQuerier::GetAntivirusStatus(): No third party security products detected
+2022/05/04 14:18:42.172  3000  3904 S0   SecurityInformationQuerier::IsWindowsFirewallEnabled(): Firewall state for profile 4: 1
+2022/05/04 14:18:42.187  3000  3904 S0   CDiskSpace::GetDiskSpaceInformation(): drive: C:\, free space: 469219733504, capacity: 499581448192
+2022/05/04 14:18:42.187  3000  3904 S0   ActionCenterWin::GetHealthState(): Policy setting value: 4
+2022/05/04 14:18:42.187  3000  3904 S0   CMachineStatus::PerformBasicChecks(): No changes in local monitor status to send to provider
+2022/05/04 14:19:42.996  3000  2516 S0   SecurityInformationQuerier::GetAntivirusStatus(): No third party security products detected
+2022/05/04 14:19:43.012  3000  2516 S0   SecurityInformationQuerier::IsWindowsFirewallEnabled(): Firewall state for profile 4: 1
+2022/05/04 14:19:43.012  3000  2516 S0   CDiskSpace::GetDiskSpaceInformation(): drive: C:\, free space: 469219733504, capacity: 499581448192
+2022/05/04 14:19:43.012  3000  2516 S0   ActionCenterWin::GetHealthState(): Policy setting value: 4
+2022/05/04 14:19:43.012  3000  2516 S0   CMachineStatus::PerformBasicChecks(): No changes in local monitor status to send to provider
+2022/05/04 14:21:00.450  3000  3328 S0   SecurityInformationQuerier::GetAntivirusStatus(): No third party security products detected
+2022/05/04 14:21:00.466  3000  3328 S0   SecurityInformationQuerier::IsWindowsFirewallEnabled(): Firewall state for profile 4: 1
+2022/05/04 14:21:00.466  3000  3328 S0   CDiskSpace::GetDiskSpaceInformation(): drive: C:\, free space: 469219733504, capacity: 499581448192
+2022/05/04 14:21:00.466  3000  3328 S0   ActionCenterWin::GetHealthState(): Policy setting value: 4
+2022/05/04 14:21:00.466  3000  3328 S0   CMachineStatus::PerformBasicChecks(): No changes in local monitor status to send to provider
+2022/05/04 14:24:09.741  3000  2780 S0   SecurityInformationQuerier::GetAntivirusStatus(): No third party security products detected
+2022/05/04 14:24:09.757  3000  2780 S0   SecurityInformationQuerier::IsWindowsFirewallEnabled(): Firewall state for profile 4: 1
+2022/05/04 14:24:09.772  3000  2780 S0   CDiskSpace::GetDiskSpaceInformation(): drive: C:\, free space: 469219733504, capacity: 499581448192
+2022/05/04 14:24:09.772  3000  2780 S0   ActionCenterWin::GetHealthState(): Policy setting value: 4
+2022/05/04 14:24:09.772  3000  2780 S0   CMachineStatus::PerformBasicChecks(): No changes in local monitor status to send to provider
+2022/05/04 14:28:33.803  3000  3404 S0   SecurityInformationQuerier::GetAntivirusStatus(): No third party security products detected
+2022/05/04 14:28:33.818  3000  3404 S0   SecurityInformationQuerier::IsWindowsFirewallEnabled(): Firewall state for profile 4: 1
+2022/05/04 14:28:33.834  3000  3404 S0   CDiskSpace::GetDiskSpaceInformation(): drive: C:\, free space: 469219733504, capacity: 499581448192
+2022/05/04 14:28:33.834  3000  3404 S0   ActionCenterWin::GetHealthState(): Policy setting value: 4
+2022/05/04 14:28:33.834  3000  3404 S0   CMachineStatus::PerformBasicChecks(): No changes in local monitor status to send to provider
+2022/05/04 14:29:43.613  3000  2860 S0   CKeepAliveClientClient::HandleStartKeepAlive: doing nothing, state = 4 usedProtocol = 2
+2022/05/04 14:29:51.054  3000  2860 S0   CKeepAliveClientClient::HandleStartKeepAlive: doing nothing, state = 4 usedProtocol = 2
+2022/05/04 14:33:17.942  3000  3700 S0   SecurityInformationQuerier::GetAntivirusStatus(): No third party security products detected
+2022/05/04 14:33:17.957  3000  3700 S0   SecurityInformationQuerier::IsWindowsFirewallEnabled(): Firewall state for profile 4: 1
+2022/05/04 14:33:17.957  3000  3700 S0   CDiskSpace::GetDiskSpaceInformation(): drive: C:\, free space: 469219733504, capacity: 499581448192
+2022/05/04 14:33:17.973  3000  3700 S0   ActionCenterWin::GetHealthState(): Policy setting value: 4
+2022/05/04 14:33:17.973  3000  3700 S0   CMachineStatus::PerformBasicChecks(): No changes in local monitor status to send to provider
+2022/05/04 14:33:41.404  3000  2920 S0   SecurityInformationQuerier::GetAntivirusStatus(): No third party security products detected
+2022/05/04 14:33:41.420  3000  2920 S0   SecurityInformationQuerier::IsWindowsFirewallEnabled(): Firewall state for profile 4: 1
+2022/05/04 14:33:41.420  3000  2920 S0   CDiskSpace::GetDiskSpaceInformation(): drive: C:\, free space: 469219733504, capacity: 499581448192
+2022/05/04 14:33:41.420  3000  2920 S0   ActionCenterWin::GetHealthState(): Policy setting value: 4
+2022/05/04 14:33:41.420  3000  2920 S0   CMachineStatus::PerformBasicChecks(): No changes in local monitor status to send to provider
+2022/05/04 14:33:59.485  3000  2808 S0   SecurityInformationQuerier::GetAntivirusStatus(): No third party security products detected
+2022/05/04 14:33:59.500  3000  2808 S0   SecurityInformationQuerier::IsWindowsFirewallEnabled(): Firewall state for profile 4: 1
+2022/05/04 14:33:59.500  3000  2808 S0   CDiskSpace::GetDiskSpaceInformation(): drive: C:\, free space: 469219733504, capacity: 499581448192
+2022/05/04 14:33:59.500  3000  2808 S0   ActionCenterWin::GetHealthState(): Policy setting value: 4
+2022/05/04 14:33:59.500  3000  2808 S0   CMachineStatus::PerformBasicChecks(): No changes in local monitor status to send to provider
+2022/05/04 14:34:16.239  3000  3720 S0   SecurityInformationQuerier::GetAntivirusStatus(): No third party security products detected
+2022/05/04 14:34:16.255  3000  3720 S0   SecurityInformationQuerier::IsWindowsFirewallEnabled(): Firewall state for profile 4: 1
+2022/05/04 14:34:16.255  3000  3720 S0   CDiskSpace::GetDiskSpaceInformation(): drive: C:\, free space: 469219733504, capacity: 499581448192
+2022/05/04 14:34:16.255  3000  3720 S0   ActionCenterWin::GetHealthState(): Policy setting value: 4
+2022/05/04 14:34:16.255  3000  3720 S0   CMachineStatus::PerformBasicChecks(): No changes in local monitor status to send to provider
+2022/05/04 14:34:43.991  3000  1972 S0   SecurityInformationQuerier::GetAntivirusStatus(): No third party security products detected
+2022/05/04 14:34:44.007  3000  1972 S0   SecurityInformationQuerier::IsWindowsFirewallEnabled(): Firewall state for profile 4: 1
+2022/05/04 14:34:44.007  3000  1972 S0   CDiskSpace::GetDiskSpaceInformation(): drive: C:\, free space: 469219733504, capacity: 499581448192
+2022/05/04 14:34:44.007  3000  1972 S0   ActionCenterWin::GetHealthState(): Policy setting value: 4
+2022/05/04 14:34:44.007  3000  1972 S0   CMachineStatus::PerformBasicChecks(): No changes in local monitor status to send to provider
+2022/05/04 14:35:44.894  3000  2188 S0   SecurityInformationQuerier::GetAntivirusStatus(): No third party security products detected
+2022/05/04 14:35:44.909  3000  2188 S0   SecurityInformationQuerier::IsWindowsFirewallEnabled(): Firewall state for profile 4: 1
+2022/05/04 14:35:44.909  3000  2188 S0   CDiskSpace::GetDiskSpaceInformation(): drive: C:\, free space: 469219733504, capacity: 499581448192
+2022/05/04 14:35:44.909  3000  2188 S0   ActionCenterWin::GetHealthState(): Policy setting value: 4
+2022/05/04 14:35:44.909  3000  2188 S0   CMachineStatus::PerformBasicChecks(): No changes in local monitor status to send to provider
+2022/05/04 14:36:54.735  3000  3228 S0   SecurityInformationQuerier::GetAntivirusStatus(): No third party security products detected
+2022/05/04 14:36:54.751  3000  3228 S0   SecurityInformationQuerier::IsWindowsFirewallEnabled(): Firewall state for profile 4: 1
+2022/05/04 14:36:54.751  3000  3228 S0   CDiskSpace::GetDiskSpaceInformation(): drive: C:\, free space: 469219733504, capacity: 499581448192
+2022/05/04 14:36:54.751  3000  3228 S0   ActionCenterWin::GetHealthState(): Policy setting value: 4
+2022/05/04 14:36:54.751  3000  3228 S0   CMachineStatus::PerformBasicChecks(): No changes in local monitor status to send to provider
+2022/05/04 14:41:17.642  3000  3332 S0   SecurityInformationQuerier::GetAntivirusStatus(): No third party security products detected
+2022/05/04 14:41:17.658  3000  3332 S0   SecurityInformationQuerier::IsWindowsFirewallEnabled(): Firewall state for profile 4: 1
+2022/05/04 14:41:17.674  3000  3332 S0   CDiskSpace::GetDiskSpaceInformation(): drive: C:\, free space: 469219733504, capacity: 499581448192
+2022/05/04 14:41:17.674  3000  3332 S0   ActionCenterWin::GetHealthState(): Policy setting value: 4
+2022/05/04 14:41:17.674  3000  3332 S0   CMachineStatus::PerformBasicChecks(): No changes in local monitor status to send to provider
+2022/05/04 14:43:24.923  3000  1768 S0   SecurityInformationQuerier::GetAntivirusStatus(): No third party security products detected
+2022/05/04 14:43:24.939  3000  1768 S0   SecurityInformationQuerier::IsWindowsFirewallEnabled(): Firewall state for profile 4: 1
+2022/05/04 14:43:24.939  3000  1768 S0   CDiskSpace::GetDiskSpaceInformation(): drive: C:\, free space: 469219733504, capacity: 499581448192
+2022/05/04 14:43:24.939  3000  1768 S0   ActionCenterWin::GetHealthState(): Policy setting value: 4
+2022/05/04 14:43:24.939  3000  1768 S0   CMachineStatus::PerformBasicChecks(): No changes in local monitor status to send to provider
+2022/05/04 14:45:07.836  3000  4004 S0!!!ProcessCommandHandlerKeepAlive[2918]::HandleRouterPingTimedOut(): Router ping timed out. ClientID 921134999. Ending session!
+2022/05/04 14:45:11.440  3000  3160 S0   SecurityInformationQuerier::GetAntivirusStatus(): No third party security products detected
+2022/05/04 14:45:11.456  3000  3160 S0   SecurityInformationQuerier::IsWindowsFirewallEnabled(): Firewall state for profile 4: 1
+2022/05/04 14:45:11.456  3000  3160 S0   CDiskSpace::GetDiskSpaceInformation(): drive: C:\, free space: 469219733504, capacity: 499581448192
+2022/05/04 14:45:11.456  3000  3160 S0   ActionCenterWin::GetHealthState(): Policy setting value: 4
+2022/05/04 14:45:11.456  3000  3160 S0   CMachineStatus::PerformBasicChecks(): No changes in local monitor status to send to provider
+2022/05/04 14:45:11.939  3000  2860 S0   MDv2::ProviderRegistrationController::UpdateRegistration: device is offline
+2022/05/04 14:45:11.939  3000  2860 S0   TVNetwork::StartEasyRollout: TV offline, stopping assignment trigger listener
+2022/05/04 14:45:11.939  3000  2860 S0   CKeepAliveClientClient::HandleKeepAliveEnded: doing nothing, state = 4
+2022/05/04 14:45:11.939  3000  2860 S0!  KeepAliveSessionOutgoing::ConnectEndedHandler(): KeepAliveConnection[2918] with router4.teamviewer.com ended
+2022/05/04 14:45:11.939  3732  1808 G1   AccountLoginStateMachine::RegisterForKeepAlive: lost connection
+2022/05/04 14:45:11.939  3732  1592 G1   Account::UpdateState: KA = 0, active = 1
+2022/05/04 14:45:11.939  3732  1592 G1   ChatStateProvider::HandleStateChange: Switching from Online_NoCredentials to Offline_NoCredentials (HasKeepAlive: 0, HasAutoLoginCredentials: 0, IsLoggedIn: 0)
+2022/05/04 14:45:11.939  3732  1592 G1   ChatManager::ClearNonAccountChat
+2022/05/04 14:45:11.939  3732  1808 G1   IncomingCommandRegistration::TeamViewerOnlineStateChanged: TeamViewer-Onlinestate changed to offline
+2022/05/04 14:45:11.939  3732  1808 G1   IncomingCommandRegistration::UnregisterIncomingCommands: Unregistering incoming commands
+2022/05/04 14:45:11.939  3732  1808 G1   InterProcessBase::SecureNetworkCallbackHandle destroyed (RegistrationID: 10755eeb-f0f9-4a88-9946-9dbba9f19503)
+2022/05/04 14:45:11.939  3732   748 G1   Account::SetLoginState: new state: 0
+2022/05/04 14:45:11.939  3000  2860 S0   SecureNetworkIPCAdapter::UnregisterSharedBCmdCallback(): RegistrationID: 10755eeb-f0f9-4a88-9946-9dbba9f19503
+2022/05/04 14:45:11.939  3732  1808 G1   DynamicPasswordUIModel::ShouldShowDynamicPassword(): dynPw=1 allowIncoming=1 id=103783454 ka=0 lanAllowed=0 lanOnly=0 networkState=1 showDynPwd=0
+2022/05/04 14:45:11.939  3732  1592 G1   CConnectionButtonState::UpdateImpl(): hideConnectionButton: 1, allowOutgoing: 1, isOnline: 0, masterConnect: 0
+2022/05/04 14:45:11.955  3732   748 G1   AccountLoginStateMachine::OnAccountStateChange: Logout
+2022/05/04 14:45:11.955  3732   748 G1   AccountLoginStateMachine::Reset
+2022/05/04 14:45:12.953  3000  4004 S0   CKeepAliveClientClient::StartConnect(): Protocol 8 proxy -- IP router2.teamviewer.com
+2022/05/04 14:45:12.953  3000  4004 S0   Activating Router Carrier
+2022/05/04 14:45:15.636  3000  4004 S0   CTcpConnectionBase[4608]::ConnectEndpoint(): Connecting to endpoint 2803:ad80:16:351:188:172:252:73:5938
+2022/05/04 14:45:19.958  3000  2860 S0   KeepAliveSessionOutgoing::ConnectSuccessHandler(): KeepAliveConnect to router2.teamviewer.com successful
+2022/05/04 14:45:19.958  3000  2860 S0   KeepAliveSessionOutgoing::KeepAliveChannelInitialized(): KeepAliveConnection to router2.teamviewer.com initialized
+2022/05/04 14:45:19.958  3000  2860 S0!! KeepAliveSession::KeepAliveChannelInitialized(): KeepAlive-Connection initialized with ID 0 (IP: 2803:ad80:16:351:188:172:252:73), SendQueue 0 (0 Bytes), SendIndex 0, AckIndex 0, RemoteSessionID 2920
+2022/05/04 14:45:19.958  3000  2860 S0!  KeepAliveSession::SendCompleteQueue(): SendQueue: 0 (0 Bytes), RemoteSession 2920 (ClientID 0), Time: 0 ms
+2022/05/04 14:45:19.958  3000  2860 S0   IdentifyRequest: ID = 103783454, IC = -1297328301, IsTemporaryID = 0, InitiativeGUID = 64d17f17-3920-4f02-a13d-b56ba6532324, CanStoreGUID = 1, MIDHistory = {0x7824af788024_1ca042bf9ab9533_414232631|u752ab3d96a98549be0a97824af7880247824af788024f1fe64df360f8e98e74e8a2469656dde|v752ab3d96a98549be0a97824af7880247824af788024f1fe64df360f8e98e74e8a2469656dde<~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~0dd0c5b4e712d7cef7750d93b<?xml version="1.0" encoding="UTF-8"?>
+<assembly xmlns="urn:schemas-microsoft-com:asm.v3" manifestVersion="1.0" copyright="Copyright (c) Microsoft Corporation. All Rights Reserved.">
+  <assemblyIdentity name="Microsoft-Windows-User32" version="6.1.7601.23403" processorArchitecture="x86" language="neutral" buildType="release" publicKeyToken="31bf3856ad364e35" versionScope="nonSxS" />
+  <dependency discoverable="no" resourceType="resources">
+    <dependentAssembly>
+      <assemblyIdentity name="Microsoft-Windows-User32.Resources" version="6.1.7601.23403" processorArchitecture="x86" language="*" buildType="release" publicKeyToken="31bf3856ad364e35" />
+    </dependentAssembly>
+  </dependency>
+  <file name="user32.dll" destinationPath="$(runtime.system32)\" sourceName="user32.dll" sourcePath=".\" importPath="$(build.nttree)\">
+    <securityDescriptor name="WRP_FILE_DEFAULT_SDDL" />
+    <signatureInfo xmlns="urn:schemas-microsoft-com:asm.v3">
+      <signatureDescriptor PETrust="true" pageHash="true" />
+    </signatureInfo>
+    <asmv2:hash xmlns:asmv2="urn:schemas-microsoft-com:asm.v2">
+      <dsig:Transforms xmlns:dsig="http://www.w3.org/2000/09/xmldsig#">
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue xmlns:dsig="http://www.w3.org/2000/09/xmldsig#">YS47zGNrpZ4hwnXTOYPoSXLrNv/neNIfslZkqo62ps8=</dsig:DigestValue>
+    </asmv2:hash>
+  </file>
+  <memberships>
+    <categoryMembership>
+      <id name="Microsoft.Windows.Categories" version="1.0.0.0" publicKeyToken="365143bb27e7ac8b" typeName="BootRecovery" />
+    </categoryMembership>
+  </memberships>
+  <trustInfo>
+    <security>
+      <accessControl>
+        <securityDescriptorDefinitions>
+          <securityDescriptorDefinition name="WRP_FILE_DEFAULT_SDDL" sddl="O:S-1-5-80-956008885-3418522649-1831038044-1853292631-2271478464G:S-1-5-80-956008885-3418522649-1831038044-1853292631-2271478464D:P(A;;FA;;;S-1-5-80-956008885-3418522649-1831038044-1853292631-2271478464)(A;;GRGX;;;BA)(A;;GRGX;;;SY)(A;;GRGX;;;BU)S:(AU;FASA;0x000D0116;;;WD)" operationHint="replace" description="Default SDDL for Windows Resource Protected file" />
+        </securityDescriptorDefinitions>
+      </accessControl>
+    </security>
+  </trustInfo>
+  <localization>
+    <resources culture="en-US">
+      <stringTable>
+        <string id="description" value="User experience OS modules" />
+        <string id="displayName" value="User experience OS modules" />
+      </stringTable>
+    </resources>
+  </localization>
+</assembly>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     0Ç”
+ †ÇÃ0Ç»	+0Çπ0Çµ0Åû¢Ï◊„Ç“q]dLﬂ.g?Á∫òÆO20220411204610Z0s0q0I0	+ ﬂ"œãå;F¡=\@uaÍæµÅÅÏ◊„Ç“q]dLﬂ.g?Á∫òÆO≠@≤`“úLü^Õ©ΩìÆŸÄ 20220411204610Z†20220418204610Z0	*ÜHÜ˜ Ç ên√'≥˙Ù@fÙYÇöãCjíÇ•øJ25h˚©B6ÁÄ]¨ÿKX .ÆÊbÊh˘w4‡MªTƒ„Ω$*œ?Â$…√w&,‡‘K^˙¡¢˝ÖÛùZN	U≈¢í”∑M??∑5T6WÙó
+°ÀÜˆ\LH}±´Gà·?2W±tSòrbÿº¨mV>ÊYµx‹D•µ¢§$≥vJPÚm·‚A{ò÷µã©ºd>
+˛|c´Ûd	ûVñøÎx•ìë£:ƒ'›ÙCQπ5B&‚M2*ñDù˛˘–Ú√(ñÏ<MP“lõµK1ûñ{RS"ÌÔ˜d®jÑîM7Qˆ)¡/EÍï¡,]¥Ñ’‰W”€æŸ∞u±`Ì‚K˙z!ƒcèÑã™ﬁ∑⁄≠´vFÕ©kä“Ú•¸e˘=ôI5µ“á¥˜r÷uE
+‘Ω7Û≤«¸∂c&›Ë0~M˚Ê!z´5¡OÖº[!≥›Ñ¨<√G–Oø)~Á‡¶Ëy™∑¿Áπø7ç*1#¥Ï@s.8F«y?®*tπ4zl¨≈(Ì˜AËbë<´Ÿ#eó˝ÉΩ·ûÈ'I%π Úƒ€JÉP¢p°qdúgSmMÂ(±ˇH∂!ﬂ¶)¡Ûuöz9∏sƒ•3»<+ØÜªR)	Î•‹ÁEW*^†£≠5ôk‰·ÆAÍ                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         0Ç”
+ †ÇÃ0Ç»	+0Çπ0Çµ0Åû¢h7‡Î∂;¯_Ü˚˛a{àeÙNB20220412120053Z0s0q0I0	+ ë]Í≈—·^Idkäî‡NG	X…ªâh7‡Î∂;¯_Ü˚˛a{àeÙNBÀ[lÓÇÑ	±§–MÄ 20220412114501Z†20220419110001Z0	*ÜHÜ˜ Ç çf†‹)^6‡<È[bÉj(	t‡ç9|H‰aE(3¶∞ﬂòÕ™oLÉ÷ v@Ò“£IæπN‚3ægÉ/|Ì&#ÖÊ"ŒR∫€iÔ"Íé•+¶ƒçgôZß Ô|˝\8#·›ﬂ¬O@UföLk)re´Âú·Õ<ÎQ]È8Ÿã]ËovÊ÷;P‹©ªêW>Vü˝<iQ«#•e&w3Ÿ´nU<„MX~Sﬁ¬»ö·†	Ÿ¢±ΩH¬ÖID?Á—wèlü·4?£¡·QÖm3⁄%ê•iLÂi¥¢§ÂDtﬁóq[|¨í˝o‹ÀÂë∂#·-jÿ‚pœŸÛ˜¬(˛ób‡z'©uû¬Ì¿\Ó8Xºÿ“—∑ˇ‡êÍƒ£7o™Nı(ˆay 2%æóîî}Ö:¥ò\&É ãXÿógLA~=é…9:;ípòedFFYù‚w•±¸∏„«aO≠¯∫¥@€-q•◊	N€cº€<‰_T”BÃ"Oº{çr∏Ò à˛!g‰ ƒ2<%ÀMè›ÁUŒûi∞Î
+ÃnTÊr Q{˘˘Ë êÜa öl}¯gõs≈(Ú¢ª¬x…6÷>`V…–m{◊◊ÃAÇ]Ø»⁄f ∆£Ü·éÌèXcyïIıc‹r¡◊l˚Òı òz¡◊~TµÊµ XŒ‰¯EPVw˙                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         <?xml version="1.0" encoding="utf-8"?>
+<assembly xmlns="urn:schemas-microsoft-com:asm.v3" manifestVersion="1.0" description="Fix for KB2729094" displayName="default" company="Microsoft Corporation" copyright="Microsoft Corporation" supportInformation="http://support.microsoft.com/?kbid=2729094" creationTimeStamp="2012-09-13T04:51:34Z" lastUpdateTimeStamp="2012-09-13T04:51:34Z">
+  <assemblyIdentity name="Package_for_KB2729094_RTM" version="6.1.2.0" language="neutral" processorArchitecture="x86" publicKeyToken="31bf3856ad364e35" />
+  <package identifier="KB2729094" applicabilityEvaluation="deep" releaseType="Update" restart="possible">
+    <parent buildCompare="EQ" serviceCompare="GE" integrate="separate" disposition="detect">
+      <assemblyIdentity name="Microsoft-Windows-Client-Features-Package" version="6.1.7600.16385" processorArchitecture="x86" language="neutral" buildType="release" publicKeyToken="31bf3856ad364e35" versionScope="nonSxS" />
+      <assemblyIdentity name="Microsoft-Windows-EmbeddedCore-Package" language="neutral" version="6.1.7600.16385" processorArchitecture="x86" publicKeyToken="31bf3856ad364e35" buildType="release" />
+      <assemblyIdentity name="Microsoft-Windows-Foundation-Package" version="6.1.7600.16385" processorArchitecture="x86" language="neutral" buildType="release" publicKeyToken="31bf3856ad364e35" versionScope="nonSxS" />
+      <assemblyIdentity name="Microsoft-Windows-WinPE-Package" version="6.1.7600.16385" processorArchitecture="x86" language="neutral" buildType="release" publicKeyToken="31bf3856ad364e35" versionScope="nonSxS" />
+      <assemblyIdentity name="Microsoft-Windows-WinPE-Package" version="6.1.7601.17514" processorArchitecture="x86" language="neutral" buildType="release" publicKeyToken="31bf3856ad364e35" versionScope="nonSxS" />
+    </parent>
+    <installerAssembly name="Microsoft-Windows-ServicingStack" version="6.0.0.0" language="neutral" processorArchitecture="x86" versionScope="nonSxS" publicKeyToken="31bf3856ad364e35" />
+    <update name="2729094-25_neutral_PACKAGE">
+      <package integrate="hidden">
+        <assemblyIdentity name="Package_1_for_KB2729094" version="6.1.2.0" language="neutral" processorArchitecture="x86" publicKeyToken="31bf3856ad364e35" />
+      </package>
+    </update>
+    <update name="2729094-26_neutral_PACKAGE">
+      <package integrate="hidden">
+        <assemblyIdentity name="Package_4_for_KB2729094" version="6.1.2.0" language="neutral" processorArchitecture="x86" publicKeyToken="31bf3856ad364e35" />
+      </package>
+    </update>
+    <update name="2729094-27_neutral_PACKAGE">
+      <package integrate="hidden">
+        <assemblyIdentity name="Package_7_for_KB2729094" version="6.1.2.0" language="neutral" processorArchitecture="x86" publicKeyToken="31bf3856ad364e35" />
+      </package>
+    </update>
+    <update name="2729094-28_neutral_PACKAGE">
+      <package integrate="hidden">
+        <assemblyIdentity name="Package_8_for_KB2729094" version="6.1.2.0" language="neutral" processorArchitecture="x86" publicKeyToken="31bf3856ad364e35" />
+      </package>
+    </update>
+    <update name="2729094-29_neutral_PACKAGE">
+      <package integrate="hidden">
+        <assemblyIdentity name="Package_9_for_KB2729094" version="6.1.2.0" language="neutral" processorArchitecture="x86" publicKeyToken="31bf3856ad364e35" />
+      </package>
+    </update>
+    <update name="2729094-30_neutral_PACKAGE">
+      <package integrate="hidden">
+        <assemblyIdentity name="Package_10_for_KB2729094" version="6.1.2.0" language="neutral" processorArchitecture="x86" publicKeyToken="31bf3856ad364e35" />
+      </package>
+    </update>
+    <update name="2729094-31_neutral_PACKAGE">
+      <package integrate="hidden">
+        <assemblyIdentity name="Package_11_for_KB2729094" version="6.1.2.0" language="neutral" processorArchitecture="x86" publicKeyToken="31bf3856ad364e35" />
+      </package>
+    </update>
+    <update name="2729094-32_neutral_PACKAGE">
+      <package integrate="hidden">
+        <assemblyIdentity name="Package_12_for_KB2729   3…ãÑê˙ˇˇ;Ñ0˛ˇˇÖŸ   É¡É˘u‰É•å¯ˇˇ Ω∆t@Î3¿ãÛ+¯çÖ,˛ˇˇâµ§¯ˇˇãŒç∞âÖ®¯ˇˇã;Àsãîç0˛ˇˇâï¥¯ˇˇÎÉ•¥¯ˇˇ çAˇ;√sãÎ3“ãÖ¥¯ˇˇÉÓ¡Í¡‡–âîç0˛ˇˇIÉ˘ˇtãù,˛ˇˇÎ≥ãµ§¯ˇˇÉˇsçFâÖ,˛ˇˇÎâµ,˛ˇˇª5  çÖê˙ˇˇ+ù∏¯ˇˇã˚¡Ôã˜¡ÊVj PË$5ˇˇÉ„3¿@ãÀ”‡âÑ5ê˙ˇˇÈ“   ãÑù,˛ˇˇÉ•å¯ˇˇ Ω¿t@Î3¿ãÛ+¯çÖ,˛ˇˇâµ§¯ˇˇãŒç∞âÖ®¯ˇˇã;Àsãîç0˛ˇˇâï¥¯ˇˇÎÉ•¥¯ˇˇ çAˇ;√sãÎ3“ãÖ¥¯ˇˇÉÓ¡Í¿–âîç0˛ˇˇIÉ˘ˇtãù,˛ˇˇÎ¥ãµ§¯ˇˇÉˇsçFâÖ,˛ˇˇÎâµ,˛ˇˇª4  çÖê˙ˇˇ+ù∏¯ˇˇã˚¡Ôã˜¡ÊVj PËM4ˇˇÉ„3¿@ãÀ”‡âÑ5ê˙ˇˇçGªÃ  âÖå˙ˇˇâÖ\¸ˇˇ¡‡PçÖê˙ˇˇPçÖ`¸ˇˇSPËw”ˇˇÉƒãÖò¯ˇˇ3“j
+Yâç§¯ˇˇÖ¿àZ  ˜ÒâÖê¯ˇˇã âç|¯ˇˇÖ¿Ñh  É¯&vj&X∂Ö¶RB ∂4ÖßRB ã˘âÖ∞¯ˇˇ¡ÁWç1âÖå˙ˇˇçÖê˙ˇˇj PË°3ˇˇã∆¡‡PãÖ∞¯ˇˇ∑Ö§RB çÖ†IB PçÖê˙ˇˇ«PËw(ˇˇãΩå˙ˇˇÉƒÉˇwrãΩê˙ˇˇÖˇu3¿âÖº¯ˇˇâÖ\¸ˇˇÈú  ÉˇÑ´  ÉΩ\¸ˇˇ Ñû  ãÖ\¸ˇˇ3…3ˆãÿã«˜§µ`¸ˇˇ¡âÑµ`¸ˇˇÉ“ Fã ;Ûu‰È∞   âåÖ`¸ˇˇˇÖ\¸ˇˇÈ_  ÉΩ\¸ˇˇá«   ãµ`¸ˇˇã«¡‡PçÖê˙ˇˇâµ®¯ˇˇPçÖ`¸ˇˇâΩ\¸ˇˇSPË%“ˇˇÉƒÖˆu3¿âÖå˙ˇˇâÖ\¸ˇˇPçÖê˙ˇˇÈÙ  É˛Ñ¸  ÉΩ\¸ˇˇ ÑÔ  ãÖ\¸ˇˇ3…ãΩ®¯ˇˇ3ˆãÿã«˜§µ`¸ˇˇ¡âÑµ`¸ˇˇÉ“ Fã ;Ûu‰ªÃ  Ö…Ñ¥  ãÖ\¸ˇˇÉ¯sÇ4ˇˇˇ3¿âÖå˙ˇˇâÖ\¸ˇˇPçÖê˙ˇˇÈÓ  ;Ω\¸ˇˇçïê˙ˇˇí¿rçï`¸ˇˇâï∏¯ˇˇçç`¸ˇˇÑ¿uççê˙ˇˇâç¥¯ˇˇÑ¿t
+ãœâΩ†¯ˇˇÎãç\¸ˇˇâç†¯ˇˇÑ¿tãΩ\¸ˇˇ3¿3ˆâÖº¯ˇˇÖ…Ñ  É<≤ u;ÖÍ   É§µ¿¯ˇˇ çFâÖº¯ˇˇÈ‘   3“ãŒ!ï¨¯ˇˇâïú¯ˇˇÖˇÑß   É˘stj;»uãÖ¨¯ˇˇÉ§ç¿¯ˇˇ @∆âÖº¯ˇˇãÖ¨¯ˇˇãï¥¯ˇˇãÇãï∏¯ˇˇ˜$≤Öú¯ˇˇÉ“ Ñç¿¯ˇˇãÖ¨¯ˇˇÉ“ @AâÖ¨¯ˇˇ;«âïú¯ˇˇãÖº¯ˇˇâïå¯ˇˇuëÖ“t4É˘sÑ∏   ;»uÉ§ç¿¯ˇˇ çAâÖº¯ˇˇã¬3“Ñç¿¯ˇˇãÖº¯ˇˇ“AÎ»É˘sÑÑ   ãç†¯ˇˇãï∏¯ˇˇF;ÒÖˇ˛ˇˇâÖ\¸ˇˇ¡‡PçÖ¿¯ˇˇPçÖ`¸ˇˇSPË–ˇˇÉƒ∞Ñ¿trãÖê¯ˇˇ+Ö∞¯ˇˇâÖê¯ˇˇÖû¸ˇˇãç|¯ˇˇÖ…Ñ  ãç<SB âÖ|¯ˇˇÖ¿u]3¿âÖúˆˇˇâÖ\¸ˇˇPÎ:3¿âÖúˆˇˇâÖ\¸ˇˇPçÖ†ˆˇˇPçÖ`¸ˇˇSPËéœˇˇÉƒ2¿ÎäÉ•úˆˇˇ É•\¸ˇˇ j çÖ†ˆˇˇPçÖ`¸ˇˇÈñ  É¯Ñó  ãç\¸ˇˇÖ…Ñâ  3ˇ3ˆ˜§µ`¸ˇˇ«âÑµ`¸ˇˇãÖ|¯ˇˇÉ“ Fã˙;Òu‡ÖˇÑ]  ãÖ\¸ˇˇÉ¯sÉQˇˇˇâºÖ`¸ˇˇˇÖ\¸ˇˇÈ<  ˜ÿ˜ÒâÖ†¯ˇˇã âçå¯ˇˇÖ¿ÑG  É¯&vj&X∂Ö¶RB ∂4ÖßRB ã˘âÖ∏¯ˇˇ¡ÁWç1âÖå˙ˇˇçÖê˙ˇˇj PËE/ˇˇã∆¡‡PãÖ∏¯ˇˇ∑Ö§RB çÖ†IB PçÖê˙ˇˇ«PË$ˇˇãΩå˙ˇˇÉƒÉˇáê   ãΩê˙ˇˇÖˇu3¿âÖúˆˇˇâÖ,˛ˇˇPçÖ†ˆˇˇÈs  ÉˇÑ{  ÉΩ,˛ˇˇ Ñn  ãÖ,˛ˇˇ3…3ˆãÿã«˜§µ0˛ˇˇ¡âÑµ0˛ˇˇÉ“ Fã ;Ûu‰ªÃ  Ö…Ñ9  ãÖ,˛ˇˇÉ¯sÉ»  âåÖ0˛ˇˇˇÖ,˛ˇˇÈ  ÉΩ,˛ˇˇáÄ   ãµ0˛ˇˇã«¡‡PçÖê˙ˇˇâµ|¯ˇˇPçÖ0˛ˇˇâΩ,˛ˇˇSPËßÕˇˇÉƒÖˆÑ6ˇˇˇÉ˛ÑÀ  ÉΩ,˛ˇˇ Ñæ  ãÖ,˛ˇˇ3…ãΩ|¯ˇˇ3ˆãÿã«˜§µ0˛ˇˇ¡âÑµ0˛ˇˇÉ“ Fã ;Ûu‰ÈEˇˇˇ;Ω,˛ˇˇçïê˙ˇˇí¿rçï0˛ˇˇâï∞¯ˇˇçç0˛ˇˇÑ¿uççê˙ˇˇâçê¯ˇˇÑ¿t
+ãœâΩú¯ˇˇÎãç,˛ˇˇâçú¯ˇˇÑ¿tãΩ,˛ˇˇ3¿3ˆâÖº¯ˇˇÖ…Ñ  É<≤ u;ÖÍ   É§µ¿¯ˇˇ çFâÖº¯ˇˇÈ‘   3“ãŒ!ï¨¯ˇˇâï¥¯ˇˇÖˇÑß   É˘stj;»uãÖ¨¯ˇˇÉ§ç¿¯ˇˇ @∆âÖº¯ˇˇãÖ¨¯ˇˇãïê¯ˇˇãÇãï∞¯ˇˇ˜$≤Ö¥¯ˇˇÉ“ Ñç¿¯ˇˇãÖ¨¯ˇˇÉ“ @AâÖ¨¯ˇˇ;«âï¥¯ˇˇãÖº¯ˇˇâï|¯ˇˇuëÖ“t4É˘sÑ  ;»uÉ§ç¿¯ˇˇ çAâÖº¯ˇˇã¬3“Ñç¿¯ˇˇãÖº¯ˇˇ“AÎ»É˘sÑ‘   ãçú¯ˇˇãï∞¯ˇˇF;ÒÖˇ˛ˇˇâÖ,˛ˇˇ¡‡PçÖ¿¯ˇˇPçÖ0˛ˇˇSPËÀÀˇˇÉƒ∞Ñ¿Ñ¡   ãÖ†¯ˇˇ+Ö∏¯ˇˇâÖ†¯ˇˇÖø¸ˇˇãçå¯ˇˇÖ…Ñ”   ãç<SB âÖå¯ˇˇÖ¿Ñò   É¯Ñµ   ãç,˛ˇˇÖ…Ñß   3ˇ3ˆ˜§µ0˛ˇˇ«âÑµ0˛ˇˇãÖå¯ˇˇÉ“ Fã˙;Òu‡ÖˇtãÖ,˛ˇˇÉ¯ssNâºÖ0˛ˇˇˇÖ,˛ˇˇÎe3¿PâÖúˆˇˇâÖ,˛ˇˇçÖ†ˆˇˇPçÖ0˛ˇˇSPËÀˇˇÉƒ2¿È7ˇˇˇÉ•úˆˇˇ É•,˛ˇˇ j Î3¿PâÖ,˛ˇˇâÖúˆˇˇçÖ†ˆˇˇPçÖ0˛ˇˇSPË» ˇˇÉƒãΩî¯ˇˇã˜ãç,˛ˇˇâµ∞¯ˇˇÖ…t|j
+3ˆ3ˇ[ãÑΩ0˛ˇˇ˜„∆âÑΩ0˛ˇˇÉ“ GãÚ;˘u‰âµå¯ˇˇÖˆãµ∞¯ˇˇªÃ  tBãç,˛ˇˇÉ˘ssã¬âÑç0˛ˇˇˇÖ,˛ˇˇÎ&3¿PâÖúˆˇˇâÖ,˛ˇˇçÖ†ˆˇˇPçÖ0˛ˇˇSPË6 ˇˇÉƒã˛çÖ\¸ˇˇPçÖ,˛ˇˇPË7ÍˇˇYYÉ¯
+Öñ   ˇÖò¯ˇˇçwãÖ\¸ˇˇ∆1âµ∞¯ˇˇÖ¿Ñä   j
+3ˇã3…[ãÑç`¸ˇˇ˜„«âÑç`¸ˇˇÉ“ Aã˙;Œu‰ãµ∞¯ˇˇªÃ  ÖˇtVãÖ\¸ˇˇÉ¯ssâºÖ`¸ˇˇˇÖ\¸ˇˇÎ<3¿PâÖúˆˇˇâÖ\¸ˇˇçÖ†ˆˇˇPçÖ`¸ˇˇSPËÇ…ˇˇÉƒÎÖ¿u	ãÖò¯ˇˇHÎ0çwàãÖò¯ˇˇãçÄ¯ˇˇâAãçÑ¯ˇˇÖ¿x
+Å˘ˇˇˇw»ãEH;¡rã¡Öî¯ˇˇâÖÑ¯ˇˇ;ÑÃ   ãÖ,˛ˇˇÖ¿Ñæ   3ˇãÿ3…ãÑç0˛ˇˇ∫  ö;˜‚«âÑç0˛ˇˇÉ“ Aã˙;ÀuﬂªÃ  Öˇt@ãÖ,˛ˇˇÉ¯ssâºÖ0˛ˇˇˇÖ,˛ˇˇÎ&3¿PâÖúˆˇˇâÖ,˛ˇˇçÖ†ˆˇˇPçÖ0˛ˇˇSPË≠»ˇˇÉƒçÖ\¸ˇˇPçÖ,˛ˇˇPË∞ËˇˇYYãçÑ¯ˇˇj_+Œ3“˜µ§¯ˇˇÄ¬0;œrà7OÉˇˇuËÉ˘	vj	YÒ;µÑ¯ˇˇÖ4ˇˇˇ∆ ÄΩt¯ˇˇ _^[tçÖl¯ˇˇPËŒ  YãM¸3ÕËˇˇãÂ]√hÄSB ÎhxSB ÎhpSB ˇuãçî¯ˇˇQËbìˇˇÉƒÖ¿u	ÎÆhhSB Î·3¿PPPPPËEˇˇÃjh–™B Ë`ˇˇÉe‰ jË˜∫ˇˇYÉe¸ j^âu‡;5tŸB tY°xŸB ã∞Ö¿tJã@ê¡Ë®t°xŸB ˇ4∞ËÓ  YÉ¯ˇtˇE‰°xŸB ã∞É¿ Pˇ|B °xŸB ˇ4∞ËZôˇˇY°xŸB É$∞ FÎú«E¸˛ˇˇˇË	   ãE‰Ëˇˇ√jË∑∫ˇˇY√ãˇUãÏVãuWç~ãê¡Ë®t%ãê¡Ë®tˇvËôˇˇY∏ø˛ˇˇ!3¿âFââF_^]√ãˇUãÏãMÉ˘˛uË•kˇˇ« 	   Î8Ö…x$;ê€B sã¡É·?¡¯k…8ãÖêŸB ∂D(É‡@]√Ëpkˇˇ« 	   ËµCˇˇ3¿]√ãˇUãÏˇuˇuˇuˇuˇ»B ]√ãˇUãÏQQ›EŸ¸›]¯›E¯ãÂ]√ãˇUãÏÉÏSV3€∏„   Wâ]¯âEÙ√«E¸U   ô+¬ã»—˘âMj[ã4Õ®dB ãM+Œ∑1çBøf;√wçB ∑–∑>çGøf;√wçG ∑¿Îã«É∆Ém¸t
+fÖ“tf;–t∆ãMã]¯∑¿∑“+–t"Ö“yçAˇâEÙÎ	ãEÙçYâ]¯;ÿéwˇˇˇÉ»ˇÎãÕ¨dB _^[ãÂ]√ãˇUãÏÉ} tˇuË9ˇˇˇYÖ¿x=‰   s	ã≈àSB ]√3¿]√ÃÃÃÃÃÃãˇUãÏãEWã};¯t&VãuÖˆt+¯çõ    äç@äTˇàLˇàPˇÉÓuÎ^_]√ÃÃÃÃÃÃÃãˇUãÏÅÏ  °»¿B 3≈âE¸ãMSã]Vãuâµ¸˛ˇˇâù¯˛ˇˇWã}âΩ ˇˇˇÖˆu%Ö…t!Ë…iˇˇ«    ËBˇˇãM¸_^3Õ[ËÏˇˇãÂ]√Öˇt€Ö€t◊«ÖÙ˛ˇˇ    É˘rÿIØœŒâçˇˇˇã¡3“+∆˜˜çxÉˇá‹   ãΩ ˇˇˇ;ŒÜ°   ç7âïÏ˛ˇˇçI ã∆ãÚâÖˇˇˇ;Òw1ãˇPVãÀˇ¿B ˇ”ÉƒÖ¿~
+ã∆âÖˇˇˇÎãÖˇˇˇãçˇˇˇ˜;Òv—ã—;¡t4+¡ãﬂâÖˇˇˇêäçRãµˇˇˇäBˇàDˇã∆àJˇÉÎu„ãù¯˛ˇˇãçˇˇˇãµ¸˛ˇˇ+œãïÏ˛ˇˇâçˇˇˇ;ŒákˇˇˇãçÙ˛ˇˇã¡IâçÙ˛ˇˇÖ¿éÚ˛ˇˇãtçÑãåçˇˇˇâµ¸˛ˇˇÈ
+ˇˇˇãµ ˇˇˇãÀãÖ¸˛ˇˇ—ÔØ˛¯WPˇ¿B ˇ”ÉƒÖ¿~VWˇµ¸˛ˇˇË˛ˇˇÉƒˇµˇˇˇãÀˇµ¸˛ˇˇˇ¿B ˇ”ÉƒÖ¿~Vˇµˇˇˇˇµ¸˛ˇˇËÈ˝ˇˇÉƒˇµˇˇˇãÀWˇ¿B ˇ”ÉƒÖ¿~VˇµˇˇˇWË¡˝ˇˇÉƒãÖˇˇˇãÿãµ¸˛ˇˇãï ˇˇˇâÖˇˇˇçd$ ;˛v7Úâµ˛ˇˇ;˜s%ãç¯˛ˇˇWVˇ¿B ˇï¯˛ˇˇãï ˇˇˇÉƒÖ¿~”;˛w=ãÖˇˇˇãù¯˛ˇˇÚ;wWVãÀˇ¿B ˇ”ãï ˇˇˇÉƒÖ¿ãÖˇˇˇ~€ãùˇˇˇâµ˛ˇˇãµ¯˛ˇˇÎçõ    ãï ˇˇˇã√+⁄âÖˇˇˇ;ﬂvWSãŒˇ¿B ˇ÷ÉƒÖ¿Ÿãï ˇˇˇãÖˇˇˇãµ˛ˇˇâùˇˇˇ;ﬁrYâï‰˛ˇˇâùË˛ˇˇ;Ût4+Ûã”ãù‰˛ˇˇçI äçRäLˇàDˇàJˇÉÎuÎãµ˛ˇˇãùˇˇˇãï ˇˇˇãÖˇˇˇ;˚ÖÎ˛ˇˇã˛È‰˛ˇˇ;¯s5ãù¯˛ˇˇ+¬âÖˇˇˇ;«v#WPãÀˇ¿B ˇ”ãï ˇˇˇÉƒÖ¿ãÖˇˇˇt’;¯r;ãù¯˛ˇˇãµ ˇˇˇ+∆âÖˇˇˇ;Ö¸˛ˇˇvWPãÀˇ¿B ˇ”ÉƒÖ¿ãÖˇˇˇt◊ãµ˛ˇˇãïˇˇˇã ãΩ¸˛ˇˇ+Œ+«;¡|AãÖˇˇˇ;¯sãçÙ˛ˇˇâ|çÑâÑçˇˇˇAâçÙ˛ˇˇãçˇˇˇãΩ ˇˇˇ;ÒÉI˝ˇˇâµ¸˛ˇˇÈ{¸ˇˇ;ÚsãÖÙ˛ˇˇâtÖÑâîÖˇˇˇ@âÖÙ˛ˇˇãÖˇˇˇãµ¸˛ˇˇãΩ ˇˇˇ;É˝ˇˇã»È8¸ˇˇÃÃÃÃÃÃÃÃÃÃÃÃUãÏV3¿PPPPPPPPãUçI ä
+¿t	É¬´$ÎÒãuãˇä
+¿tÉ∆£$sÒçFˇÉƒ ^…√ËÇæˇˇ3…Ñ¿î¡ã¡√jh™B Ë5ˇˇ3ˆâu‰ãEˇ0Ë— ˇˇYâu¸ãEã ã8ã◊¡˙ã«É‡?k»8ãïêŸB ˆD(t!WË|ÀˇˇYPˇ¿B Ö¿uËeˇˇãˇêB âËeˇˇ« 	   ÉŒˇâu‰«E¸˛ˇˇˇË   ã∆Ëˇˇ¬ ãu‰ãMˇ1Ëy ˇˇY√ãˇUãÏÉÏVãuÉ˛˛uËødˇˇ« 	   ÎYÖˆxE;5ê€B s=ã∆ã÷É‡?¡˙k»8ãïêŸB ˆD(t"çEâu¯âEÙçMˇçE¯âuPçEÙPçEPËˇˇˇÎËidˇˇ« 	   ËÆ<ˇˇÉ»ˇ^ãÂ]√ãˇUãÏÅÏå   °»¿B 3≈âE¸ãEã»ãUÉ‡?SVk8¡˘WâUîâM∞ãçêŸB âu¥ãDãuÚâEêâuúˇºB 3€âEàSçMºË¯GˇˇãM¿ç}§3¿´ãIâMÑ´´ã}îâ}‹;˛É  ãu®äàE’ãE∞â]∏«Eÿ   ãÖêŸB âE–Å˘È˝  Ö-  ãU¥É¿.¬ãÀâEò8tAÉ˘|ıã}úãE‹+¯âMÿÖ…é¢   ãE–∂D.æÄ@»B @âEÃ+¡âE–;«è  ã”Ö…~ãuòäàDÙB;—|ÙãE–ã}‹Ö¿~ˇu–çEÙ¡WPË+ˇˇãMÿÉƒÖ…~!ãUÿã˚ãu¥ãE∞ç>GãÖêŸB à\.;˙|Íã}‹çEÙâù|ˇˇˇâEåçç|ˇˇˇ3¿â]ÄÉ}ÃQî¿@âEÿPçEåÎ?∂ æà@»B AâM–;œè®  ã}‹3¿É˘âùtˇˇˇççtˇˇˇâùxˇˇˇî¿â}Ã@QâEÿPçEÃPçE∏PË=ŸˇˇÉƒÉ¯ˇÑπ  ãE–H¯ÈÇ   ãM¥äT-ˆ¬täD.Ä‚˚àEÏäàEÌãE–jàT-çEÏPÎCäàE„ËFßˇˇ∂M„f9H},çGâEÃ;EúÉ5  jçE∏WPËïˇˇÉƒÉ¯ˇÑI  ã}ÃÎjWçE∏PËÍîˇˇÉƒÉ¯ˇÑ,  SSjçE‰GPˇuÿçE∏â}‹PSˇuàË∫æˇˇÉƒ âEÃÖ¿Ñ  SçM†QPçE‰PˇuêˇB Ö¿Ñﬁ   ãu¨+uîãEÃ˜âu®9E†Ç–   Ä}’
+u4jXSfâE‘çE†PjçE‘PˇuêˇB Ö¿Ñû   É}†Çù   ˇE¨Fâu®;}úÉç   ãMÑÈÇ˝ˇˇÖˇ~&ãu‹ãE∞”—ãÖêŸB ä3CàD
+.ãMÿãU¥;ﬂ|‡ãu®˜Ä}» âu®ÎSÖˇ~Òãu‹ãE∞”ãÖêŸB ä3CàD
+.ãU¥;ﬂ|ÂÎŒãU∞ãM¥ä]„ãïêŸB à\.ãïêŸB ÄL-FÎ∞ˇêB âE§8]»t
+ãEºÉ†P  ˝ãEçu§ãM¸ã¯3Õ•••_^[ËÈ¯˛ˇãÂ]√ãˇUãÏQSVãu3¿Wã˛´´´ã}ãE«âE¸;¯s?∑SËù  Yf;√u(ÉFÉ˚
+uj[SËÖ  Yf;√uˇFˇFÉ«;}¸rÀÎˇêB â_ã∆^[ãÂ]√ãˇUãÏQVãuWVËxÙˇˇYÖ¿tUã˛ÉÊ?¡ˇkˆ8ãΩêŸB Ä|0( }<ËÚäˇˇã@LÉ∏®    uãΩêŸB Ä|0) tçE¸PãΩêŸB ˇt0ˇ∏B Ö¿t∞Î2¿_^ãÂ]√ãˇUãÏ∏  Ë‚˝˛ˇ°»¿B 3≈âE¸ãMã¡ãUÉ·?¡¯k…8Sã]ãÖêŸB VWã˚ãDãM—âÖ¯Îˇˇ3¿´âïÙÎˇˇ´´; ssãΩ¯Îˇˇçµ¸Îˇˇ; säA<
+uˇC∆FàFçE˚;r‰çÖ¸ÎˇˇâM+çÖ¯Îˇˇj PVçÖ¸ÎˇˇPWˇB Ö¿tãÖ¯ÎˇˇC;∆rãMãïÙÎˇˇ; rùÎˇêB âãM¸ã√_^3Õ[Ë/˜˛ˇãÂ]√ãˇUãÏ∏  Ë˝˛ˇ°»¿B 3≈âE¸ãMã¡ãUÉ·?¡¯k…8Sã]ãÖêŸB VWã˚ãDãM—âÖ¯Îˇˇ3¿´âïÎˇˇ´´Îuçµ¸Îˇˇ; s%∑É¡É¯
+uÉCj_fâ>É∆fâÉ∆çE˙;r◊ãΩ¯ÎˇˇçÖ¸Îˇˇ+âMj çÖÙÎˇˇÉÊ˛PVçÖ¸ÎˇˇPWˇB Ö¿tãÖÙÎˇˇC;∆rãMãïÎˇˇ; ráÎˇêB âãM¸ã√_^3Õ[ËDˆ˛ˇãÂ]√ãˇUãÏ∏  Ë¸˛ˇ°»¿B 3≈âE¸ãMã¡ãUÉ·?¡¯k…8SVãÖêŸB ãuWã˛ãDãMâÖÎˇˇ 3¿âçÙÎˇˇ´´´ã˙;—Éƒ   ãµÙÎˇˇçÖP˘ˇˇ;˛s!∑É«É˘
+u	jZfâÉ¿fâÉ¿çM¯;¡r€j j hU  çç¯ÎˇˇQççP˘ˇˇ+¡—¯Pã¡Pj hÈ˝  Ë"∫ˇˇãuÉƒ âÖËÎˇˇÖ¿tQ3€Ö¿t5j ççÏÎˇˇ+√QPçÖ¯Îˇˇ√PˇµÎˇˇˇB Ö¿t&ùÏÎˇˇãÖËÎˇˇ;ÿrÀã«+EâF;ΩÙÎˇˇÇFˇˇˇÎˇêB âãM¸ã∆_^3Õ[Ëı˛ˇãÂ]√jh´B ËôˇˇãuÉ˛˛uË•\ˇˇÉ  Ë∞\ˇˇ« 	   È≥   Öˆàì   ;5ê€B Éá   ãﬁ¡˚ã∆É‡?k»8âM‡ãùêŸB ˆD(tiVËÏ¡ˇˇYÉœˇâ}‰Ée¸ ãùêŸB ãM‡ˆD(uËL\ˇˇ« 	   Ë.\ˇˇÉ  ÎˇuˇuVËG   Éƒã¯â}‰«E¸˛ˇˇˇË
+   ã«Î)ãuã}‰VËÆ¡ˇˇY√ËÚ[ˇˇÉ  Ë˝[ˇˇ« 	   ËB4ˇˇÉ»ˇËˇˇ√ãˇUãÏÉÏ(ãMãEâE¸âMSVãuWÖ…Ñπ  Ö¿u Ë´[ˇˇÉ  Ë∂[ˇˇ«    Ë˚3ˇˇÉ»ˇÈó  ã∆ã÷¡˙É‡?k¯8âU¯ãïêŸB â}Ùä\:)Ä˚tÄ˚uã¡˜–®t∞ˆD:( tjj j VËr  Éƒ3¿ç}‰´V´´Ë˚ˇˇYÑ¿t?Ñ€t%˛ÀÄ˚ã]¸áº   ˇuçEÿSPËÅ˙ˇˇÉƒãÈü   ˇuã]¸çEÿSVPË∫ˆˇˇÉƒÎ„ãM¯ãUÙãçêŸB Ä|( }Eæ√ã]¸ÉË t*ÉËtÉËulˇuçEÿSVPË‰˚ˇˇÎ¬ˇuçEÿSVPËø¸ˇˇÎ≤ˇuçEÿSVPËÁ˙ˇˇÎ¢ãLç}ÿã]¸3¿´j ´´çE‹PˇuSQˇB Ö¿u	ˇêB âEÿçuÿç}‰•••ãM¯ãUÙãEËÖ¿u\ãE‰Ö¿t*j^;∆uË\Zˇˇ« 	   Ë>Zˇˇâ0Èü˛ˇˇPËZˇˇYÈì˛ˇˇãçêŸB ˆD(@tÄ;tË&Zˇˇ«    ËZˇˇÉ  Èh˛ˇˇ+EÏÎ3¿MZê       ˇˇ  ∏       @                                      ∫ ¥	Õ!∏LÕ!This program cannot be run in DOS mode.
+$       ,+\åhJ2ﬂhJ2ﬂhJ2ﬂ*ÌﬂtJ2ﬂ*“ﬂJ2ﬂµµ˘ﬂcJ2ﬂhJ3ﬂJ2ﬂ*”ﬂFJ2ﬂµµ¸ﬂjJ2ﬂa2∂ﬂkJ2ﬂ2èˇﬂHJ2ﬂvßﬂjJ2ﬂhJ2ﬂ-H2ﬂµµ„ﬂiJ2ﬂ0”ﬂeJ2ﬂ0ÓﬂiJ2ﬂ0ÈﬂiJ2ﬂ0ÏﬂiJ2ﬂRichhJ2ﬂ                PE  L ˝5"T        ‡ !  d  V     2q     Ä                             Ç´  @                   ê[ §   4\ x    P –D           û X   † Ãn                                  `? @            Ä |                          .text   Ù8     :                   `RT_CODE 4(   P  *   >                `.rdata  L‰  Ä  Ê  h             @  @.data   Ä`   p  B   N             @  ¿.data1  @T  ‡  V  ê             @  ¿.trace     @     Ê             @  @.rsrc   –D   P  F   Ë             @  @.reloc  Ãn   †  p   .             @  B                                                                                                                                                                        UãÏÉ‰VWSÉÏ4fÔ¿ã}f÷D$ ãuÉ˛çò   j jˇuËø  ÉƒÖ¿ÑÅ   â|$,3€ât$(ãã}VWËn  Éƒ=ver u9çT$Rjjj VWË≤  ÉƒãT$fT$ ãT$fT$$ãL$ãT$fL$"fT$&ã«ã÷çL$ Ë  CSjWËD  ÉƒãÖˆuñãt$(ã|$,ç>É¯u
+O3¿ãUfâzÖˇ~Éˇ0~ˇçDt WPˇuË®‘ Éƒ3¿Éƒ4[_^ãÂ]√Éˇå™   ã]É„tˆ√Öô   ˜€É√—ÎçC;¯åá   ãœçTt +ÀÉ·˜ŸœÖ€v"â|$,3¿ât$(ã}∑4Bfâ4G@;√rÛãt$(ã|$,çZ®tãEÛoZfXÉ√;ŸrÔÎãEfoZfXÉ√;ŸrÔ;œÉZˇˇˇã]çDt ∑HfâKA;œrÛÈAˇˇˇ3…Î€fêUãÏÉ‰VWSÉÏ4ã⁄j Sã¯ãÒWË%  Éƒã–Ö“Ñã   3¿â\$$ãÿât$ ãÚVWCË“  Éƒ=ver uJçL$Qjjj VWË  ÉƒfoT$frÚfÔ¿ãL$ fr‚fk–fp‡è Û~f€—f˝⁄f÷ã«ã÷ãL$ ËaˇˇˇSˇt$(WËñ  ÉƒãÖˆuÉÉƒ4[_^ãÂ]√ ãD$É¯	v3¿√ˇ$Öpë∏@  √∏+  √∏‡.  √∏Ä>  √∏"V  √∏¿]  √∏ }  √∏D¨  √∏Äª  √∏ w √êVÉÏ$π   ãD$,çT$ «D$   çpâT$ã÷Ë•   ã»Ö…|p3“jXâ|$ã˛â\$ãâl$ã¡ã⁄çl$ ÿÉ|$  tQã◊π   «D$   FãD$,âl$Ë\   Ö¿|É˛
+~—ã|$∏¯ˇˇˇã\$ãl$Éƒ$^√ã|$ã»ã\$ãl$ã¡Éƒ$^√ã”ã|$ã¬ã\$ãl$Éƒ$^√Ä    ãD$ãT$ãL$VWSUÉÏãËã⁄É} ÜÅ   3“3¿ãuˆD0`tã|0â|0,ãu∑|`˜«   tã|â|(ãu∑|`˜«   tã|â|$ãu∑|`˜«Ä   tã|lâ|\ãuã|Öˇtø?Öˇt«D   BÉ¿p;UrÉˇt$<QSUË¬  ÉƒÖ¿åÿ  ãT$@«    É} vO3ˆâD$3ˇ3…ãEfâ|`ãEÉ| tÉ: u∑©   u«    Î«   FÉ¡p;ur»ãD$É: Ös  ˆ Öj  «    É}  ÑG  ãMÖ…Ü<  3ˇâL$3ˆâ|$âD$âl$â$ãD$ãPâT$çãP,;PDuÖ“v3€äL4:LLu	C;⁄rÒ3…Îπ   ãX(ãh$;X@uãx0â|$;h<u;xHuÖ…Ñ¨   ÎãH0âL$É˚	v3…ÎKˇ$ùòëπ@  Î=π+  Î6π‡.  Î/πÄ>  Î(π"V  Î!π¿]  Îπ }  ÎπD¨  ÎπÄª  Îπ w ã\$ç|4ã\$ˇsWˇt$RUQˇ0SˇÉƒ ã”ãBÚD0$ÚL0,ÚT04ÚD0<ÚL0DÚT0LãJâL$ãD$É∆p@âD$;D$ÇÊ˛ˇˇãT$@ãD$ã$ˆ u«    Éƒ][_^√«   Éƒ][_^√Ä    VWSUÉÏãl$0ãEçuÉ¯tzÉ¯t∏ıˇˇˇÉƒ][_^√3€Æ\$«E   ã|$ã«@à  âD$ÆT$ˇt$4VUËÀ  Éƒâ|$ÆT$É} v3…3“ãuA«D    É¬p;MrÏÿÖ¿Lÿã√Éƒ][_^√ã≈ã÷π   ç\$«D$   â\$Ëæ¸ˇˇÖ¿|M3€j_ÿÉ|$ t-«D$   çD$âD$ã≈ã÷π   GËç¸ˇˇÖ¿|Éˇ
+~œª¯ˇˇˇÖ€ç5ˇˇˇã√Éƒ][_^√ãÿÎÍD  Ñ     VWSUÉÏã\$0Å˚ w Ñ£  Å˚Äª  Ñç  Å˚D¨  Ñw  Å˚ }  Ña  Å˚¿]  ÑK  Å˚"V  Ñ5  Å˚Ä>  Ñ  Å˚‡.  t+Å˚+  u∫   Î!Å˚@  t∏˘ˇˇˇÉƒ][_^√∫	   Î∫   ãl$(ãEÉ¯ÑÀ  É¯t∏ıˇˇˇÉƒ][_^√ã}3¿Öˇv'ãu3…ã\$,;1t@É¡p;«rÛ∏˙ˇˇˇÉƒ][_^√ã\$0;«sÎãuç≈    +»¡·ã|$4;|t*ÅˇÄ  v∏˜ˇˇˇÎâ|ãu∑D`É»fâD`3¿ãuÎ3¿ç<1â|$;Wt-Å˚Äª  v∏˘ˇˇˇÎâTãU∑t
+`ÉŒfât
+`ãuç1â\$ãT$8;Tt:É˙v∏ÙˇˇˇÎ.âTã]∑t`ÉŒfât`ãu∑|`Éœfâ|`ãuç1â\$É|$< Ñ‚   ª   É˙G”Ö“Üˇ   ã⁄—Îâ\$Ö€ÜP  â$3€ât$âL$ãT$<ãl$æZÉ˘~∏ÛˇˇˇÎ+:L]t%ã|$(àL]ãL$ãw∑l`ÉÕfâl`ãoâl$ÈæLZÉ˘~∏ÛˇˇˇÎ+:L]t%ã|$(àL]ãL$ãw∑l`ÉÕfâl`ãoâl$ÈC;\$rÇâl$ç\ãt$ã$ãL$ãl$(K;⁄s@ã|$<æ;É˙â$~∏ÛˇˇˇÎ)ã|$ä$:Ttã˜ã$àTã}∑\`ÉÀfâ\`ãuÚDÚLÚTãT0ÚD$ÚL,ÚT4ã]âT03“ãu«D   ãuÖˆv(ã]3…ã|$,;<tBÉ¡p;÷rÛÉƒ][_^√ª   ÈPˇˇˇ;÷sÍª   ç’    + ¡·ãUâ\
+Tãuâ\Xã}∑l`ÉÕPfâl`Éƒ][_^√«E   È;˝ˇˇ∫   È˝ˇˇ∫   È˝ˇˇ∫   È˚¸ˇˇ∫   ÈÒ¸ˇˇ∫   ÈÁ¸ˇˇ∫   È›¸ˇˇ3“È÷¸ˇˇÑ     Ä    VWSUVã|$ã\$ãD$ ãT$$çw«G   ââWÉ; v3¿ãS∆ @;rÙj Ω   USUUVWË˜  ÉƒÖ¿tY][_^√jSVËa  ÉƒÖ¿tY][_^√É v>3¿â4$3€ããWhmrdyˇ4WË  ÉƒÖ¿tPWË6  ÉƒãWâDFÉ√p;wrŒã4$âl$$âl$ ât$â|$Éƒ][_^ÈD  @ ∏   √ Ä    VWSÉÏã\$(çT$«D$    ã5$™«C   çC,âD$ç{RVËl  ÉƒãT$É˚ÙtâS«D$    ç’    + ç@¡·çT¡ãKçÕ    +¡ãÀ¡‡+» +–+T$çD$”âT$∫   âKçL$RRPVQçt$VWSË`  Éƒ ã–Ö“å&  ã¬É{ Ü  3ˇπˇˇ  âT$3ˆâ,$3“É∆pGãkD$âL5úãk«D5†ˇˇˇˇãkâL5§ãkâL5®ãkàT5¨ãkàT5≠ãkàT5ÆãkàT5ØãkàT5∞ãkàT5±ãkàT5≤ãkàT5≥ãkÚD.úÚL.§ÚT.¨ÚD.ÃÚL.‘ÚT.‹ãkfâT5ãkâT5¿ãkâT5∏ãkâT5ºãkâT5¥ãkàT5ƒãkàT5≈ãkàT5∆ãkàT5«ãkàT5»ãkàT5…ãkàT5 ãkàT5ÀãkâT5îãk«D5ò   ;{Çˇˇˇã,$Éƒ[_^√ã¬ÎıfÑ     V«$    ç$Pˇ5$™Ë©  ÉƒãT$Ö“ã$tâ
+çÕ    +—ç@¡‚çD Y√@ ∫   ãL$çAPRRQËª  3¿Éƒ√D  VWSÉÏãt$ ˜∆   Ñ~   ãD$3…—˛çXãCÖ¿tnø   âL$ã◊âD$â,$ã[øCÉ¯ˇtãC$Ö¿tã@Î3¿ã»Ω   ”ÂM#Ót)ã ã›”„ã»–çlm ãD$â|$˚”˛ç\ËËãCÖ¿âD$uØãL$ã,$Î3…ã¡Éƒ[_^√êÉÏãT$ãD$®çJtg—¯Éz$ tUât$∫   â<$ã˘ãOøqÉ˛ˇtãq$ÖˆtãNÎ3…æ   ”ÊN#tãç4v”¯—ç|˜ËÉ u∆ãt$ãœã<$Ö“t
+ãQãBÉƒ√3¿Éƒ√êãD$ãT$ãL$VWSUÉÏãÍãÿãÒ∑E ®@us3ˇ©Ä   t`ãMãEøQÉ˙ˇtQãQ$Ö“tJÉz ~D3“â\$ã⁄ât$ãã÷ãD$ãL$Ë©ˇˇˇÖ¿E¯CãEÉ∆øHÉ˘ˇtãH$Ö…tãIÎ3…;Ÿ| ã«Éƒ][_^√ãEVˇuãPˇRÉƒã¯∑E ÈtˇˇˇêãD$ãT$ãL$VWSUÉÏ4ãÍãÿâL$ãEøPÉ˙ˇÑπ  ø    É{ vQ3ˆâ\$0ãﬁâl$(ãÓUˇt$4Ë“h  ÉƒãœEÅ…   Ö¿ãD$0E˘ãH∑L`Ö…π   EÒÉ√p;hr«ãÿÖˆãl$(uøE Ö«u3ˆÈ@  ãUãBÖ¿t%ã@Ö¿tˇuˇt$ Sˇ–ÉƒãÖˆtå  ãUÎ3ˆ˜◊f!} ãEøJÉ˘ˇâD$âL$Ñ˚   ãB$3ˇÖ¿Ñ√   Éx éπ   ∏   ãL$T”‡âD$,«D$    â\$0âl$(ç@ˇ#D$ã\$ãL$ãl$ât$ âD$$ˆE tRÉ˘ˇtãB$Ö¿tã@Î3¿ãÛã’ãL$T¡”Êt$,t$$âD$ãŒãD$0Ëö˛ˇˇãT$(Ö¿ãRøJtã˜Ö¿âD$ O˛CÉ≈É˘ˇtãB$Ö¿tã@Î3¿;ÿ|çãt$ ã\$0ãl$(ãBÖ¿tã@Ö¿tWˇuˇt$$Sˇ–ÉƒÖ¿Eã∆Éƒ4][_^√3ˇÎ—3¿Éƒ4][_^√fêVUÉÏ ãD$4çl$@ãT$8ãL$<âD$âT$âL$π   âl$ãD$,ãT$0«D$    Ë   Éƒ ]^√@ Ä    VWSUÉÏãÿãD$Hˆ¬ã(çsâl$ãÓÑm  ã˙—ˇâ|$É~ tUâT$∏   â$ãMøQÉ˙ˇtãQ$Ö“tãJÎ3…∫   ”‚J#◊tãmçR”ˇ¡çl’ËÉ} u∆ãT$ã$Ö¿Ñ
+  Ö…u
+ˆE Ö	  ãEâD$øxÖˇéŸ   ãD$<ãL$@¡ãL$ØΩ¿ëâ$ãAÖ¿tã Ö¿tRSˇ–Éƒ;$s∏˝ˇˇˇÉƒ][_^√ã¡ã$øH;Tçw‰∑U ˆ¬tÉ|$L t∏˙ˇˇˇÉƒ][_^√ãD$âEÎãEÖ¿Ñ—  ãL$øQ
+øI;—å¡   É|$@ ÜY  ãT$DçOˇ«D$    âL$çRˇÉ˙w â4$â|$â\$ãt$ˇ$ï,íãL$æÎ(∏ˆˇˇˇÉƒ][_^√ãL$øqÎã\$øsÎãL$ã±ã}øO
+;ÀLŸøO;ŸMÀã\$<É|$ç3wµã|$ˇ$ΩLíàÎ	fâXÎâòF;t$@rÑã|$ã4$ã\$È£   É|$@ Üò   ãL$DçWˇ«D$    çIˇÉ˘á_ˇˇˇâl$â\$â|$â4$ã⁄ãl$ˇ$çÏëãT$æT ÎãT$øjÎãt$ønÎãT$ã™ãt$<É˚ç<.áˇˇˇˇ$ùíàÎ	fâxÎâ∏E;l$@rßã|$ãl$ã4$ã\$É|$L tNOÉˇá—˛ˇˇˇ$ΩlíãT$<ãL$LæâÎ-ãT$<ãL$LøPâÎãL$<ã|$LøHâÎãT$<ãL$Lãêâ∑U ˜¬   t=ã{∏    Öˇv*3…â4$3Ì3“ãsãtÖˆt∏   fâ.ã{AÉ¬p;œr‚ã4$ `ˇˇÎ∏ `  ã^Ö€t>ãT$ãnøMÉ˘ˇtãM$Ö…tãIÎ3…Ω   ”ÂMf	#Ít”˙çlm çtÎËã^Ö€u∆3¿Éƒ][_^√∏˛ˇˇˇÉƒ][_^√∏¸ˇˇˇÉƒ][_^√Ñ     VUÉÏ ãD$4çl$@ãT$8ãL$<âD$âT$âL$3…âl$ãD$,ãT$0«D$    Ë¸ˇˇÉƒ ]^√Ä    Ä    ÉÏãT$ãD$®çJt—¯Éz$ tUât$∫   â<$ã˘ãOøqÉ˛ˇtãq$ÖˆtãNÎ3…æ   ”ÊN#tãç4v”¯—ç|˜ËÉ u∆ãt$ãœã<$Ö“t"ãAøPÉ˙ˇuøÉ˙tãAÉƒ√ã@$Éƒ√3¿Éƒ√fÑ     ÉÏãT$ãD$®çJtd—¯Éz$ tUât$∫   â<$ã˘ãOøqÉ˛ˇtãq$ÖˆtãNÎ3…æ   ”ÊN#tãç4v”¯—ç|˜ËÉ u∆ãt$ãœã<$Ö“tãAÉƒ√3¿Éƒ√@ SÉÏ(π   ãT$8çD$<âD$ ç\$ çD$$âT$âL$âL$â\$âD$ãD$0ãT$4Ë¢˙ˇˇ3“Ö¿DT$$ã¬Éƒ([√fêSÉÏ(π   ãT$8çD$<âD$ ç\$ çD$$âT$âL$âL$3…â\$âD$ãD$0ãT$4ËP˙ˇˇ3“Ö¿DT$$ã¬Éƒ([√ÉÏãT$ãD$®çJtb—¯Éz$ tUât$∫   â<$ã˘ãOøqÉ˛ˇtãq$ÖˆtãNÎ3…æ   ”ÊN#tãç4v”¯—ç|˜ËÉ u∆ãt$ãœã<$Ö“tøÎ3¿Éƒ√fD  ÉÏãT$ãD$®çJtb—¯Éz$ tUât$∫   â<$ã˘ãOøqÉ˛ˇtãq$ÖˆtãNÎ3…æ   ”ÊN#tãç4v”¯—ç|˜ËÉ u∆ãt$ãœã<$Ö“tøÎ3¿©   t © Äˇˇt
+ãD$®u
+ÎãD$®t∏   Î3¿Éƒ√D  Ñ     VWSUÉÏãD$$ã\$,ˆD$(çPÑ9  ãD$$ãl$(—˝Éx$ tG∏   ãrøNÉ˘ˇtãN$Ö…tãIÎ3…æ   ”ÊN#ıtãRç4v”˝¡çTÚËÉz u∆Ö¿Ñ‚   ãrãjãD$0â,$ønç<ãFØ<≠¿ëÖ¿t*ãÖ…t$ˇt$(ˇt$(ˇ—Éƒ;¯á§  øFÉ¯ˇÑ§   ÎøNÉ˘ˇÑ  ;|äá~  É<$ ÑÅ  É|$0 vcãD$43ˆã$MçHˇÉ˝wˇ$≠¨íæÎ∏ˆˇˇˇÉƒ][_^√øZÎãöÉ˘wÂˇ$çÃíã|$8à>Îã|$8fâwÎã|$8â∑FC;t$0r™3¿Éƒ][_^√∏˛ˇˇˇÉƒ][_^√ãFÖ¿Ñ‘   ãH Ö…Ñ…   ãT$4É˙Ñû   É|$0 Üâ   ãT$43Ìât$ãt$$çJˇâ$çT$RjSˇt$4VˇP ÉƒÖ¿uIøD$âD$É<$wã$ˇ$ÖåíãT$8ãD$àD Î ∏ˆˇˇˇÎãT$8ãD$fâjÎãT$8ãD$â™3¿EC;l$0s-Ö¿u)ãD$ã@Îã3¿Éƒ][_^√ˇt$8ˇt$4Sˇt$4ˇt$4ˇ—ÉƒÉƒ][_^√ãF$â$Èã˛ˇˇ;~Üˇˇˇ∏˝ˇˇˇÉƒ][_^√∏˚ˇˇˇÉƒ][_^√VWSUÉÏãD$ˆD$ ç@ÑÛ   ãT$ã\$ —˚Éz$ tH∫   ãhøMÉ˘ˇtãM$Ö…tãIÎ3…Ω   ”ÂM#Îtã@çlm ”˚—çDËËÉx u≈Ö“Ñõ  ogram Files\TeamViewer\TeamViewer.exe",0
+2021-02-24-12-33-02  WriteRegChanges(WRITE_STRING): Write registry value HKEY_CLASSES_ROOT\.tvlink\=InternetShortcut
+2021-02-24-12-33-02  WriteRegChanges(WRITE_STRING): Write registry value HKEY_CLASSES_ROOT\.tvlink\OpenWithProgIds\InternetShortcut=
+2021-02-24-12-33-03  WriteRegChanges(WRITE_STRING): Write registry value HKEY_CLASSES_ROOT\.tvlink\DefaultIcon\="C:\Program Files\TeamViewer\TeamViewer.exe"
+2021-02-24-12-33-03  WriteRegChanges(WRITE_STRING): Write registry value HKEY_CLASSES_ROOT\.tpsr\=TeamViewerPilotSessionReporting
+2021-02-24-12-33-04  WriteRegChanges(WRITE_STRING): Write registry value HKEY_CLASSES_ROOT\TeamViewerPilotSessionReporting\shell=
+2021-02-24-12-33-04  WriteRegChanges(WRITE_STRING): Write registry value HKEY_CLASSES_ROOT\TeamViewerPilotSessionReporting\shell\open=
+2021-02-24-12-33-05  WriteRegChanges(WRITE_STRING): Write registry value HKEY_CLASSES_ROOT\TeamViewerPilotSessionReporting\shell\open\command=
+2021-02-24-12-33-06  WriteRegChanges(WRITE_STRING): Write registry value HKEY_CLASSES_ROOT\TeamViewerPilotSessionReporting\shell\open\command\="C:\Program Files\TeamViewer\TeamViewer.exe" --opentpsr "%1"
+2021-02-24-12-33-06  WriteRegChanges(WRITE_STRING): Write registry value HKEY_CLASSES_ROOT\TeamViewerPilotSessionReporting\DefaultIcon=
+2021-02-24-12-33-07  WriteRegChanges(WRITE_STRING): Write registry value HKEY_CLASSES_ROOT\TeamViewerPilotSessionReporting\DefaultIcon\="C:\Program Files\TeamViewer\TeamViewer.exe",0
+2021-02-24-12-33-07  WriteRegChanges(WRITE_DWORD): Write registry value HKEY_LOCAL_MACHINE\SOFTWARE\TeamViewer\Always_Online=1
+2021-02-24-12-33-08  WriteRegChanges(WRITE_DWORD): Write registry value HKEY_LOCAL_MACHINE\SOFTWARE\TeamViewer\DefaultSettings\Autostart_GUI=1
+2021-02-24-12-33-08  WriteRegChanges(WRITE_STRING): Write registry value HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\TeamViewer\DisplayName=TeamViewer
+2021-02-24-12-33-09  WriteRegChanges(WRITE_STRING): Write registry value HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\TeamViewer\DisplayIcon=C:\Program Files\TeamViewer\TeamViewer.exe
+2021-02-24-12-33-09  WriteRegChanges(WRITE_STRING): Write registry value HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\TeamViewer\Publisher=TeamViewer
+2021-02-24-12-33-09  WriteRegChanges(WRITE_STRING): Write registry value HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\TeamViewer\HelpLink=http://www.teamviewer.com
+2021-02-24-12-33-09  WriteRegChanges(WRITE_STRING): Write registry value HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\TeamViewer\UninstallString="C:\Program Files\TeamViewer\uninstall.exe"
+2021-02-24-12-33-10  WriteRegChanges(WRITE_DWORD): Write registry value HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\TeamViewer\NoModify=1
+2021-02-24-12-33-10  WriteRegChanges(WRITE_DWORD): Write registry value HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\TeamViewer\NoRepair=1
+2021-02-24-12-33-10  WriteRegChanges(WRITE_DWORD): Write registry value HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\TeamViewer\VersionMajor=15
+2021-02-24-12-33-11  WriteRegChanges(WRITE_DWORD): Write registry value HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\TeamViewer\VersionMinor=15
+2021-02-24-12-33-11  WriteRegChanges(WRITE_STRING): Write registry value HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\TeamViewer\InstallLocation=C:\Program Files\TeamViewer
+2021-02-24-12-33-11  WriteRegChanges(WRITE_STRING): Write registry value HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\TeamViewer\DisplayVersion=15.15.5
+2021-02-24-12-33-12  WriteRegChanges(WRITE_DWORD): Write registry value HKEY_LOCAL_MACHINE\SOFTWARE\TeamViewer\Temp\SessionIdForceAutoStart_GUI=1
+2021-02-24-12-33-12  WriteRegChanges(WRITE_STRING): Write registry value HKEY_CLASSES_ROOT\tvcontrol1\URL Protocol=""
+2021-02-24-12-33-13  WriteRegChanges(WRITE_STRING): Write registry value HKEY_CLASSES_ROOT\tvcontrol1\=URL:tvcontrol1 Protocol
+2021-02-24-12-33-14  WriteRegChanges(WRITE_STRING): Write registry value HKEY_CLASSES_ROOT\tvcontrol1\shell\open\command\="C:\Program Files\TeamViewer\TeamViewer.exe" "%1"
+2021-02-24-12-33-14  WriteRegChanges(WRITE_STRING): Write registry value HKEY_CLASSES_ROOT\tvfiletransfer1\URL Protocol=""
+2021-02-24-12-33-15  WriteRegChanges(WRITE_STRING): Write registry value HKEY_CLASSES_ROOT\tvfiletransfer1\=URL:tvfiletransfer1 Protocol
+2021-02-24-12-33-16  WriteRegChanges(WRITE_STRING): Write registry value HKEY_CLASSES_ROOT\tvfiletransfer1\shell\open\command\="C:\Program Files\TeamViewer\TeamViewer.exe" "%1"
+2021-02-24-12-33-16  WriteRegChanges(WRITE_STRING): Write registry value HKEY_CLASSES_ROOT\tvvpn1\URL Protocol=""
+2021-02-24-12-33-17  WriteRegChanges(WRITE_STRING): Write registry value HKEY_CLASSES_ROOT\tvvpn1\=URL:tvvpn1 Protocol
+2021-02-24-12-33-17  WriteRegChanges(WRITE_STRING): Write registry value HKEY_CLASSES_ROOT\tvvpn1\shell\open\command\="C:\Program Files\TeamViewer\TeamViewer.exe" "%1"
+2021-02-24-12-33-17  WriteRegChanges(WRITE_STRING): Write registry value HKEY_CLASSES_ROOT\tvchat1\URL Protocol=""
+2021-02-24-12-33-18  WriteRegChanges(WRITE_STRING): Write registry value HKEY_CLASSES_ROOT\tvchat1\=URL:tvchat1 Protocol
+2021-02-24-12-33-18  WriteRegChanges(WRITE_STRING): Write registry value HKEY_CLASSES_ROOT\tvchat1\shell\open\command\="C:\Program Files\TeamViewer\TeamViewer.exe" "%1"
+2021-02-24-12-33-19  WriteRegChanges(WRITE_STRING): Write registry value HKEY_CLASSES_ROOT\tvpresent1\URL Protocol=""
+2021-02-24-12-33-19  WriteRegChanges(WRITE_STRING): Write registry value HKEY_CLASSES_ROOT\tvpresent1\=URL:tvpresent1 Protocol
+2021-02-24-12-33-20  WriteRegChanges(WRITE_STRING): Write registry value HKEY_CLASSES_ROOT\tvpresent1\shell\open\command\="C:\Program Files\TeamViewer\TeamViewer.exe" "%1"
+2021-02-24-12-33-20  WriteRegChanges(WRITE_STRING): Write registry value HKEY_CLASSES_ROOT\tvvideocall1\URL Protocol=""
+2021-02-24-12-33-21  WriteRegChanges(WRITE_STRING): Write registry value HKEY_CLASSES_ROOT\tvvideocall1\=URL:tvvideocall1 Protocol
+2021-02-24-12-33-22  WriteRegChanges(WRITE_STRING): Write registry value HKEY_CLASSES_ROOT\tvvideocall1\shell\open\command\="C:\Program Files\TeamViewer\TeamViewer.exe" "%1"
+2021-02-24-12-33-22  WriteRegChanges(WRITE_STRING): Write registry value HKEY_CLASSES_ROOT\tvsendfile1\URL Protocol=""
+2021-02-24-12-33-23  WriteRegChanges(WRITE_STRING): Write registry value HKEY_CLASSES_ROOT\tvsendfile1\=URL:tvsendfile1 Protocol
+2021-02-24-12-33-24  WriteRegChanges(WRITE_STRING): Write registry value HKEY_CLASSES_ROOT\tvsendfile1\shell\open\command\="C:\Program Files\TeamViewer\TeamViewer.exe" "%1"
+2021-02-24-12-33-25  WriteRegChanges(WRITE_STRING): Write registry value HKEY_CLASSES_ROOT\teamviewer8\URL Protocol=""
+2021-02-24-12-33-25  WriteRegChanges(WRITE_STRING): Write registry value HKEY_CLASSES_ROOT\teamviewer8\=URL:teamviewer8 Protocol
+2021-02-24-12-33-26  WriteRegChanges(WRITE_STRING): Write registry value HKEY_CLASSES_ROOT\teamviewer8\shell\open\command\="C:\Program Files\TeamViewer\TeamViewer.exe" "%1"
+2021-02-24-12-33-26  WriteRegChanges(WRITE_STRING): Write registry value HKEY_CLASSES_ROOT\teamviewer10\URL Protocol=""
+2021-02-24-12-33-27  WriteRegChanges(WRITE_STRING): Write registry value HKEY_CLASSES_ROOT\teamviewer10\=URL:teamviewer10 Protocol
+2021-02-24-12-33-27  WriteRegChanges(WRITE_STRING): Write registry value HKEY_CLASSES_ROOT\teamviewer10\shell\open\command\="C:\Program Files\TeamViewer\TeamViewer.exe" "%1"
+2021-02-24-12-33-28  WriteRegChanges(WRITE_STRING): Write registry value HKEY_CLASSES_ROOT\tvjoinv8\URL Protocol=""
+2021-02-24-12-33-28  WriteRegChanges(WRITE_STRING): Write registry value HKEY_CLASSES_ROOT\tvjoinv8\=URL:tvjoinv8 Protocol
+2021-02-24-12-33-29  WriteRegChanges(WRITE_STRING): Write registry value HKEY_CLASSES_ROOT\tvjoinv8\shell\open\command\="C:\Program Files\TeamViewer\TeamViewer.exe" "%1"
+2021-02-24-12-33-29  WriteRegChanges(WRITE_STRING): Write registry value HKEY_CLASSES_ROOT\tvsqsupport1\URL Protocol=""
+2021-02-24-12-33-30  WriteRegChanges(WRITE_STRING): Write registry value HKEY_CLASSES_ROOT\tvsqsupport1\=URL:tvsqsupport1 Protocol
+2021-02-24-12-33-30  WriteRegChanges(WRITE_STRING): Write registry value HKEY_CLASSES_ROOT\tvsqsupport1\shell\open\command\="C:\Program Files\TeamViewer\TeamViewer.exe" "%1"
+2021-02-24-12-33-31  WriteRegChanges(WRITE_STRING): Write registry value HKEY_CLASSES_ROOT\tvsqcustomer1\URL Protocol=""
+2021-02-24-12-33-32  WriteRegChanges(WRITE_STRING): Write registry value HKEY_CLASSES_ROOT\tvsqcustomer1\=URL:tvsqcustomer1 Protocol
+2021-02-24-12-33-32  WriteRegChanges(WRITE_STRING): Write registry value HKEY_CLASSES_ROOT\tvsqcustomer1\shell\open\command\="C:\Program Files\TeamViewer\TeamViewer.exe" "%1"
+2021-02-24-12-33-33  WriteRegChanges(WRITE_STRING): Write registry value HKEY_CLASSES_ROOT\teamviewerapi\URL Protocol=""
+2021-02-24-12-33-33  WriteRegChanges(WRITE_STRING): Write registry value HKEY_CLASSES_ROOT\teamviewerapi\=URL:teamviewerapi Protocol
+2021-02-24-12-33-34  WriteRegChanges(WRITE_STRING): Write registry value HKEY_CLASSES_ROOT\teamviewerapi\shell\open\command\="C:\Program Files\TeamViewer\TeamViewer.exe" "%1"
+2021-02-24-12-33-34  WriteRegChanges(WRITE_STRING): Write registry value HKEY_CLASSES_ROOT\blizzv1\URL Protocol=""
+2021-02-24-12-33-35  WriteRegChanges(WRITE_STRING): Write registry value HKEY_CLASSES_ROOT\blizzv1\=URL:blizzv1 Protocol
+2021-02-24-12-33-36  WriteRegChanges(WRITE_STRING): Write registry value HKEY_CLASSES_ROOT\blizzv1\shell\open\command\="C:\Program Files\TeamViewer\TeamViewer.exe" "%1"
+2021-02-24-12-33-36  
+2021-02-24-12-33-37  Set update progress (handle:924, msg:PROGRESS:70 last error:0)
+2021-02-24-12-33-37  InstallDrivers(): Install drivers...
+2021-02-24-12-33-37  
+2021-02-24-12-33-37  Set update progress (handle:924, msg:PROGRESS:80 last error:0)
+2021-02-24-12-33-37  CleanUp(): Clean up...
+2021-02-24-12-33-37  CleanUp(): Unload previously loaded user registry profiles...
+2021-02-24-12-33-37  CleanUp(): Install restore task successful removed.
+2021-02-24-12-33-37  CleanUp(): Backup key successful removed.
+2021-02-24-12-33-37  CleanUp(): Backup directory C:\Program Files\TeamViewer\Update\TVInstallTemp successful removed.
+2021-02-24-12-33-37  CleanUp(): Extract directory C:\Program Files\TeamViewer\TVExtractTemp successful removed.
+2021-02-24-12-33-37  
+2021-02-24-12-33-37  TVEnumUserRegKeys(): Load all unloaded user registry profiles...
+2021-02-24-12-33-37  TVEnumUserRegKeys(): Enumerate user registry profiles with callback function RenameTeamViewerTaskbarPin and sub key 15...
+2021-02-24-12-33-37  TVEnumUserRegKeys(): Enumeration done
+2021-02-24-12-33-37  Set update progress (handle:924, msg:PROGRESS:90 last error:0)
+2021-02-24-12-33-37  InstallTeamViewer(): Run TeamViewer service...
+2021-02-24-12-33-39  Set update progress (handle:924, msg:PROGRESS:100 last error:0)
+2021-02-24-12-33-40  Update TeamViewer: Stop TvUpdateInfo.exe process...
+2021-02-24-12-33-40  InstallTeamViewer(): Installation finished.
+2021-03-30-00-13-30  ----------------------------------------------------------------------------------------------------
+2021-03-30-00-13-30  Installer:     TeamViewer Updater
+2021-03-30-00-13-30  Version:       15.16.8
+2021-03-30-00-13-30  Install mode:  Admin
+2021-03-30-00-13-30  Account type:  Admin, UAC supported:0, Elevation:1
+2021-03-30-00-13-30  Time:          2021-03-30-00-13-30
+2021-03-30-00-13-30  OS-Version:    6.1.7601(32-bit) SP:1, Type:1
+2021-03-30-00-13-30  OS-Info:       Server:0 Home server:0
+2021-03-30-00-13-30  User-SID:      S-1-5-18
+2021-03-30-00-13-30  Log level:     100 (default)
+2021-03-30-00-13-30  ----------------------------------------------------------------------------------------------------
+2021-03-30-00-13-30  
+2021-03-30-00-13-30  TVInitRollback(): create scheduled task for restore
+2021-03-30-00-13-31  Create backup directory:<C:\Program Files\TeamViewer\Update\TVInstallTemp>
+2021-03-30-00-13-31  DeleteRegKey HKLM SOFTWARE\TVInstallTemp
+2021-03-30-00-13-32  Start Progress bar: session:1, status:0
+2021-03-30-00-13-32  Connect to progress bar (handle: -1, Last error: 2)
+2021-03-30-00-13-32  Connect to progress bar (handle: 924, Last error: 0)
+2021-03-30-00-13-32  Set update progress (handle:924, msg:TITLE:AtualizaÁ„o do TeamViewer last error:0)
+2021-03-30-00-13-32  Set update progress (handle:924, msg:SUBTITLE:Instalando last error:0)
+2021-03-30-00-13-32  Set update progress (handle:924, msg:PROGRESS:10 last error:0)
+2021-03-30-00-13-32  Currently installed version: Major:<15>, Display:<15.15.5>
+2021-03-30-00-13-32  Command line parameter: --WinSession 1  --RemoveOld
+2021-03-30-00-13-32  InstallTeamViewer(): Install TeamViewer...
+2021-03-30-00-13-32  Parent Process ID=4052, path: \Device\HarddiskVolume2\Program Files\TeamViewer\TeamViewer_Service.exe, last error: 0
+2021-03-30-00-13-32  InstallTeamViewer(): Check previous desktop icon:1
+2021-03-30-00-13-32  TVEnumUserRegKeys(): Load all unloaded user registry profiles...
+2021-03-30-00-13-32  TVEnumUserRegKeys(): Enumerate user registry profiles with callback function CreateSendtoLinksCallback and sub key SOFTWARE\TeamViewer...
+2021-03-30-00-13-32  TVEnumUserRegKeys(): Enumeration done
+2021-03-30-00-13-32  InstallTeamViewer(): Check installed drivers...
+2021-03-30-00-13-32  InstallTeamViewer(): Check previous VPN installation:0
+2021-03-30-00-13-32  InstallTeamViewer(): Check previous remote printer installation:0
+2021-03-30-00-13-32  InstallTeamViewer(): Check previous monitor driver installation:0, version:3360
+2021-03-30-00-13-32  InstallTeamViewer(): Check previous API installation:0
+2021-03-30-00-13-32  InstallTeamViewer(): Check settings...
+2021-03-30-00-13-32  InstallTeamViewer(): Check settings:1
+2021-03-30-00-13-32  Set update progress (handle:924, msg:PROGRESS:20 last error:0)
+2021-03-30-00-13-32  TVUninstall(): Prepare deinstallation of TeamViewerX...
+2021-03-30-00-13-32  UninstallTVX(): Delete links(all): group:TeamViewer, major version:15
+2021-03-30-00-13-32  UninstallTVX(): Delete links(current): group:TeamViewer, major version:15
+2021-03-30-00-13-32  TVSetInstallDir(): Install directory C:\Program Files\TeamViewer already exists.
+2021-03-30-00-13-32  ExtractFiles(): Extract all pack files...
+2021-03-30-00-13-41  ExtractFiles(): All files successful extracted.
+2021-03-30-00-13-41  Set update progress (handle:924, msg:PROGRESS:30 last error:0)
+2021-03-30-00-13-41  Set update progress (handle:924, msg:PROGRESS:40 last error:0)
+2021-03-30-00-13-41  TVCreateShortCut(): C:\Users\Public\Desktop\TeamViewer.lnk, C:\Program Files\TeamViewer, TeamViewer.exe
+2021-03-30-00-13-41  TVCreateShortCut(): C:\ProgramData\Microsoft\Windows\Start Menu\Programs\TeamViewer.lnk, C:\Program Files\TeamViewer, TeamViewer.exe
+2021-03-30-00-13-41  InstallTeamViewer(): Stop older TeamViewer services
+2021-03-30-00-13-41  InstallTeamViewer(): Stop current TeamViewer service...
+2021-03-30-00-13-41  InstallTeamViewer(): Status for service TeamViewer:4 (expected:0x00000004 or 0x00000000)
+2021-03-30-00-13-41  InstallTeamViewer(): Set failure actions for service TeamViewer
+2021-03-30-00-13-41  InstallTeamViewer(): Stop service TeamViewer
+2021-03-30-00-13-47  InstallTeamViewer(): Status for service TeamViewer:1 (expected:0x00000000 or 0x00000001)
+2021-03-30-00-13-47  InstallTeamViewer(): TVX_INSTALLED_REG_DIR=C:\Program Files\TeamViewer
+2021-03-30-00-13-47  Outlook not installed / detected!
+2021-03-30-00-13-47  InstallTeamViewer(): TeamViewer font teamviewer15.otf (Rev: 1510) is already installed...
+2021-03-30-00-13-47  Set update progress (handle:924, msg:PROGRESS:50 last error:0)
+2021-03-30-00-13-47  ApplySystemChanges(): Apply system changes...
+
+2021-03-30-00-13-47  WriteFileChanges(): Compute all file actions...
+2021-03-30-00-13-47  WriteFileChanges(TRYDELETE): Delete file C:\Users\Default\AppData\Roaming\Microsoft\Windows\SendTo\TeamViewer.lnk
+2021-03-30-00-13-47  WriteFileChanges(SHORTCUT): Create shortcut C:\Users\Default\AppData\Roaming\Microsoft\Windows\SendTo\TeamViewer.lnk to C:\Program Files\TeamViewer\TeamViewer.exe
+2021-03-30-00-13-47  WriteFileChanges(TRYDELETE): Delete file C:\Users\Rafael\AppData\Roaming\Microsoft\Windows\SendTo\TeamViewer.lnk
+2021-03-30-00-13-47  WriteFileChanges(SHORTCUT): Create shortcut C:\Users\Rafael\AppData\Roaming\Microsoft\Windows\SendTo\TeamViewer.lnk to C:\Program Files\TeamViewer\TeamViewer.exe
+2021-03-30-00-13-47  WriteFileChanges(UNINSTALL_SERVICE): Uninstall service TeamViewer with application path C:\Program Files\TeamViewer\TeamViewer_Service.exe...
+2021-03-30-00-13-47  WriteFileChanges(UNINSTALL_SERVICE): Status for service TeamViewer:1 (0:not existing, 1:SERVICE_STOPPED)
+2021-03-30-00-13-47  WriteFileChanges(UNINSTALL_SERVICE): Stop service TeamViewer
+2021-03-30-00-13-47  WriteFileChanges(UNINSTALL_SERVICE): Status stop service TeamViewer:1 (expected:1->OK)
+2021-03-30-00-13-47  WriteFileChanges(UNINSTALL_SERVICE): Status for service TeamViewer:1 (0:not existing, 1:SERVICE_STOPPED)
+2021-03-30-00-13-48  WriteFileChanges(UNINSTALL_SERVICE): Uninstall service TeamViewer. Status:0 (expected:0->OK)
+2021-03-30-00-13-48  WriteFileChanges(REMOVE_FIREWALL_EXCEPTION): Remove firewall exception TeamViewer Remote Control Application for application C:\Program Files\TeamViewer\TeamViewer.exe.
+2021-03-30-00-13-48  WriteFileChanges(REMOVE_FIREWALL_EXCEPTION): Remove firewall exception TeamViewer Remote Control Service for application C:\Program Files\TeamViewer\TeamViewer_Service.exe.
+2021-03-30-00-13-48  WriteFileChanges(DELETE): Warning! File C:\Users\Public\Desktop\TeamViewer 15.lnk can't be deleted because it does not exist.
+2021-03-30-00-13-48  WriteFileChanges(DELETE): Warning! File C:\Users\Public\Desktop\TeamViewer 15 Host.lnk can't be deleted because it does not exist.
+2021-03-30-00-13-48  WriteFileChanges(DELETE): Warning! File C:\ProgramData\Microsoft\Windows\Start Menu\Programs\TeamViewer 15.lnk can't be deleted because it does not exist.
+2021-03-30-00-13-48  WriteFileChanges(DELETE): Warning! File C:\ProgramData\Microsoft\Windows\Start Menu\Programs\TeamViewer 15 Host.lnk can't be deleted because it does not exist.
+2021-03-30-00-13-48  WriteFileChanges(DELETE): Warning! File C:\Windows\system32\config\systemprofile\Desktop\TeamViewer 15.lnk can't be deleted because it does not exist.
+2021-03-30-00-13-48  WriteFileChanges(DELETE): Warning! File C:\Windows\system32\config\systemprofile\Desktop\TeamViewer 15 Host.lnk can't be deleted because it does not exist.
+2021-03-30-00-13-48  WriteFileChanges(DELETE): Warning! File C:\Windows\system32\config\systemprofile\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\TeamViewer 15.lnk can't be deleted because it does not exist.
+2021-03-30-00-13-48  WriteFileChanges(DELETE): Warning! File C:\Windows\system32\config\systemprofile\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\TeamViewer 15 Host.lnk can't be deleted because it does not exist.
+2021-03-30-00-13-48  WriteFileChanges(DELETE): Delete file C:\Program Files\TeamViewer\TeamViewer.exe
+2021-03-30-00-13-48  WriteFileChanges(DELETE): Delete file C:\Program Files\TeamViewer\TeamViewer_Desktop.exe
+2021-03-30-00-13-48  WriteFileChanges(DELETE): Delete file C:\Program Files\TeamViewer\TeamViewer_Service.exe
+2021-03-30-00-13-48  WriteFileChanges(DELETE): Delete file C:\Program Files\TeamViewer\TeamViewer_Note.exe
+2021-03-30-00-13-48  WriteFileChanges(DELETE): Delete file C:\Program Files\TeamViewer\uninstall.exe
+2021-03-30-00-13-48  WriteFileChanges(DELETE): Warning! File C:\Program Files\TeamViewer\tv.dll can't be deleted because it does not exist.
+2021-03-30-00-13-48  WriteFileChanges(DELETE): Delete file C:\Program Files\TeamViewer\tv_w32.dll
+2021-03-30-00-13-48  WriteFileChanges(DELETE): Delete file C:\Program Files\TeamViewer\tv_w32.exe
+2021-03-30-00-13-48  WriteFileChanges(DELETE): Delete file C:\Program Files\TeamViewer\tv_x64.dll
+2021-03-30-00-13-48  WriteFileChanges(DELETE): Delete file C:\Program Files\TeamViewer\tv_x64.exe
+2021-03-30-00-13-48  WriteFileChanges(DELETE): Delete file C:\Program Files\TeamViewer\TeamViewer_StaticRes.dll
+2021-03-30-00-13-48  WriteFileChanges(DELETE): Warning! File C:\Program Files\TeamViewer\Teamviewer_resource.dll can't be deleted because it does not exist.
+2021-03-30-00-13-48  WriteFileChanges(DELETE): Delete file C:\Program Files\TeamViewer\Teamviewer_resource_de.dll
+2021-03-30-00-13-48  WriteFileChanges(DELETE): Delete file C:\Program Files\TeamViewer\Teamviewer_resource_en.dll
+2021-03-30-00-13-48  WriteFileChanges(DELETE): Delete file C:\Program Files\TeamViewer\Teamviewer_resource_da.dll
+2021-03-30-00-13-48  WriteFileChanges(DELETE): Delete file C:\Program Files\TeamViewer\Teamviewer_resource_es.dll
+2021-03-30-00-13-48  WriteFileChanges(DELETE): Delete file C:\Program Files\TeamViewer\Teamviewer_resource_fi.dll
+2021-03-30-00-13-48  WriteFileChanges(DELETE): Delete file C:\Program Files\TeamViewer\Teamviewer_resource_fr.dll
+2021-03-30-00-13-48  WriteFileChanges(DELETE): Delete file C:\Program Files\TeamViewer\Teamviewer_resource_it.dll
+2021-03-30-00-13-48  WriteFileChanges(DELETE): Delete file C:\Program Files\TeamViewer\Teamviewer_resource_ja.dll
+2021-03-30-00-13-48  WriteFileChanges(DELETE): Delete file C:\Program Files\TeamViewer\Teamviewer_resource_nl.dll
+2021-03-30-00-13-48  WriteFileChanges(DELETE): Delete file C:\Program Files\TeamViewer\Teamviewer_resource_no.dll
+2021-03-30-00-13-48  WriteFileChanges(DELETE): Delete file C:\Program Files\TeamViewer\Teamviewer_resource_pl.dll
+2021-03-30-00-13-48  WriteFileChanges(DELETE): Delete file C:\Program Files\TeamViewer\Teamviewer_resource_pt.dll
+2021-03-30-00-13-48  WriteFileChanges(DELETE): Delete file C:\Program Files\TeamViewer\Teamviewer_resource_sv.dll
+2021-03-30-00-13-48  WriteFileChanges(DELETE): Delete file C:\Program Files\TeamViewer\Teamviewer_resource_tr.dll
+2021-03-30-00-13-48  WriteFileChanges(DELETE): Delete file C:\Program Files\TeamViewer\Teamviewer_resource_ru.dll
+2021-03-30-00-13-48  WriteFileChanges(DELETE): Delete file C:\Program Files\TeamViewer\Teamviewer_resource_ko.dll
+2021-03-30-00-13-48  WriteFileChanges(DELETE): Delete file C:\Program Files\TeamViewer\Teamviewer_resource_cs.dll
+2021-03-30-00-13-48  WriteFileChanges(DELETE): Delete file C:\Program Files\TeamViewer\Teamviewer_resource_ar.dll
+2021-03-30-00-13-48  WriteFileChanges(DELETE): Warning! File C:\Program Files\TeamViewer\Teamviewer_resource_zh.dll can't be deleted because it does not exist.
+2021-03-30-00-13-48  WriteFileChanges(DELETE): Delete file C:\Program Files\TeamViewer\Teamviewer_resource_zhCN.dll
+2021-03-30-00-13-48  WriteFileChanges(DELETE): Delete file C:\Program Files\TeamViewer\Teamviewer_resource_bg.dll
+2021-03-30-00-13-48  WriteFileChanges(DELETE): Delete file C:\Program Files\TeamViewer\Teamviewer_resource_el.dll
+2021-03-30-00-13-48  WriteFileChanges(DELETE): Delete file C:\Program Files\TeamViewer\Teamviewer_resource_he.dll
+2021-03-30-00-13-48  WriteFileChanges(DELETE): Delete file C:\Program Files\TeamViewer\Teamviewer_resource_hr.dll
+2021-03-30-00-13-48  WriteFileChanges(DELETE): Delete file C:\Program Files\TeamViewer\Teamviewer_resource_hu.dll
+2021-03-30-00-13-48  WriteFileChanges(DELETE): Delete file C:\Program Files\TeamViewer\Teamviewer_resource_id.dll
+2021-03-30-00-13-48  WriteFileChanges(DELETE): Delete file C:\Program Files\TeamViewer\Teamviewer_resource_lt.dll
+2021-03-30-00-13-48  WriteFileChanges(DELETE): Delete file C:\Program Files\TeamViewer\Teamviewer_resource_ro.dll
+2021-03-30-00-13-48  WriteFileChanges(DELETE): Delete file C:\Program Files\TeamViewer\Teamviewer_resource_sk.dll
+2021-03-30-00-13-48  WriteFileChanges(DELETE): Delete file C:\Program Files\TeamViewer\Teamviewer_resource_sr.dll
+2021-03-30-00-13-48  WriteFileChanges(DELETE): Delete file C:\Program Files\TeamViewer\Teamviewer_resource_th.dll
+2021-03-30-00-13-48  WriteFileChanges(DELETE): Delete file C:\Program Files\TeamViewer\Teamviewer_resource_uk.dll
+2021-03-30-00-13-48  WriteFileChanges(DELETE): Delete file C:\Program Files\TeamViewer\Teamviewer_resource_vi.dll
+2021-03-30-00-13-48  WriteFileChanges(DELETE): Delete file C:\Program Files\TeamViewer\Teamviewer_resource_zhTW.dll
+2021-03-30-00-13-48  WriteFileChanges(DELETE): Delete file C:\Program Files\TeamViewer\outlook\TeamViewerMeetingAddIn.dll
+2021-03-30-00-13-48  WriteFileChanges(DELETE): Delete file C:\Program Files\TeamViewer\outlook\ManagedAggregator.dll
+2021-03-30-00-13-48  WriteFileChanges(DELETE): Delete file C:\Program Files\TeamViewer\outlook\TeamViewerMeetingAddinShim.dll
+2021-03-30-00-13-48  WriteFileChanges(DELETE): Delete file C:\Program Files\TeamViewer\outlook\TeamViewerMeetingAddinShim64.dll
+2021-03-30-00-13-48  WriteFileChanges(RMDIR): Remove directory C:\Program Files\TeamViewer\outlook
+2021-03-30-00-13-48  WriteFileChanges(DELETE): Warning! File C:\Program Files\TeamViewer\Lizenz.txt can't be deleted because it does not exist.
+2021-03-30-00-13-48  WriteFileChanges(DELETE): Delete file C:\Program Files\TeamViewer\License.txt
+2021-03-30-00-13-48  WriteFileChanges(DELETE): Delete file C:\Program Files\TeamViewer\CopyRights.txt
+2021-03-30-00-13-48  WriteFileChanges(DELETE): Warning! File C:\Program Files\TeamViewer\sas.exe can't be deleted because it does not exist.
+2021-03-30-00-13-48  WriteFileChanges(DELETE): Warning! File C:\Program Files\TeamViewer\TeamViewer.hta can't be deleted because it does not exist.
+2021-03-30-00-13-48  WriteFileChanges(DELETE): Warning! File C:\Program Files\TeamViewer\install.exe can't be deleted because it does not exist.
+2021-03-30-00-13-49  WriteFileChanges(DELETE): Warning! File C:\Program Files\TeamViewer\install64.exe can't be deleted because it does not exist.
+2021-03-30-00-13-49  WriteFileChanges(DELETE): Delete file C:\Program Files\TeamViewer\update\update.exe
+2021-03-30-00-13-49  TVWriteFileEntry(): Warning! File C:\Program Files\TeamViewer\update\update.exe could not be moved to C:\Program Files\TeamViewer\Update\TVInstallTemp\TVFile60.bak.
+2021-03-30-00-13-49  TVWriteFileEntry(): Warning! File C:\Program Files\TeamViewer\update\update.exe could not be removed!
+2021-03-30-00-13-49  WriteFileChanges(DELETE): Delete file C:\Program Files\TeamViewer\x86\TeamViewerVPN.inf
+2021-03-30-00-13-49  WriteFileChanges(DELETE): Warning! File C:\Program Files\TeamViewer\x86\TeamViewerVPN.sys can't be deleted because it does not exist.
+2021-03-30-00-13-49  WriteFileChanges(DELETE): Delete file C:\Program Files\TeamViewer\x86\TeamViewerVPN.sy_
+2021-03-30-00-13-49  WriteFileChanges(DELETE): Delete file C:\Program Files\TeamViewer\x86\TeamViewerVPN.cat
+2021-03-30-00-13-49  WriteFileChanges(DELETE): Delete file C:\Program Files\TeamViewer\x86\TVMonitor.cat
+2021-03-30-00-13-49  WriteFileChanges(DELETE): Delete file C:\Program Files\TeamViewer\x86\TVMonitor.inf
+2021-03-30-00-13-49  WriteFileChanges(DELETE): Warning! File C:\Program Files\TeamViewer\x86\TVMonitor.sys can't be deleted because it does not exist.
+2021-03-30-00-13-49  WriteFileChanges(DELETE): Delete file C:\Program Files\TeamViewer\x86\TVMonitor.sy_
+2021-03-30-00-13-49  WriteFileChanges(DELETE): Warning! File C:\Program Files\TeamViewer\x86\Teamviewer_PrintProcessor.dll can't be deleted because it does not exist.
+2021-03-30-00-13-49  WriteFileChanges(DELETE): Warning! File C:\Program Files\TeamViewer\x86\tvprint.cat can't be deleted because it does not exist.
+2021-03-30-00-13-49  WriteFileChanges(DELETE): Warning! File C:\Program Files\TeamViewer\x86\TVPrint.inf can't be deleted because it does not exist.
+2021-03-30-00-13-49  WriteFileChanges(DELETE): Warning! File C:\Program Files\TeamViewer\x86\TeamViewer.gpd can't be deleted because it does not exist.
+2021-03-30-00-13-49  WriteFileChanges(DELETE): Warning! File C:\Program Files\TeamViewer\x86\tvpsprint.cat can't be deleted because it does not exist.
+2021-03-30-00-13-49  WriteFileChanges(DELETE): Warning! File C:\Program Files\TeamViewer\x86\TVPSPrint.inf can't be deleted because it does not exist.
+2021-03-30-00-13-49  WriteFileChanges(DELETE): Warning! File C:\Program Files\TeamViewer\x86\TeamViewer.ppd can't be deleted because it does not exist.
+2021-03-30-00-13-49  WriteFileChanges(RMDIR): Remove directory C:\Program Files\TeamViewer\x86
+2021-03-30-00-13-49  WriteFileChanges(DELETE): Delete file C:\Program Files\TeamViewer\Printer\teamviewer_xpsdriverfilter.cat
+2021-03-30-00-13-49  WriteFileChanges(DELETE): Delete file C:\Program Files\TeamViewer\Printer\TeamViewer_XPSDriverFilter.gpd
+2021-03-30-00-13-49  WriteFileChanges(DELETE): Delete file C:\Program Files\TeamViewer\Printer\TeamViewer_XPSDriverFilter.inf
+2021-03-30-00-13-49  WriteFileChanges(DELETE): Delete file C:\Program Files\TeamViewer\Printer\TeamViewer_XPSDriverFilter-manifest.ini
+2021-03-30-00-13-49  WriteFileChanges(DELETE): Delete file C:\Program Files\TeamViewer\Printer\TeamViewer_XPSDriverFilter-PipelineConfig.xml
+2021-03-30-00-13-49  WriteFileChanges(DELETE): Delete file C:\Program Files\TeamViewer\Printer\x86\TeamViewer_XPSDriverFilter.dll
+2021-03-30-00-13-49  WriteFileChanges(RMDIR): Remove directory C:\Program Files\TeamViewer\update
+2021-03-30-00-13-49  WriteFileChanges(RMDIR): Warning! Directory C:\Program Files\TeamViewer\update is not empty.
+2021-03-30-00-13-49  WriteFileChanges(RMDIR): Remove directory C:\Program Files\TeamViewer
+2021-03-30-00-13-49  WriteFileChanges(RMDIR): Warning! Directory C:\Program Files\TeamViewer is not empty.
+2021-03-30-00-13-49  WriteFileChanges(MKDIR): Create directory C:\Program Files\TeamViewer\x86
+2021-03-30-00-13-49  WriteFileChanges(MKDIR): Create directory C:\Program Files\TeamViewer\outlook
+2021-03-30-00-13-49  WriteFileChanges(MKDIR): Create directory C:\Program Files\TeamViewer\Printer
+2021-03-30-00-13-49  WriteFileChanges(MKDIR): Warning! Directory C:\Program Files\TeamViewer\Printer already exists.
+2021-03-30-00-13-49  WriteFileChanges(MKDIR): Create directory C:\Program Files\TeamViewer\Printer\x86
+2021-03-30-00-13-49  WriteFileChanges(MKDIR): Warning! Directory C:\Program Files\TeamViewer\Printer\x86 already exists.
+2021-03-30-00-13-49  WriteFileChanges(RENAME): Move C:\Program Files\TeamViewer\TVExtractTemp\CopyRights_DE.txt to C:\Program Files\TeamViewer\CopyRights_DE.txt.
+2021-03-30-00-13-49  WriteFileChanges(RENAME): Move C:\Program Files\TeamViewer\TVExtractTemp\CopyRights_EN.txt to C:\Program Files\TeamViewer\CopyRights_EN.txt.
+2021-03-30-00-13-49  WriteFileChanges(RENAME): Move C:\Program Files\TeamViewer\TVExtractTemp\Lizenz_TeamViewer_DE_unicode.txt to C:\Program Files\TeamViewer\Lizenz_TeamViewer_DE_unicode.txt.
+2021-03-30-00-13-49  WriteFileChanges(RENAME): Move C:\Program Files\TeamViewer\TVExtractTemp\Lizenz_TeamViewer_EN_unicode.txt to C:\Program Files\TeamViewer\Lizenz_TeamViewer_EN_unicode.txt.
+2021-03-30-00-13-49  WriteFileChanges(RENAME): Move C:\Program Files\TeamViewer\TVExtractTemp\TeamViewer.exe to C:\Program Files\TeamViewer\TeamViewer.exe.
+2021-03-30-00-13-49  WriteFileChanges(RENAME): Move C:\Program Files\TeamViewer\TVExtractTemp\TeamViewer_Desktop.exe to C:\Program Files\TeamViewer\TeamViewer_Desktop.exe.
+2021-03-30-00-13-50  WriteFileChanges(RENAME): Move C:\Program Files\TeamViewer\TVExtractTemp\TeamViewer_Service.exe to C:\Program Files\TeamViewer\TeamViewer_Service.exe.
+2021-03-30-00-13-50  WriteFileChanges(RENAME): Move C:\Program Files\TeamViewer\TVExtractTemp\uninstall.exe to C:\Program Files\TeamViewer\uninstall.exe.
+2021-03-30-00-13-50  WriteFileChanges(RENAME): Move C:\Program Files\TeamViewer\TVExtractTemp\TeamViewer_StaticRes.dll to C:\Program Files\TeamViewer\TeamViewer_StaticRes.dll.
+2021-03-30-00-13-50  WriteFileChanges(RENAME): Move C:\Program Files\TeamViewer\TVExtractTemp\tv_w32.dll to C:\Program Files\TeamViewer\tv_w32.dll.
+2021-03-30-00-13-50  WriteFileChanges(RENAME): Move C:\Program Files\TeamViewer\TVExtractTemp\tv_w32.exe to C:\Program Files\TeamViewer\tv_w32.exe.
+2021-03-30-00-13-50  WriteFileChanges(RENAME): Move C:\Program Files\TeamViewer\TVExtractTemp\tv_x64.dll to C:\Program Files\TeamViewer\tv_x64.dll.
+2021-03-30-00-13-50  WriteFileChanges(RENAME): Move C:\Program Files\TeamViewer\TVExtractTemp\tv_x64.exe to C:\Program Files\TeamViewer\tv_x64.exe.
+2021-03-30-00-13-50  WriteFileChanges(RENAME): Move C:\Program Files\TeamViewer\TVExtractTemp\TeamViewer_Note.exe to C:\Program Files\TeamViewer\TeamViewer_Note.exe.
+2021-03-30-00-13-50  WriteFileChanges(RENAME): Move C:\Program Files\TeamViewer\TVExtractTemp\outlook\TeamViewerMeetingAddIn.dll to C:\Program Files\TeamViewer\outlook\TeamViewerMeetingAddIn.dll.
+2021-03-30-00-13-50  WriteFileChanges(RENAME): Move C:\Program Files\TeamViewer\TVExtractTemp\outlook\ManagedAggregator.dll to C:\Program Files\TeamViewer\outlook\ManagedAggregator.dll.
+2021-03-30-00-13-50  WriteFileChanges(RENAME): Move C:\Program Files\TeamViewer\TVExtractTemp\outlook\TeamViewerMeetingAddinShim.dll to C:\Program Files\TeamViewer\outlook\TeamViewerMeetingAddinShim.dll.
+2021-03-30-00-13-50  WriteFileChanges(RENAME): Move C:\Program Files\TeamViewer\TVExtractTemp\outlook\TeamViewerMeetingAddinShim64.dll to C:\Program Files\TeamViewer\outlook\TeamViewerMeetingAddinShim64.dll.
+2021-03-30-00-13-50  WriteFileChanges(RENAME): Move C:\Program Files\TeamViewer\TVExtractTemp\teamviewer15.otf to C:\Program Files\TeamViewer\teamviewer15.otf.
+2021-03-30-00-13-50  WriteFileChanges(RENAME): Move C:\Program Files\TeamViewer\TVExtractTemp\Printer\teamviewer_xpsdriverfilter.cat to C:\Program Files\TeamViewer\Printer\teamviewer_xpsdriverfilter.cat.
+2021-03-30-00-13-50  WriteFileChanges(RENAME): Move C:\Program Files\TeamViewer\TVExtractTemp\Printer\TeamViewer_XPSDriverFilter.gpd to C:\Program Files\TeamViewer\Printer\TeamViewer_XPSDriverFilter.gpd.
+2021-03-30-00-13-50  WriteFileChanges(RENAME): Move C:\Program Files\TeamViewer\TVExtractTemp\Printer\TeamViewer_XPSDriverFilter.inf to C:\Program Files\TeamViewer\Printer\TeamViewer_XPSDriverFilter.inf.
+2021-03-30-00-13-50  WriteFileChanges(RENAME): Move C:\Program Files\TeamViewer\TVExtractTemp\Printer\TeamViewer_XPSDriverFilter-manifest.ini to C:\Program Files\TeamViewer\Printer\TeamViewer_XPSDriverFilter-manifest.ini.
+2021-03-30-00-13-50  WriteFileChanges(RENAME): Move C:\Program Files\TeamViewer\TVExtractTemp\Printer\TeamViewer_XPSDriverFilter-PipelineConfig.xml to C:\Program Files\TeamViewer\Printer\TeamViewer_XPSDriverFilter-PipelineConfig.xml.
+2021-03-30-00-13-50  WriteFileChanges(RENAME): Move C:\Program Files\TeamViewer\TVExtractTemp\x86\TeamViewerVPN.cat to C:\Program Files\TeamViewer\x86\TeamViewerVPN.cat.
+2021-03-30-00-13-50  WriteFileChanges(RENAME): Move C:\Program Files\TeamViewer\TVExtractTemp\x86\TeamViewerVPN.inf to C:\Program Files\TeamViewer\x86\TeamViewerVPN.inf.
+2021-03-30-00-13-50  WriteFileChanges(RENAME): Move C:\Program Files\TeamViewer\TVExtractTemp\x86\TeamViewerVPN.sy_ to C:\Program Files\TeamViewer\x86\TeamViewerVPN.sy_.
+2021-03-30-00-13-50  WriteFileChanges(RENAME): Move C:\Program Files\TeamViewer\TVExtractTemp\x86\TVMonitor.cat to C:\Program Files\TeamViewer\x86\TVMonitor.cat.
+2021-03-30-00-13-50  WriteFileChanges(RENAME): Move C:\Program Files\TeamViewer\TVExtractTemp\x86\TVMonitor.inf to C:\Program Files\TeamViewer\x86\TVMonitor.inf.
+2021-03-30-00-13-50  WriteFileChanges(RENAME): Move C:\Program Files\TeamViewer\TVExtractTemp\x86\TVMonitor.sy_ to C:\Program Files\TeamViewer\x86\TVMonitor.sy_.
+2021-03-30-00-13-50  WriteFileChanges(RENAME): Move C:\Program Files\TeamViewer\TVExtractTemp\Printer\x86\TeamViewer_XPSDriverFilter.dll to C:\Program Files\TeamViewer\Printer\x86\TeamViewer_XPSDriverFilter.dll.
+2021-03-30-00-13-50  WriteFileChanges(RENAME): Move C:\Program Files\TeamViewer\TVExtractTemp\TeamViewer_Resource_en.dll to C:\Program Files\TeamViewer\TeamViewer_Resource_en.dll.
+2021-03-30-00-13-50  WriteFileChanges(RENAME): Move C:\Program Files\TeamViewer\TVExtractTemp\TeamViewer_Resource_de.dll to C:\Program Files\TeamViewer\TeamViewer_Resource_de.dll.
+2021-03-30-00-13-50  WriteFileChanges(RENAME): Move C:\Program Files\TeamViewer\TVExtractTemp\TeamViewer_Resource_es.dll to C:\Program Files\TeamViewer\TeamViewer_Resource_es.dll.
+2021-03-30-00-13-50  WriteFileChanges(RENAME): Move C:\Program Files\TeamViewer\TVExtractTemp\TeamViewer_Resource_da.dll to C:\Program Files\TeamViewer\TeamViewer_Resource_da.dll.
+2021-03-30-00-13-50  WriteFileChanges(RENAME): Move C:\Program Files\TeamViewer\TVExtractTemp\TeamViewer_Resource_fr.dll to C:\Program Files\TeamViewer\TeamViewer_Resource_fr.dll.
+2021-03-30-00-13-50  WriteFileChanges(RENAME): Move C:\Program Files\TeamViewer\TVExtractTemp\TeamViewer_Resource_it.dll to C:\Program Files\TeamViewer\TeamViewer_Resource_it.dll.
+2021-03-30-00-13-50  WriteFileChanges(RENAME): Move C:\Program Files\TeamViewer\TVExtractTemp\TeamViewer_Resource_nl.dll to C:\Program Files\TeamViewer\TeamViewer_Resource_nl.dll.
+2021-03-30-00-13-50  WriteFileChanges(RENAME): Move C:\Program Files\TeamViewer\TVExtractTemp\TeamViewer_Resource_pt.dll to C:\Program Files\TeamViewer\TeamViewer_Resource_pt.dll.
+2021-03-30-00-13-50  WriteFileChanges(RENAME): Move C:\Program Files\TeamViewer\TVExtractTemp\TeamViewer_Resource_sv.dll to C:\Program Files\TeamViewer\TeamViewer_Resource_sv.dll.
+2021-03-30-00-13-50  WriteFileChanges(RENAME): Move C:\Program Files\TeamViewer\TVExtractTemp\TeamViewer_Resource_fi.dll to C:\Program Files\TeamViewer\TeamViewer_Resource_fi.dll.
+2021-03-30-00-13-50  WriteFileChanges(RENAME): Move C:\Program Files\TeamViewer\TVExtractTemp\TeamViewer_Resource_no.dll to C:\Program Files\TeamViewer\TeamViewer_Resource_no.dll.
+2021-03-30-00-13-50  WriteFileChanges(RENAME): Move C:\Program Files\TeamViewer\TVExtractTemp\TeamViewer_Resource_ja.dll to C:\Program Files\TeamViewer\TeamViewer_Resource_ja.dll.
+2021-03-30-00-13-50  WriteFileChanges(RENAME): Move C:\Program Files\TeamViewer\TVExtractTemp\TeamViewer_Resource_ru.dll to C:\Program Files\TeamViewer\TeamViewer_Resource_ru.dll.
+2021-03-30-00-13-50  WriteFileChanges(RENAME): Move C:\Program Files\TeamViewer\TVExtractTemp\TeamViewer_Resource_ko.dll to C:\Program Files\TeamViewer\TeamViewer_Resource_ko.dll.
+2021-03-30-00-13-50  WriteFileChanges(RENAME): Move C:\Program Files\TeamViewer\TVExtractTemp\TeamViewer_Resource_cs.dll to C:\Program Files\TeamViewer\TeamViewer_Resource_cs.dll.
+2021-03-30-00-13-50  WriteFileChanges(RENAME): Move C:\Program Files\TeamViewer\TVExtractTemp\TeamViewer_Resource_ar.dll to C:\Program Files\TeamViewer\TeamViewer_Resource_ar.dll.
+2021-03-30-00-13-50  WriteFileChanges(RENAME): Move C:\Program Files\TeamViewer\TVExtractTemp\TeamViewer_Resource_zhCN.dll to C:\Program Files\TeamViewer\TeamViewer_Resource_zhCN.dll.
+2021-03-30-00-13-50  WriteFileChanges(RENAME): Move C:\Program Files\TeamViewer\TVExtractTemp\TeamViewer_Resource_pl.dll to C:\Program Files\TeamViewer\TeamViewer_Resource_pl.dll.
+2021-03-30-00-13-50  WriteFileChanges(RENAME): Move C:\Program Files\TeamViewer\TVExtractTemp\TeamViewer_Resource_tr.dll to C:\Program Files\TeamViewer\TeamViewer_Resource_tr.dll.
+2021-03-30-00-13-50  WriteFileChanges(RENAME): Move C:\Program Files\TeamViewer\TVExtractTemp\TeamViewer_Resource_bg.dll to C:\Program Files\TeamViewer\TeamViewer_Resource_bg.dll.
+2021-03-30-00-13-50  WriteFileChanges(RENAME): Move C:\Program Files\TeamViewer\TVExtractTemp\TeamViewer_Resource_el.dll to C:\Program Files\TeamViewer\TeamViewer_Resource_el.dll.
+2021-03-30-00-13-50  WriteFileChanges(RENAME): Move C:\Program Files\TeamViewer\TVExtractTemp\TeamViewer_Resource_he.dll to C:\Program Files\TeamViewer\TeamViewer_Resource_he.dll.
+2021-03-30-00-13-50  WriteFileChanges(RENAME): Move C:\Program Files\TeamViewer\TVExtractTemp\TeamViewer_Resource_hr.dll to C:\Program Files\TeamViewer\TeamViewer_Resource_hr.dll.
+2021-03-30-00-13-50  WriteFileChanges(RENAME): Move C:\Program Files\TeamViewer\TVExtractTemp\TeamViewer_Resource_hu.dll to C:\Program Files\TeamViewer\TeamViewer_Resource_hu.dll.
+2021-03-30-00-13-50  WriteFileChanges(RENAME): Move C:\Program Files\TeamViewer\TVExtractTemp\TeamViewer_Resource_id.dll to C:\Program Files\TeamViewer\TeamViewer_Resource_id.dll.
+2021-03-30-00-13-50  WriteFileChanges(RENAME): Move C:\Program Files\TeamViewer\TVExtractTemp\TeamViewer_Resource_lt.dll to C:\Program Files\TeamViewer\TeamViewer_Resource_lt.dll.
+2021-03-30-00-13-50  WriteFileChanges(RENAME): Move C:\Program Files\TeamViewer\TVExtractTemp\TeamViewer_Resource_ro.dll to C:\Program Files\TeamViewer\TeamViewer_Resource_ro.dll.
+2021-03-30-00-13-50  WriteFileChanges(RENAME): Move C:\Program Files\TeamViewer\TVExtractTemp\TeamViewer_Resource_sk.dll to C:\Program Files\TeamViewer\TeamViewer_Resource_sk.dll.
+2021-03-30-00-13-50  WriteFileChanges(RENAME): Move C:\Program Files\TeamViewer\TVExtractTemp\TeamViewer_Resource_sr.dll to C:\Program Files\TeamViewer\TeamViewer_Resource_sr.dll.
+2021-03-30-00-13-50  WriteFileChanges(RENAME): Move C:\Program Files\TeamViewer\TVExtractTemp\TeamViewer_Resource_th.dll to C:\Program Files\TeamViewer\TeamViewer_Resource_th.dll.
+2021-03-30-00-13-50  WriteFileChanges(RENAME): Move C:\Program Files\TeamViewer\TVExtractTemp\TeamViewer_Resource_uk.dll to C:\Program Files\TeamViewer\TeamViewer_Resource_uk.dll.
+2021-03-30-00-13-50  WriteFileChanges(RENAME): Move C:\Program Files\TeamViewer\TVExtractTemp\TeamViewer_Resource_vi.dll to C:\Program Files\TeamViewer\TeamViewer_Resource_vi.dll.
+2021-03-30-00-13-50  WriteFileChanges(RENAME): Move C:\Program Files\TeamViewer\TVExtractTemp\TeamViewer_Resource_zhTW.dll to C:\Program Files\TeamViewer\TeamViewer_Resource_zhTW.dll.
+2021-03-30-00-13-50  WriteFileChanges(RENAME): Move C:\Program Files\TeamViewer\Lizenz_TeamViewer_EN_unicode.txt to C:\Program Files\TeamViewer\License.txt.
+2021-03-30-00-13-50  WriteFileChanges(RENAME): Move C:\Program Files\TeamViewer\CopyRights_EN.txt to C:\Program Files\TeamViewer\CopyRights.txt.
+2021-03-30-00-13-50  WriteFileChanges(DELETE): Delete file C:\Program Files\TeamViewer\Lizenz_TeamViewer_DE_unicode.txt
+2021-03-30-00-13-50  WriteFileChanges(DELETE): Delete file C:\Program Files\TeamViewer\CopyRights_DE.txt
+2021-03-30-00-13-50  WriteFileChanges(RENAME): Move C:\Program Files\TeamViewer\x86\teamviewervpn.sy_ to C:\Program Files\TeamViewer\x86\teamviewervpn.sys.
+2021-03-30-00-13-50  WriteFileChanges(ADD_FIREWALL_EXCEPTION): Add firewall exception Teamviewer Remote Control Application for C:\Program Files\TeamViewer\TeamViewer.exe.
+2021-03-30-00-13-50  WriteFileChanges(ADD_FIREWALL_EXCEPTION): Status adding firewall exception Teamviewer Remote Control Application for C:\Program Files\TeamViewer\TeamViewer.exe. (EC: 0)
+2021-03-30-00-13-50  WriteFileChanges(ADD_FIREWALL_EXCEPTION): Add firewall exception Teamviewer Remote Control Service for C:\Program Files\TeamViewer\TeamViewer_Service.exe.
+2021-03-30-00-13-50  WriteFileChanges(ADD_FIREWALL_EXCEPTION): Status adding firewall exception Teamviewer Remote Control Service for C:\Program Files\TeamViewer\TeamViewer_Service.exe. (EC: 0)
+2021-03-30-00-13-50  WriteFileChanges(SHORTCUT): Create shortcut C:\Users\Public\Desktop\TeamViewer.lnk to C:\Program Files\TeamViewer\TeamViewer.exe
+2021-03-30-00-13-50  WriteFileChanges(SHORTCUT): Warning! File C:\Users\Public\Desktop\TeamViewer.lnk already exists.
+2021-03-30-00-13-50  WriteFileChanges(SHORTCUT): Create shortcut C:\ProgramData\Microsoft\Windows\Start Menu\Programs\TeamViewer.lnk to C:\Program Files\TeamViewer\TeamViewer.exe
+2021-03-30-00-13-50  WriteFileChanges(SHORTCUT): Warning! File C:\ProgramData\Microsoft\Windows\Start Menu\Programs\TeamViewer.lnk already exists.
+2021-03-30-00-13-50  WriteFileChanges(INSTALL_SERVICE): Install service TeamViewer with application path C:\Program Files\TeamViewer\TeamViewer_Service.exe.
+2021-03-30-00-13-52  WriteFileChanges(INSTALL_SERVICE)
+2021-03-30-00-13-52  WriteFileChanges(DELETE): Delete file C:\Program Files\TeamViewer\teamviewer15.otf
+2021-03-30-00-13-52  
+2021-03-30-00-13-52  Set update progress (handle:924, msg:PROGRESS:60 last error:0)
+2021-03-30-00-13-52  WriteRegChanges(): Compute all registry actions...
+2021-03-30-00-13-52  WriteRegChanges(DELETE_KEY): Delete registry key HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\Uninstall\TeamViewer
+2021-03-30-00-13-53  WriteRegChanges(DELETE_KEY): Delete registry key HKEY_CLASSES_ROOT\TeamViewerSession
+2021-03-30-00-13-53  WriteRegChanges(DELETE_VALUE): Delete registry value HKEY_LOCAL_MACHINE\Software\Microsoft\Windows NT\CurrentVersion\Fonts\TeamViewer10 (TrueType)
+DeleteRegValueWithRollback(): Warning! Registry value HKEY_LOCAL_MACHINE\Software\Microsoft\Windows NT\CurrentVersion\Fonts\TeamViewer10 (TrueType) does not exist.
+2021-03-30-00-13-53  WriteRegChanges(DELETE_VALUE): Delete registry value HKEY_LOCAL_MACHINE\Software\Microsoft\Windows NT\CurrentVersion\Fonts\TeamViewer11 (TrueType)
+DeleteRegValueWithRollback(): Warning! Registry value HKEY_LOCAL_MACHINE\Software\Microsoft\Windows NT\CurrentVersion\Fonts\TeamViewer11 (TrueType) does not exist.
+2021-03-30-00-13-53  WriteRegChanges(DELETE_VALUE): Delete registry value HKEY_LOCAL_MACHINE\Software\Microsoft\Windows NT\CurrentVersion\Fonts\TeamViewer12 (TrueType)
+DeleteRegValueWithRollback(): Warning! Registry value HKEY_LOCAL_MACHINE\Software\Microsoft\Windows NT\CurrentVersion\Fonts\TeamViewer12 (TrueType) does not exist.
+2021-03-30-00-13-53  WriteRegChanges(DELETE_VALUE): Delete registry value HKEY_LOCAL_MACHINE\Software\Microsoft\Windows NT\CurrentVersion\Fonts\TeamViewer13 (TrueType)
+DeleteRegValueWithRollback(): Warning! Registry value HKEY_LOCAL_MACHINE\Software\Microsoft\Windows NT\CurrentVersion\Fonts\TeamViewer13 (TrueType) does not exist.
+2021-03-30-00-13-53  WriteRegChanges(DELETE_VALUE): Delete registry value HKEY_LOCAL_MACHINE\Software\Microsoft\Windows NT\CurrentVersion\Fonts\TeamViewer14 (TrueType)
+DeleteRegValueWithRollback(): Warning! Registry value HKEY_LOCAL_MACHINE\Software\Microsoft\Windows NT\CurrentVersion\Fonts\TeamViewer14 (TrueType) does not exist.
+2021-03-30-00-13-53  WriteRegChanges(DELETE_VALUE): Delete registry value HKEY_LOCAL_MACHINE\SOFTWARE\TeamViewer\IsHostModule
+DeleteRegValueWithRollback(): Warning! Registry value HKEY_LOCAL_MACHINE\SOFTWARE\TeamViewer\IsHostModule does not exist.
+2021-03-30-00-13-53  WriteRegChanges(WRITE_STRING): Write registry value HKEY_LOCAL_MACHINE\SOFTWARE\TeamViewer\InstallationDirectory=C:\Program Files\TeamViewer
+2021-03-30-00-13-54  WriteRegChanges(DELETE_VALUE): Delete registry value HKEY_LOCAL_MACHINE\SOFTWARE\TeamViewer\Service_Installation_Status
+DeleteRegValueWithRollback(): Warning! Registry value HKEY_LOCAL_MACHINE\SOFTWARE\TeamViewer\Service_Installation_Status does not exist.
+2021-03-30-00-13-54  WriteRegChanges(COPY_VALUE): Copy registry value HKEY_LOCAL_MACHINE\SOFTWARE\TeamViewer\SecurityPasswordAES to HKEY_LOCAL_MACHINE\SOFTWARE\TeamViewer\Temp\SecurityPasswordExported
+CopyRegValueWithRollback(): Warning! Registry value HKEY_LOCAL_MACHINE\SOFTWARE\TeamViewer\SecurityPasswordAES does not exist. (EC2)
+2021-03-30-00-13-54  WriteRegChanges(COPY_VALUE): Copy registry value HKEY_LOCAL_MACHINE\SOFTWARE\TeamViewer\MultiPwdMgmtPWDs to HKEY_LOCAL_MACHINE\SOFTWARE\TeamViewer\Temp\MultiPwdMgmtPWDsExported
+CopyRegValueWithRollback(): Warning! Registry value HKEY_LOCAL_MACHINE\SOFTWARE\TeamViewer\MultiPwdMgmtPWDs does not exist. (EC2)
+2021-03-30-00-13-54  WriteRegChanges(DELETE_VALUE): Delete registry value HKEY_LOCAL_MACHINE\SOFTWARE\TeamViewer\SecurityPasswordAES
+DeleteRegValueWithRollback(): Warning! Registry value HKEY_LOCAL_MACHINE\SOFTWARE\TeamViewer\SecurityPasswordAES does not exist.
+2021-03-30-00-13-54  WriteRegChanges(DELETE_VALUE): Delete registry value HKEY_LOCAL_MACHINE\SOFTWARE\TeamViewer\MultiPwdMgmtPWDs
+DeleteRegValueWithRollback(): Warning! Registry value HKEY_LOCAL_MACHINE\SOFTWARE\TeamViewer\MultiPwdMgmtPWDs does not exist.
+2021-03-30-00-13-54  WriteRegChanges(WRITE_STRING): Write registry value HKEY_CLASSES_ROOT\.tvs\=TeamViewerSession
+2021-03-30-00-13-54  WriteRegChanges(WRITE_STRING): Write registry value HKEY_CLASSES_ROOT\TeamViewerSession\shell=
+2021-03-30-00-13-55  WriteRegChanges(WRITE_STRING): Write registry value HKEY_CLASSES_ROOT\TeamViewerSession\shell\open=
+2021-03-30-00-13-55  WriteRegChanges(WRITE_STRING): Write registry value HKEY_CLASSES_ROOT\TeamViewerSession\shell\open\command=
+2021-03-30-00-13-56  WriteRegChanges(WRITE_STRING): Write registry value HKEY_CLASSES_ROOT\TeamViewerSession\shell\open\command\="C:\Program Files\TeamViewer\TeamViewer.exe" --play "%1"
+2021-03-30-00-13-57  WriteRegChanges(WRITE_STRING): Write registry value HKEY_CLASSES_ROOT\TeamViewerSession\DefaultIcon=
+2021-03-30-00-13-57  WriteRegChanges(WRITE_STRING): Write registry value HKEY_CLASSES_ROOT\TeamViewerSession\DefaultIcon\="C:\Program Files\TeamViewer\TeamViewer.exe",0
+2021-03-30-00-13-58  WriteRegChanges(WRITE_STRING): Write registry value HKEY_CLASSES_ROOT\.tvc\=TeamViewerConfiguration
+2021-03-30-00-13-59  WriteRegChanges(WRITE_STRING): Write registry value HKEY_CLASSES_ROOT\TeamViewerConfiguration\shell=
+2021-03-30-00-13-59  WriteRegChanges(WRITE_STRING): Write registry value HKEY_CLASSES_ROOT\TeamViewerConfiguration\shell\open=
+2021-03-30-00-14-01  WriteRegChanges(WRITE_STRING): Write registry value HKEY_CLASSES_ROOT\TeamViewerConfiguration\shell\open\command=
+2021-03-30-00-14-01  WriteRegChanges(WRITE_STRING): Write registry value HKEY_CLASSES_ROOT\TeamViewerConfiguration\shell\open\command\="C:\Program Files\TeamViewer\TeamViewer.exe" --control "%1"
+2021-03-30-00-14-02  WriteRegChanges(WRITE_STRING): Write registry value HKEY_CLASSES_ROOT\TeamViewerConfiguration\DefaultIcon=
+2021-03-30-00-14-03  WriteRegChanges(WRITE_STRING): Write registry value HKEY_CLASSES_ROOT\TeamViewerConfiguration\DefaultIcon\="C:\Program Files\TeamViewer\TeamViewer.exe",0
+2021-03-30-00-14-03  WriteRegChanges(WRITE_STRING): Write registry value HKEY_CLASSES_ROOT\.tvlink\=InternetShortcut
+2021-03-30-00-14-04  WriteRegChanges(WRITE_STRING): Write registry value HKEY_CLASSES_ROOT\.tvlink\OpenWithProgIds\InternetShortcut=
+2021-03-30-00-14-05  WriteRegChanges(WRITE_STRING): Write registry value HKEY_CLASSES_ROOT\.tvlink\DefaultIcon\="C:\Program Files\TeamViewer\TeamViewer.exe"
+2021-03-30-00-14-05  WriteRegChanges(WRITE_STRING): Write registry value HKEY_CLASSES_ROOT\.tpsr\=TeamViewerPilotSessionReporting
+2021-03-30-00-14-06  WriteRegChanges(WRITE_STRING): Write registry value HKEY_CLASSES_ROOT\TeamViewerPilotSessionReporting\shell=
+2021-03-30-00-14-06  WriteRegChanges(WRITE_STRING): Write registry value HKEY_CLASSES_ROOT\TeamViewerPilotSessionReporting\shell\open=
+2021-03-30-00-14-07  WriteRegChanges(WRITE_STRING): Write registry value HKEY_CLASSES_ROOT\TeamViewerPilotSessionReporting\shell\open\command=
+2021-03-30-00-14-07  WriteRegChanges(WRITE_STRING): Write registry value HKEY_CLASSES_ROOT\TeamViewerPilotSessionReporting\shell\open\command\="C:\Program Files\TeamViewer\TeamViewer.exe" --opentpsr "%1"
+2021-03-30-00-14-08  WriteRegChanges(WRITE_STRING): Write registry value HKEY_CLASSES_ROOT\TeamViewerPilotSessionReporting\DefaultIcon=
+2021-03-30-00-14-09  WriteRegChanges(WRITE_STRING): Write registry value HKEY_CLASSES_ROOT\TeamViewerPilotSessionReporting\DefaultIcon\="C:\Program Files\TeamViewer\TeamViewer.exe",0
+2021-03-30-00-14-09  WriteRegChanges(WRITE_DWORD): Write registry value HKEY_LOCAL_MACHINE\SOFTWARE\TeamViewer\Always_Online=1
+2021-03-30-00-14-10  WriteRegChanges(WRITE_DWORD): Write registry value HKEY_LOCAL_MACHINE\SOFTWARE\TeamViewer\DefaultSettings\Autostart_GUI=1
+2021-03-30-00-14-10  WriteRegChanges(WRITE_STRING): Write registry value HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\TeamViewer\DisplayName=TeamViewer
+2021-03-30-00-14-11  WriteRegChanges(WRITE_STRING): Write registry value HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\TeamViewer\DisplayIcon=C:\Program Files\TeamViewer\TeamViewer.exe
+2021-03-30-00-14-11  WriteRegChanges(WRITE_STRING): Write registry value HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\TeamViewer\Publisher=TeamViewer
+2021-03-30-00-14-11  WriteRegChanges(WRITE_STRING): Write registry value HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\TeamViewer\HelpLink=http://www.teamviewer.com
+2021-03-30-00-14-12  WriteRegChanges(WRITE_STRING): Write registry value HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\TeamViewer\UninstallString="C:\Program Files\TeamViewer\uninstall.exe"
+2021-03-30-00-14-12  WriteRegChanges(WRITE_DWORD): Write registry value HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\TeamViewer\NoModify=1
+2021-03-30-00-14-12  WriteRegChanges(WRITE_DWORD): Write registry value HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\TeamViewer\NoRepair=1
+2021-03-30-00-14-13  WriteRegChanges(WRITE_DWORD): Write registry value HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\TeamViewer\VersionMajor=15
+2021-03-30-00-14-13  WriteRegChanges(WRITE_DWORD): Write registry value HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\TeamViewer\VersionMinor=16
+2021-03-30-00-14-14  WriteRegChanges(WRITE_STRING): Write registry value HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\TeamViewer\InstallLocation=C:\Program Files\TeamViewer
+2021-03-30-00-14-14  WriteRegChanges(WRITE_STRING): Write registry value HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\TeamViewer\DisplayVersion=15.16.8
+2021-03-30-00-14-14  WriteRegChanges(WRITE_DWORD): Write registry value HKEY_LOCAL_MACHINE\SOFTWARE\TeamViewer\Temp\SessionIdForceAutoStart_GUI=1
+2021-03-30-00-14-15  WriteRegChanges(WRITE_STRING): Write registry value HKEY_CLASSES_ROOT\tvcontrol1\URL Protocol=""
+2021-03-30-00-14-16  WriteRegChanges(WRITE_STRING): Write registry value HKEY_CLASSES_ROOT\tvcontrol1\=URL:tvcontrol1 Protocol
+2021-03-30-00-14-17  WriteRegChanges(WRITE_STRING): Write registry value HKEY_CLASSES_ROOT\tvcontrol1\shell\open\command\="C:\Program Files\TeamViewer\TeamViewer.exe" "%1"
+2021-03-30-00-14-17  WriteRegChanges(WRITE_STRING): Write registry value HKEY_CLASSES_ROOT\tvfiletransfer1\URL Protocol=""
+2021-03-30-00-14-18  WriteRegChanges(WRITE_STRING): Write registry value HKEY_CLASSES_ROOT\tvfiletransfer1\=URL:tvfiletransfer1 Protocol
+2021-03-30-00-14-18  WriteRegChanges(WRITE_STRING): Write registry value HKEY_CLASSES_ROOT\tvfiletransfer1\shell\open\command\="C:\Program Files\TeamViewer\TeamViewer.exe" "%1"
+2021-03-30-00-14-19  WriteRegChanges(WRITE_STRING): Write registry value HKEY_CLASSES_ROOT\tvvpn1\URL Protocol=""
+2021-03-30-00-14-19  WriteRegChanges(WRITE_STRING): Write registry value HKEY_CLASSES_ROOT\tvvpn1\=URL:tvvpn1 Protocol
+2021-03-30-00-14-20  WriteRegChanges(WRITE_STRING): Write registry value HKEY_CLASSES_ROOT\tvvpn1\shell\open\command\="C:\Program Files\TeamViewer\TeamViewer.exe" "%1"
+2021-03-30-00-14-21  WriteRegChanges(WRITE_STRING): Write registry value HKEY_CLASSES_ROOT\tvchat1\URL Protocol=""
+2021-03-30-00-14-21  WriteRegChanges(WRITE_STRING): Write registry value HKEY_CLASSES_ROOT\tvchat1\=URL:tvchat1 Protocol
+2021-03-30-00-14-22  WriteRegChanges(WRITE_STRING): Write registry value HKEY_CLASSES_ROOT\tvchat1\shell\open\command\="C:\Program Files\TeamViewer\TeamViewer.exe" "%1"
+2021-03-30-00-14-22  WriteRegChanges(WRITE_STRING): Write registry value HKEY_CLASSES_ROOT\tvpresent1\URL Protocol=""
+2021-03-30-00-14-23  WriteRegChanges(WRITE_STRING): Write registry value HKEY_CLASSES_ROOT\tvpresent1\=URL:tvpresent1 Protocol
+2021-03-30-00-14-24  WriteRegChanges(WRITE_STRING): Write registry value HKEY_CLASSES_ROOT\tvpresent1\shell\open\command\="C:\Program Files\TeamViewer\TeamViewer.exe" "%1"
+2021-03-30-00-14-24  WriteRegChanges(WRITE_STRING): Write registry value HKEY_CLASSES_ROOT\tvvideocall1\URL Protocol=""
+2021-03-30-00-14-25  WriteRegChanges(WRITE_STRING): Write registry value HKEY_CLASSES_ROOT\tvvideocall1\=URL:tvvideocall1 Protocol
+2021-03-30-00-14-26  WriteRegChanges(WRITE_STRING): Write registry value HKEY_CLASSES_ROOT\tvvideocall1\shell\open\command\="C:\Program Files\TeamViewer\TeamViewer.exe" "%1"
+2021-03-30-00-14-26  WriteRegChanges(WRITE_STRING): Write registry value HKEY_CLASSES_ROOT\tvsendfile1\URL Protocol=""
+2021-03-30-00-14-27  WriteRegChanges(WRITE_STRING): Write registry value HKEY_CLASSES_ROOT\tvsendfile1\=URL:tvsendfile1 Protocol
+2021-03-30-00-14-27  WriteRegChanges(WRITE_STRING): Write registry value HKEY_CLASSES_ROOT\tvsendfile1\shell\open\command\="C:\Program Files\TeamViewer\TeamViewer.exe" "%1"
+2021-03-30-00-14-28  WriteRegChanges(WRITE_STRING): Write registry value HKEY_CLASSES_ROOT\teamviewer8\URL Protocol=""
+2021-03-30-00-14-28  WriteRegChanges(WRITE_STRING): Write registry value HKEY_CLASSES_ROOT\teamviewer8\=URL:teamviewer8 Protocol
+2021-03-30-00-14-29  WriteRegChanges(WRITE_STRING): Write registry value HKEY_CLASSES_ROOT\teamviewer8\shell\open\command\="C:\Program Files\TeamViewer\TeamViewer.exe" "%1"
+2021-03-30-00-14-29  WriteRegChanges(WRITE_STRING): Write registry value HKEY_CLASSES_ROOT\teamviewer10\URL Protocol=""
+2021-03-30-00-14-30  WriteRegChanges(WRITE_STRING): Write registry value HKEY_CLASSES_ROOT\teamviewer10\=URL:teamviewer10 Protocol
+2021-03-30-00-14-30  WriteRegChanges(WRITE_STRING): Write registry value HKEY_CLASSES_ROOT\teamviewer10\shell\open\command\="C:\Program Files\TeamViewer\TeamViewer.exe" "%1"
+2021-03-30-00-14-31  WriteRegChanges(WRITE_STRING): Write registry value HKEY_CLASSES_ROOT\tvjoinv8\URL Protocol=""
+2021-03-30-00-14-31  WriteRegChanges(WRITE_STRING): Write registry value HKEY_CLASSES_ROOT\tvjoinv8\=URL:tvjoinv8 Protocol
+2021-03-30-00-14-32  WriteRegChanges(WRITE_STRING): Write registry value HKEY_CLASSES_ROOT\tvjoinv8\shell\open\command\="C:\Program Files\TeamViewer\TeamViewer.exe" "%1"
+2021-03-30-00-14-33  WriteRegChanges(WRITE_STRING): Write registry value HKEY_CLASSES_ROOT\tvsqsupport1\URL Protocol=""
+2021-03-30-00-14-33  WriteRegChanges(WRITE_STRING): Write registry value HKEY_CLASSES_ROOT\tvsqsupport1\=URL:tvsqsupport1 Protocol
+2021-03-30-00-14-34  WriteRegChanges(WRITE_STRING): Write registry value HKEY_CLASSES_ROOT\tvsqsupport1\shell\open\command\="C:\Program Files\TeamViewer\TeamViewer.exe" "%1"
+2021-03-30-00-14-35  WriteRegChanges(WRITE_STRING): Write registry value HKEY_CLASSES_ROOT\tvsqcustomer1\URL Protocol=""
+2021-03-30-00-14-36  WriteRegChanges(WRITE_STRING): Write registry value HKEY_CLASSES_ROOT\tvsqcustomer1\=URL:tvsqcustomer1 Protocol
+2021-03-30-00-14-36  WriteRegChanges(WRITE_STRING): Write registry value HKEY_CLASSES_ROOT\tvsqcustomer1\shell\open\command\="C:\Program Files\TeamViewer\TeamViewer.exe" "%1"
+2021-03-30-00-14-37  WriteRegChanges(WRITE_STRING): Write registry value HKEY_CLASSES_ROOT\teamviewerapi\URL Protocol=""
+2021-03-30-00-14-38  WriteRegChanges(WRITE_STRING): Write registry value HKEY_CLASSES_ROOT\teamviewerapi\=URL:teamviewerapi Protocol
+2021-03-30-00-14-38  WriteRegChanges(WRITE_STRING): Write registry value HKEY_CLASSES_ROOT\teamviewerapi\shell\open\command\="C:\Program Files\TeamViewer\TeamViewer.exe" "%1"
+2021-03-30-00-14-39  WriteRegChanges(WRITE_STRING): Write registry value HKEY_CLASSES_ROOT\blizzv1\URL Protocol=""
+2021-03-30-00-14-40  WriteRegChanges(WRITE_STRING): Write registry value HKEY_CLASSES_ROOT\blizzv1\=URL:blizzv1 Protocol
+2021-03-30-00-14-41  WriteRegChanges(WRITE_STRING): Write registry value HKEY_CLASSES_ROOT\blizzv1\shell\open\command\="C:\Program Files\TeamViewer\TeamViewer.exe" "%1"
+2021-03-30-00-14-41  
+2021-03-30-00-14-41  Set update progress (handle:924, msg:PROGRESS:70 last error:0)
+2021-03-30-00-14-41  InstallDrivers(): Install drivers...
+2021-03-30-00-14-41  
+2021-03-30-00-14-41  Set update progress (handle:924, msg:PROGRESS:80 last error:0)
+2021-03-30-00-14-41  CleanUp(): Clean up...
+2021-03-30-00-14-41  CleanUp(): Unload previously loaded user registry profiles...
+2021-03-30-00-14-42  CleanUp(): Install restore task successful removed.
+2021-03-30-00-14-42  CleanUp(): Backup key successful removed.
+2021-03-30-00-14-42  CleanUp(): Backup directory C:\Program Files\TeamViewer\Update\TVInstallTemp successful removed.
+2021-03-30-00-14-42  CleanUp(): Extract directory C:\Program Files\TeamViewer\TVExtractTemp successful removed.
+2021-03-30-00-14-42  
+2021-03-30-00-14-42  TVEnumUserRegKeys(): Load all unloaded user registry profiles...
+2021-03-30-00-14-42  TVEnumUserRegKeys(): Enumerate user registry profiles with callback function RenameTeamViewerTaskbarPin and sub key 15...
+2021-03-30-00-14-42  TVEnumUserRegKeys(): Enumeration done
+2021-03-30-00-14-42  Set update progress (handle:924, msg:PROGRESS:90 last error:0)
+2021-03-30-00-14-42  InstallTeamViewer(): Run TeamViewer service...
+2021-03-30-00-14-43  Set update progress (handle:924, msg:PROGRESS:100 last error:0)
+2021-03-30-00-14-44  Update TeamViewer: Stop TvUpdateInfo.exe process...
+2021-03-30-00-14-44  InstallTeamViewer(): Installation finished.
+2021-05-05-11-05-44  ----------------------------------------------------------------------------------------------------
+2021-05-05-11-05-44  Installer:     TeamViewer Updater
+2021-05-05-11-05-44  Version:       15.17.7
+2021-05-05-11-05-44  Install mode:  Admin
+2021-05-05-11-05-44  Account type:  Admin, UAC supported:0, Elevation:1
+2021-05-05-11-05-44  Time:          2021-05-05-11-05-44
+2021-05-05-11-05-44  OS-Version:    6.1.7601(32-bit) SP:1, Type:1
+2021-05-05-11-05-44  OS-Info:       Server:0 Home server:0
+2021-05-05-11-05-44  User-SID:      S-1-5-18
+2021-05-05-11-05-44  Log level:     100 (default)
+2021-05-05-11-05-44  ----------------------------------------------------------------------------------------------------
+2021-05-05-11-05-44  
+2021-05-05-11-05-44  TVInitRollback(): create scheduled task for restore
+2021-05-05-11-05-46  Create backup directory:<C:\Program Files\TeamViewer\Update\TVInstallTemp>
+2021-05-05-11-05-46  DeleteRegKey HKLM SOFTWARE\TVInstallTemp
+2021-05-05-11-05-46  Start Progress bar: session:1, status:0
+2021-05-05-11-05-46  Connect to progress bar (handle: -1, Last error: 2)
+2021-05-05-11-05-47  Connect to progress bar (handle: 920, Last error: 0)
+2021-05-05-11-05-47  Set update progress (handle:920, msg:TITLE:AtualizaÁ„o do TeamViewer last error:0)
+2021-05-05-11-05-47  Set update progress (handle:920, msg:SUBTITLE:Instalando last error:0)
+2021-05-05-11-05-47  Set update progress (handle:920, msg:PROGRESS:10 last error:0)
+2021-05-05-11-05-47  Currently installed version: Major:<15>, Display:<15.16.8>
+2021-05-05-11-05-47  Command line parameter: --WinSession 1  --RemoveOld
+2021-05-05-11-05-47  InstallTeamViewer(): Install TeamViewer...
+2021-05-05-11-05-47  Parent Process ID=4020, path: \Device\HarddiskVolume2\Program Files\TeamViewer\TeamViewer_Service.exe, last error: 0
+2021-05-05-11-05-47  InstallTeamViewer(): Check previous desktop icon:1
+2021-05-05-11-05-47  TVEnumUserRegKeys(): Load all unloaded user registry profiles...
+2021-05-05-11-05-47  TVEnumUserRegKeys(): Enumerate user registry profiles with callback function CreateSendtoLinksCallback and sub key SOFTWARE\TeamViewer...
+2021-05-05-11-05-47  TVEnumUserRegKeys(): Enumeration done
+2021-05-05-11-05-47  InstallTeamViewer(): Check installed drivers...
+2021-05-05-11-05-47  InstallTeamViewer(): Check previous VPN installation:0
+2021-05-05-11-05-47  InstallTeamViewer(): Check previous remote printer installation:0
+2021-05-05-11-05-47  InstallTeamViewer(): Check previous monitor driver installation:0, version:940
+2021-05-05-11-05-47  InstallTeamViewer(): Check previous API installation:0
+2021-05-05-11-05-47  InstallTeamViewer(): Check settings...
+2021-05-05-11-05-47  InstallTeamViewer(): Check settings:1
+2021-05-05-11-05-47  Set update progress (handle:920, msg:PROGRESS:20 last error:0)
+2021-05-05-11-05-47  TVUninstall(): Prepare deinstallation of TeamViewerX...
+2021-05-05-11-05-47  UninstallTVX(): Delete links(all): group:TeamViewer, major version:15
+2021-05-05-11-05-47  UninstallTVX(): Delete links(current): group:TeamViewer, major version:15
+2021-05-05-11-05-47  TVSetInstallDir(): Install directory C:\Program Files\TeamViewer already exists.
+2021-05-05-11-05-47  ExtractFiles(): Extract all pack files...
+2021-05-05-11-05-55  ExtractFiles(): All files successful extracted.
+2021-05-05-11-05-55  Set update progress (handle:920, msg:PROGRESS:30 last error:0)
+2021-05-05-11-05-55  Set update progress (handle:920, msg:PROGRESS:40 last error:0)
+2021-05-05-11-05-55  TVCreateShortCut(): C:\Users\Public\Desktop\TeamViewer.lnk, C:\Program Files\TeamViewer, TeamViewer.exe
+2021-05-05-11-05-55  TVCreateShortCut(): C:\ProgramData\Microsoft\Windows\Start Menu\Programs\TeamViewer.lnk, C:\Program Files\TeamViewer, TeamViewer.exe
+2021-05-05-11-05-55  InstallTeamViewer(): Stop older TeamViewer services
+2021-05-05-11-05-55  InstallTeamViewer(): Stop current TeamViewer service...
+2021-05-05-11-05-55  InstallTeamViewer(): Status for service TeamViewer:4 (expected:0x00000004 or 0x00000000)
+2021-05-05-11-05-55  InstallTeamViewer(): Set failure actions for service TeamViewer
+2021-05-05-11-05-55  InstallTeamViewer(): Stop service TeamViewer
+2021-05-05-11-06-01  InstallTeamViewer(): Status for service TeamViewer:1 (expected:0x00000000 or 0x00000001)
+2021-05-05-11-06-02  InstallTeamViewer(): TVX_INSTALLED_REG_DIR=C:\Program Files\TeamViewer
+2021-05-05-11-06-02  Outlook not installed / detected!
+2021-05-05-11-06-02  InstallTeamViewer(): TeamViewer font teamviewer15.otf (Rev: 1510) is already installed...
+2021-05-05-11-06-02  Set update progress (handle:920, msg:PROGRESS:50 last error:0)
+2021-05-05-11-06-02  ApplySystemChanges(): Apply system changes...
+
+2021-05-05-11-06-02  WriteFileChanges(): Compute all file actions...
+2021-05-05-11-06-02  WriteFileChanges(TRYDELETE): Delete file C:\Users\Default\AppData\Roaming\Microsoft\Windows\SendTo\TeamViewer.lnk
+2021-05-05-11-06-02  WriteFileChanges(SHORTCUT): Create shortcut C:\Users\Default\AppData\Roaming\Microsoft\Windows\SendTo\TeamViewer.lnk to C:\Program Files\TeamViewer\TeamViewer.exe
+2021-05-05-11-06-02  WriteFileChanges(TRYDELETE): Delete file C:\Users\Rafael\AppData\Roaming\Microsoft\Windows\SendTo\TeamViewer.lnk
+2021-05-05-11-06-02  WriteFileChanges(SHORTCUT): Create shortcut C:\Users\Rafael\AppData\Roaming\Microsoft\Windows\SendTo\TeamViewer.lnk to C:\Program Files\TeamViewer\TeamViewer.exe
+2021-05-05-11-06-02  WriteFileChanges(UNINSTALL_SERVICE): Uninstall service TeamViewer with application path C:\Program Files\TeamViewer\TeamViewer_Service.exe...
+2021-05-05-11-06-02  WriteFileChanges(UNINSTALL_SERVICE): Status for service TeamViewer:1 (0:not existing, 1:SERVICE_STOPPED)
+2021-05-05-11-06-02  WriteFileChanges(UNINSTALL_SERVICE): Stop service TeamViewer
+2021-05-05-11-06-02  WriteFileChanges(UNINSTALL_SERVICE): Status stop service TeamViewer:1 (expected:1->OK)
+2021-05-05-11-06-02  WriteFileChanges(UNINSTALL_SERVICE): Status for service TeamViewer:1 (0:not existing, 1:SERVICE_STOPPED)
+2021-05-05-11-06-02  WriteFileChanges(UNINSTALL_SERVICE): Uninstall service TeamViewer. Status:0 (expected:0->OK)
+2021-05-05-11-06-02  WriteFileChanges(REMOVE_FIREWALL_EXCEPTION): Remove firewall exception TeamViewer Remote Control Application for application C:\Program Files\TeamViewer\TeamViewer.exe.
+2021-05-05-11-06-02  WriteFileChanges(REMOVE_FIREWALL_EXCEPTION): Remove firewall exception TeamViewer Remote Control Service for application C:\Program Files\TeamViewer\TeamViewer_Service.exe.
+2021-05-05-11-06-02  WriteFileChanges(DELETE): Warning! File C:\Users\Public\Desktop\TeamViewer 15.lnk can't be deleted because it does not exist.
+2021-05-05-11-06-02  WriteFileChanges(DELETE): Warning! File C:\Users\Public\Desktop\TeamViewer 15 Host.lnk can't be deleted because it does not exist.
+2021-05-05-11-06-02  WriteFileChanges(DELETE): Warning! File C:\ProgramData\Microsoft\Windows\Start Menu\Programs\TeamViewer 15.lnk can't be deleted because it does not exist.
+2021-05-05-11-06-02  WriteFileChanges(DELETE): Warning! File C:\ProgramData\Microsoft\Windows\Start Menu\Programs\TeamViewer 15 Host.lnk can't be deleted because it does not exist.
+2021-05-05-11-06-02  WriteFileChanges(DELETE): Warning! File C:\Windows\system32\config\systemprofile\Desktop\TeamViewer 15.lnk can't be deleted because it does not exist.
+2021-05-05-11-06-02  WriteFileChanges(DELETE): Warning! File C:\Windows\system32\config\systemprofile\Desktop\TeamViewer 15 Host.lnk can't be deleted because it does not exist.
+2021-05-05-11-06-02  WriteFileChanges(DELETE): Warning! File C:\Windows\system32\config\systemprofile\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\TeamViewer 15.lnk can't be deleted because it does not exist.
+2021-05-05-11-06-02  WriteFileChanges(DELETE): Warning! File C:\Windows\system32\config\systemprofile\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\TeamViewer 15 Host.lnk can't be deleted because it does not exist.
+2021-05-05-11-06-02  WriteFileChanges(DELETE): Delete file C:\Program Files\TeamViewer\TeamViewer.exe
+2021-05-05-11-06-02  WriteFileChanges(DELETE): Delete file C:\Program Files\TeamViewer\TeamViewer_Desktop.exe
+2021-05-05-11-06-02  WriteFileChanges(DELETE): Delete file C:\Program Files\TeamViewer\TeamViewer_Service.exe
+2021-05-05-11-06-02  WriteFileChanges(DELETE): Delete file C:\Program Files\TeamViewer\TeamViewer_Note.exe
+2021-05-05-11-06-02  WriteFileChanges(DELETE): Delete file C:\Program Files\TeamViewer\uninstall.exe
+2021-05-05-11-06-02  WriteFileChanges(DELETE): Warning! File C:\Program Files\TeamViewer\tv.dll can't be deleted because it does not exist.
+2021-05-05-11-06-02  WriteFileChanges(DELETE): Delete file C:\Program Files\TeamViewer\tv_w32.dll
+2021-05-05-11-06-02  WriteFileChanges(DELETE): Delete file C:\Program Files\TeamViewer\tv_w32.exe
+2021-05-05-11-06-02  WriteFileChanges(DELETE): Delete file C:\Program Files\TeamViewer\tv_x64.dll
+2021-05-05-11-06-02  WriteFileChanges(DELETE): Delete file C:\Program Files\TeamViewer\tv_x64.exe
+2021-05-05-11-06-02  WriteFileChanges(DELETE): Delete file C:\Program Files\TeamViewer\TeamViewer_StaticRes.dll
+2021-05-05-11-06-02  WriteFileChanges(DELETE): Warning! File C:\Program Files\TeamViewer\Teamviewer_resource.dll can't be deleted because it does not exist.
+2021-05-05-11-06-02  WriteFileChanges(DELETE): Delete file C:\Program Files\TeamViewer\Teamviewer_resource_de.dll
+2021-05-05-11-06-02  WriteFileChanges(DELETE): Delete file C:\Program Files\TeamViewer\Teamviewer_resource_en.dll
+2021-05-05-11-06-02  WriteFileChanges(DELETE): Delete file C:\Program Files\TeamViewer\Teamviewer_resource_da.dll
+2021-05-05-11-06-02  WriteFileChanges(DELETE): Delete file C:\Program Files\TeamViewer\Teamviewer_resource_es.dll
+2021-05-05-11-06-02  WriteFileChanges(DELETE): Delete file C:\Program Files\TeamViewer\Teamviewer_resource_fi.dll
+2021-05-05-11-06-02  WriteFileChanges(DELETE): Delete file C:\Program Files\TeamViewer\Teamviewer_resource_fr.dll
+2021-05-05-11-06-02  WriteFileChanges(DELETE): Delete file C:\Program Files\TeamViewer\Teamviewer_resource_it.dll
+2021-05-05-11-06-02  WriteFileChanges(DELETE): Delete file C:\Program Files\TeamViewer\Teamviewer_resource_ja.dll
+2021-05-05-11-06-02  WriteFileChanges(DELETE): Delete file C:\Program Files\TeamViewer\Teamviewer_resource_nl.dll
+2021-05-05-11-06-02  WriteFileChanges(DELETE): Delete file C:\Program Files\TeamViewer\Teamviewer_resource_no.dll
+2021-05-05-11-06-02  WriteFileChanges(DELETE): Delete file C:\Program Files\TeamViewer\Teamviewer_resource_pl.dll
+2021-05-05-11-06-03  WriteFileChanges(DELETE): Delete file C:\Program Files\TeamViewer\Teamviewer_resource_pt.dll
+2021-05-05-11-06-03  WriteFileChanges(DELETE): Delete file C:\Program Files\TeamViewer\Teamviewer_resource_sv.dll
+2021-05-05-11-06-03  WriteFileChanges(DELETE): Delete file C:\Program Files\TeamViewer\Teamviewer_resource_tr.dll
+2021-05-05-11-06-03  WriteFileChanges(DELETE): Delete file C:\Program Files\TeamViewer\Teamviewer_resource_ru.dll
+2021-05-05-11-06-03  WriteFileChanges(DELETE): Delete file C:\Program Files\TeamViewer\Teamviewer_resource_ko.dll
+2021-05-05-11-06-03  WriteFileChanges(DELETE): Delete file C:\Program Files\TeamViewer\Teamviewer_resource_cs.dll
+2021-05-05-11-06-03  WriteFileChanges(DELETE): Delete file C:\Program Files\TeamViewer\Teamviewer_resource_ar.dll
+2021-05-05-11-06-03  WriteFileChanges(DELETE): Warning! File C:\Program Files\TeamViewer\Teamviewer_resource_zh.dll can't be deleted because it does not exist.
+2021-05-05-11-06-03  WriteFileChanges(DELETE): Delete file C:\Program Files\TeamViewer\Teamviewer_resource_zhCN.dll
+2021-05-05-11-06-03  WriteFileChanges(DELETE): Delete file C:\Program Files\TeamViewer\Teamviewer_resource_bg.dll
+2021-05-05-11-06-03  WriteFileChanges(DELETE): Delete file C:\Program Files\TeamViewer\Teamviewer_resource_el.dll
+2021-05-05-11-06-03  WriteFileChanges(DELETE): Delete file C:\Program Files\TeamViewer\Teamviewer_resource_he.dll
+2021-05-05-11-06-03  WriteFileChanges(DELETE): Delete file C:\Program Files\TeamViewer\Teamviewer_resource_hr.dll
+2021-05-05-11-06-03  WriteFileChanges(DELETE): Delete file C:\Program Files\TeamViewer\Teamviewer_resource_hu.dll
+2021-05-05-11-06-03  WriteFileChanges(DELETE): Delete file C:\Program Files\TeamViewer\Teamviewer_resource_id.dll
+2021-05-05-11-06-03  WriteFileChanges(DELETE): Delete file C:\Program Files\TeamViewer\Teamviewer_resource_lt.dll
+2021-05-05-11-06-03  WriteFileChanges(DELETE): Delete file C:\Program Files\TeamViewer\Teamviewer_resource_ro.dll
+2021-05-05-11-06-03  WriteFileChanges(DELETE): Delete file C:\Program Files\TeamViewer\Teamviewer_resource_sk.dll
+2021-05-05-11-06-03  WriteFileChanges(DELETE): Delete file C:\Program Files\TeamViewer\Teamviewer_resource_sr.dll
+2021-05-05-11-06-03  WriteFileChanges(DELETE): Delete file C:\Program Files\TeamViewer\Teamviewer_resource_th.dll
+2021-05-05-11-06-03  WriteFileChanges(DELETE): Delete file C:\Program Files\TeamViewer\Teamviewer_resource_uk.dll
+2021-05-05-11-06-03  WriteFileChanges(DELETE): Delete file C:\Program Files\TeamViewer\Teamviewer_resource_vi.dll
+2021-05-05-11-06-03  WriteFileChanges(DELETE): Delete file C:\Program Files\TeamViewer\Teamviewer_resource_zhTW.dll
+2021-05-05-11-06-03  WriteFileChanges(DELETE): Delete file C:\Program Files\TeamViewer\outlook\TeamViewerMeetingAddIn.dll
+2021-05-05-11-06-03  WriteFileChanges(DELETE): Delete file C:\Program Files\TeamViewer\outlook\ManagedAggregator.dll
+2021-05-05-11-06-03  WriteFileChanges(DELETE): Delete file C:\Program Files\TeamViewer\outlook\TeamViewerMeetingAddinShim.dll
+2021-05-05-11-06-03  WriteFileChanges(DELETE): Delete file C:\Program Files\TeamViewer\outlook\TeamViewerMeetingAddinShim64.dll
+2021-05-05-11-06-03  WriteFileChanges(RMDIR): Remove directory C:\Program Files\TeamViewer\outlook
+2021-05-05-11-06-03  WriteFileChanges(DELETE): Warning! File C:\Program Files\TeamViewer\Lizenz.txt can't be deleted because it does not exist.
+2021-05-05-11-06-03  WriteFileChanges(DELETE): Delete file C:\Program Files\TeamViewer\License.txt
+2021-05-05-11-06-03  WriteFileChanges(DELETE): Delete file C:\Program Files\TeamViewer\CopyRights.txt
+2021-05-05-11-06-03  WriteFileChanges(DELETE): Warning! File C:\Program Files\TeamViewer\sas.exe can't be deleted because it does not exist.
+2021-05-05-11-06-03  WriteFileChanges(DELETE): Warning! File C:\Program Files\TeamViewer\TeamViewer.hta can't be deleted because it does not exist.
+2021-05-05-11-06-03  WriteFileChanges(DELETE): Warning! File C:\Program Files\TeamViewer\install.exe can't be deleted because it does not exist.
+2021-05-05-11-06-03  WriteFileChanges(DELETE): Warning! File C:\Program Files\TeamViewer\install64.exe can't be deleted because it does not exist.
+2021-05-05-11-06-03  WriteFileChanges(DELETE): Delete file C:\Program Files\TeamViewer\update\update.exe
+2021-05-05-11-06-03  TVWriteFileEntry(): Warning! File C:\Program Files\TeamViewer\update\update.exe could not be moved to C:\Program Files\TeamViewer\Update\TVInstallTemp\TVFile60.bak.
+2021-05-05-11-06-03  TVWriteFileEntry(): Warning! File C:\Program Files\TeamViewer\update\update.exe could not be removed!
+2021-05-05-11-06-03  WriteFileChanges(DELETE): Delete file C:\Program Files\TeamViewer\x86\TeamViewerVPN.inf
+2021-05-05-11-06-03  WriteFileChanges(DELETE): Warning! File C:\Program Files\TeamViewer\x86\TeamViewerVPN.sys can't be deleted because it does not exist.
+2021-05-05-11-06-03  WriteFileChanges(DELETE): Delete file C:\Program Files\TeamViewer\x86\TeamViewerVPN.sy_
+2021-05-05-11-06-03  WriteFileChanges(DELETE): Delete file C:\Program Files\TeamViewer\x86\TeamViewerVPN.cat
+2021-05-05-11-06-03  WriteFileChanges(DELETE): Delete file C:\Program Files\TeamViewer\x86\TVMonitor.cat
+2021-05-05-11-06-03  WriteFileChanges(DELETE): Delete file C:\Program Files\TeamViewer\x86\TVMonitor.inf
+2021-05-05-11-06-03  WriteFileChanges(DELETE): Warning! File C:\Program Files\TeamViewer\x86\TVMonitor.sys can't be deleted because it does not exist.
+2021-05-05-11-06-03  WriteFileChanges(DELETE): Delete file C:\Program Files\TeamViewer\x86\TVMonitor.sy_
+2021-05-05-11-06-03  WriteFileChanges(DELETE): Warning! File C:\Program Files\TeamViewer\x86\Teamviewer_PrintProcessor.dll can't be deleted because it does not exist.
+2021-05-05-11-06-03  WriteFileChanges(DELETE): Warning! File C:\Program Files\TeamViewer\x86\tvprint.cat can't be deleted because it does not exist.
+2021-05-05-11-06-03  WriteFileChanges(DELETE): Warning! File C:\Program Files\TeamViewer\x86\TVPrint.inf can't be deleted because it does not exist.
+2021-05-05-11-06-03  WriteFileChanges(DELETE): Warning! File C:\Program Files\TeamViewer\x86\TeamViewer.gpd can't be deleted because it does not exist.
+2021-05-05-11-06-03  WriteFileChanges(DELETE): Warning! File C:\Program Files\TeamViewer\x86\tvpsprint.cat can't be deleted because it does not exist.
+2021-05-05-11-06-03  WriteFileChanges(DELETE): Warning! File C:\Program Files\TeamViewer\x86\TVPSPrint.inf can't be deleted because it does not exist.
+2021-05-05-11-06-03  WriteFileChanges(DELETE): Warning! File C:\Program Files\TeamViewer\x86\TeamViewer.ppd can't be deleted because it does not exist.
+2021-05-05-11-06-03  WriteFileChanges(RMDIR): Remove directory C:\Program Files\TeamViewer\x86
+2021-05-05-11-06-03  WriteFileChanges(DELETE): Delete file C:\Program Files\TeamViewer\Printer\teamviewer_xpsdriverfilter.cat
+2021-05-05-11-06-03  WriteFileChanges(DELETE): Delete file C:\Program Files\TeamViewer\Printer\TeamViewer_XPSDriverFilter.gpd
+2021-05-05-11-06-03  WriteFileChanges(DELETE): Delete file C:\Program Files\TeamViewer\Printer\TeamViewer_XPSDriverFilter.inf
+2021-05-05-11-06-03  WriteFileChanges(DELETE): Delete file C:\Program Files\TeamViewer\Printer\TeamViewer_XPSDriverFilter-manifest.ini
+2021-05-05-11-06-03  WriteFileChanges(DELETE): Delete file C:\Program Files\TeamViewer\Printer\TeamViewer_XPSDriverFilter-PipelineConfig.xml
+2021-05-05-11-06-03  WriteFileChanges(DELETE): Delete file C:\Program Files\TeamViewer\Printer\x86\TeamViewer_XPSDriverFilter.dll
+2021-05-05-11-06-03  WriteFileChanges(RMDIR): Remove directory C:\Program Files\TeamViewer\update
+2021-05-05-11-06-03  WriteFileChanges(RMDIR): Warning! Directory C:\Program Files\TeamViewer\update is not empty.
+2021-05-05-11-06-03  WriteFileChanges(RMDIR): Remove directory C:\Program Files\TeamViewer
+2021-05-05-11-06-03  WriteFileChanges(RMDIR): Warning! Directory C:\Program Files\TeamViewer is not empty.
+2021-05-05-11-06-03  WriteFileChanges(MKDIR): Create directory C:\Program Files\TeamViewer\x86
+2021-05-05-11-06-04  WriteFileChanges(MKDIR): Create directory C:\Program Files\TeamViewer\outlook
+2021-05-05-11-06-04  WriteFileChanges(MKDIR): Create directory C:\Program Files\TeamViewer\Printer
+2021-05-05-11-06-04  WriteFileChanges(MKDIR): Warning! Directory C:\Program Files\TeamViewer\Printer already exists.
+2021-05-05-11-06-04  WriteFileChanges(MKDIR): Create directory C:\Program Files\TeamViewer\Printer\x86
+2021-05-05-11-06-04  WriteFileChanges(MKDIR): Warning! Directory C:\Program Files\TeamViewer\Printer\x86 already exists.
+2021-05-05-11-06-04  WriteFileChanges(RENAME): Move C:\Program Files\TeamViewer\TVExtractTemp\CopyRights_DE.txt to C:\Program Files\TeamViewer\CopyRights_DE.txt.
+2021-05-05-11-06-04  WriteFileChanges(RENAME): Move C:\Program Files\TeamViewer\TVExtractTemp\CopyRights_EN.txt to C:\Program Files\TeamViewer\CopyRights_EN.txt.
+2021-05-05-11-06-04  WriteFileChanges(RENAME): Move C:\Program Files\TeamViewer\TVExtractTemp\Lizenz_TeamViewer_DE_unicode.txt to C:\Program Files\TeamViewer\Lizenz_TeamViewer_DE_unicode.txt.
+2021-05-05-11-06-04  WriteFileChanges(RENAME): Move C:\Program Files\TeamViewer\TVExtractTemp\Lizenz_TeamViewer_EN_unicode.txt to C:\Program Files\TeamViewer\Lizenz_TeamViewer_EN_unicode.txt.
+2021-05-05-11-06-04  WriteFileChanges(RENAME): Move C:\Program Files\TeamViewer\TVExtractTemp\TeamViewer.exe to C:\Program Files\TeamViewer\TeamViewer.exe.
+2021-05-05-11-06-04  WriteFileChanges(RENAME): Move C:\Program Files\TeamViewer\TVExtractTemp\TeamViewer_Desktop.exe to C:\Program Files\TeamViewer\TeamViewer_Desktop.exe.
+2021-05-05-11-06-04  WriteFileChanges(RENAME): Move C:\Program Files\TeamViewer\TVExtractTemp\TeamViewer_Service.exe to C:\Program Files\TeamViewer\TeamViewer_Service.exe.
+2021-05-05-11-06-04  WriteFileChanges(RENAME): Move C:\Program Files\TeamViewer\TVExtractTemp\uninstall.exe to C:\Program Files\TeamViewer\uninstall.exe.
+2021-05-05-11-06-04  WriteFileChanges(RENAME): Move C:\Program Files\TeamViewer\TVExtractTemp\TeamViewer_StaticRes.dll to C:\Program Files\TeamViewer\TeamViewer_StaticRes.dll.
+2021-05-05-11-06-04  WriteFileChanges(RENAME): Move C:\Program Files\TeamViewer\TVExtractTemp\tv_w32.dll to C:\Program Files\TeamViewer\tv_w32.dll.
+2021-05-05-11-06-04  WriteFileChanges(RENAME): Move C:\Program Files\TeamViewer\TVExtractTemp\tv_w32.exe to C:\Program Files\TeamViewer\tv_w32.exe.
+2021-05-05-11-06-04  WriteFileChanges(RENAME): Move C:\Program Files\TeamViewer\TVExtractTemp\tv_x64.dll to C:\Program Files\TeamViewer\tv_x64.dll.
+2021-05-05-11-06-04  WriteFileChanges(RENAME): Move C:\Program Files\TeamViewer\TVExtractTemp\tv_x64.exe to C:\Program Files\TeamViewer\tv_x64.exe.
+2021-05-05-11-06-04  WriteFileChanges(RENAME): Move C:\Program Files\TeamViewer\TVExtractTemp\TeamViewer_Note.exe to C:\Program Files\TeamViewer\TeamViewer_Note.exe.
+2021-05-05-11-06-04  WriteFileChanges(RENAME): Move C:\Program Files\TeamViewer\TVExtractTemp\outlook\TeamViewerMeetingAddIn.dll to C:\Program Files\TeamViewer\outlook\TeamViewerMeetingAddIn.dll.
+2021-05-05-11-06-04  WriteFileChanges(RENAME): Move C:\Program Files\TeamViewer\TVExtractTemp\outlook\ManagedAggregator.dll to C:\Program Files\TeamViewer\outlook\ManagedAggregator.dll.
+2021-05-05-11-06-04  WriteFileChanges(RENAME): Move C:\Program Files\TeamViewer\TVExtractTemp\outlook\TeamViewerMeetingAddinShim.dll to C:\Program Files\TeamViewer\outlook\TeamViewerMeetingAddinShim.dll.
+2021-05-05-11-06-04  WriteFileChanges(RENAME): Move C:\Program Files\TeamViewer\TVExtractTemp\outlook\TeamViewerMeetingAddinShim64.dll to C:\Program Files\TeamViewer\outlook\TeamViewerMeetingAddinShim64.dll.
+2021-05-05-11-06-04  WriteFileChanges(RENAME): Move C:\Program Files\TeamViewer\TVExtractTemp\teamviewer15.otf to C:\Program Files\TeamViewer\teamviewer15.otf.
+2021-05-05-11-06-04  WriteFileChanges(RENAME): Move C:\Program Files\TeamViewer\TVExtractTemp\Printer\teamviewer_xpsdriverfilter.cat to C:\Program Files\TeamViewer\Printer\teamviewer_xpsdriverfilter.cat.
+2021-05-05-11-06-04  WriteFileChanges(RENAME): Move C:\Program Files\TeamViewer\TVExtractTemp\Printer\TeamViewer_XPSDriverFilter.gpd to C:\Program Files\TeamViewer\Printer\TeamViewer_XPSDriverFilter.gpd.
+2021-05-05-11-06-04  WriteFileChanges(RENAME): Move C:\Program Files\TeamViewer\TVExtractTemp\Printer\TeamViewer_XPSDriverFilter.inf to C:\Program Files\TeamViewer\Printer\TeamViewer_XPSDriverFilter.inf.
+2021-05-05-11-06-04  WriteFileChanges(RENAME): Move C:\Program Files\TeamViewer\TVExtractTemp\Printer\TeamViewer_XPSDriverFilter-manifest.ini to C:\Program Files\TeamViewer\Printer\TeamViewer_XPSDriverFilter-manifest.ini.
+2021-05-05-11-06-04  WriteFileChanges(RENAME): Move C:\Program Files\TeamViewer\TVExtractTemp\Printer\TeamViewer_XPSDriverFilter-PipelineConfig.xml to C:\Program Files\TeamViewer\Printer\TeamViewer_XPSDriverFilter-PipelineConfig.xml.
+2021-05-05-11-06-04  WriteFileChanges(RENAME): Move C:\Program Files\TeamViewer\TVExtractTemp\x86\TeamViewerVPN.cat to C:\Program Files\TeamViewer\x86\TeamViewerVPN.cat.
+2021-05-05-11-06-04  WriteFileChanges(RENAME): Move C:\Program Files\TeamViewer\TVExtractTemp\x86\TeamViewerVPN.inf to C:\Program Files\TeamViewer\x86\TeamViewerVPN.inf.
+2021-05-05-11-06-04  WriteFileChanges(RENAME): Move C:\Program Files\TeamViewer\TVExtractTemp\x86\TeamViewerVPN.sy_ to C:\Program Files\TeamViewer\x86\TeamViewerVPN.sy_.
+2021-05-05-11-06-04  WriteFileChanges(RENAME): Move C:\Program Files\TeamViewer\TVExtractTemp\x86\TVMonitor.cat to C:\Program Files\TeamViewer\x86\TVMonitor.cat.
+2021-05-05-11-06-04  WriteFileChanges(RENAME): Move C:\Program Files\TeamViewer\TVExtractTemp\x86\TVMonitor.inf to C:\Program Files\TeamViewer\x86\TVMonitor.inf.
+2021-05-05-11-06-04  WriteFileChanges(RENAME): Move C:\Program Files\TeamViewer\TVExtractTemp\x86\TVMonitor.sy_ to C:\Program Files\TeamViewer\x86\TVMonitor.sy_.
+2021-05-05-11-06-04  WriteFileChanges(RENAME): Move C:\Program Files\TeamViewer\TVExtractTemp\Printer\x86\TeamViewer_XPSDriverFilter.dll to C:\Program Files\TeamViewer\Printer\x86\TeamViewer_XPSDriverFilter.dll.
+2021-05-05-11-06-04  WriteFileChanges(RENAME): Move C:\Program Files\TeamViewer\TVExtractTemp\TeamViewer_Resource_en.dll to C:\Program Files\TeamViewer\TeamViewer_Resource_en.dll.
+2021-05-05-11-06-04  WriteFileChanges(RENAME): Move C:\Program Files\TeamViewer\TVExtractTemp\TeamViewer_Resource_de.dll to C:\Program Files\TeamViewer\TeamViewer_Resource_de.dll.
+2021-05-05-11-06-04  WriteFileChanges(RENAME): Move C:\Program Files\TeamViewer\TVExtractTemp\TeamViewer_Resource_es.dll to C:\Program Files\TeamViewer\TeamViewer_Resource_es.dll.
+2021-05-05-11-06-04  WriteFileChanges(RENAME): Move C:\Program Files\TeamViewer\TVExtractTemp\TeamViewer_Resource_da.dll to C:\Program Files\TeamViewer\TeamViewer_Resource_da.dll.
+2021-05-05-11-06-04  WriteFileChanges(RENAME): Move C:\Program Files\TeamViewer\TVExtractTemp\TeamViewer_Resource_fr.dll to C:\Program Files\TeamViewer\TeamViewer_Resource_fr.dll.
+2021-05-05-11-06-04  WriteFileChanges(RENAME): Move C:\Program Files\TeamViewer\TVExtractTemp\TeamViewer_Resource_it.dll to C:\Program Files\TeamViewer\TeamViewer_Resource_it.dll.
+2021-05-05-11-06-04  WriteFileChanges(RENAME): Move C:\Program Files\TeamViewer\TVExtractTemp\TeamViewer_Resource_nl.dll to C:\Program Files\TeamViewer\TeamViewer_Resource_nl.dll.
+2021-05-05-11-06-04  WriteFileChanges(RENAME): Move C:\Program Files\TeamViewer\TVExtractTemp\TeamViewer_Resource_pt.dll to C:\Program Files\TeamViewer\TeamViewer_Resource_pt.dll.
+2021-05-05-11-06-04  WriteFileChanges(RENAME): Move C:\Program Files\TeamViewer\TVExtractTemp\TeamViewer_Resource_sv.dll to C:\Program Files\TeamViewer\TeamViewer_Resource_sv.dll.
+2021-05-05-11-06-04  WriteFileChanges(RENAME): Move C:\Program Files\TeamViewer\TVExtractTemp\TeamViewer_Resource_fi.dll to C:\Program Files\TeamViewer\TeamViewer_Resource_fi.dll.
+2021-05-05-11-06-04  WriteFileChanges(RENAME): Move C:\Program Files\TeamViewer\TVExtractTemp\TeamViewer_Resource_no.dll to C:\Program Files\TeamViewer\TeamViewer_Resource_no.dll.
+2021-05-05-11-06-04  WriteFileChanges(RENAME): Move C:\Program Files\TeamViewer\TVExtractTemp\TeamViewer_Resource_ja.dll to C:\Program Files\TeamViewer\TeamViewer_Resource_ja.dll.
+2021-05-05-11-06-04  WriteFileChanges(RENAME): Move C:\Program Files\TeamViewer\TVExtractTemp\TeamViewer_Resource_ru.dll to C:\Program Files\TeamViewer\TeamViewer_Resource_ru.dll.
+2021-05-05-11-06-04  WriteFileChanges(RENAME): Move C:\Program Files\TeamViewer\TVExtractTemp\TeamViewer_Resource_ko.dll to C:\Program Files\TeamViewer\TeamViewer_Resource_ko.dll.
+2021-05-05-11-06-04  WriteFileChanges(RENAME): Move C:\Program Files\TeamViewer\TVExtractTemp\TeamViewer_Resource_cs.dll to C:\Program Files\TeamViewer\TeamViewer_Resource_cs.dll.
+2021-05-05-11-06-04  WriteFileChanges(RENAME): Move C:\Program Files\TeamViewer\TVExtractTemp\TeamViewer_Resource_ar.dll to C:\Program Files\TeamViewer\TeamViewer_Resource_ar.dll.
+2021-05-05-11-06-04  WriteFileChanges(RENAME): Move C:\Program Files\TeamViewer\TVExtractTemp\TeamViewer_Resource_zhCN.dll to C:\Program Files\TeamViewer\TeamViewer_Resource_zhCN.dll.
+2021-05-05-11-06-04  WriteFileChanges(RENAME): Move C:\Program Files\TeamViewer\TVExtractTemp\TeamViewer_Resource_pl.dll to C:\Program Files\TeamViewer\TeamViewer_Resource_pl.dll.
+2021-05-05-11-06-04  WriteFileChanges(RENAME): Move C:\Program Files\TeamViewer\TVExtractTemp\TeamViewer_Resource_tr.dll to C:\Program Files\TeamViewer\TeamViewer_Resource_tr.dll.
+2021-05-05-11-06-04  WriteFileChanges(RENAME): Move C:\Program Files\TeamViewer\TVExtractTemp\TeamViewer_Resource_bg.dll to C:\Program Files\TeamViewer\TeamViewer_Resource_bg.dll.
+2021-05-05-11-06-04  WriteFileChanges(RENAME): Move C:\Program Files\TeamViewer\TVExtractTemp\TeamViewer_Resource_el.dll to C:\Program Files\TeamViewer\TeamViewer_Resource_el.dll.
+2021-05-05-11-06-04  WriteFileChanges(RENAME): Move C:\Program Files\TeamViewer\TVExtractTemp\TeamViewer_Resource_he.dll to C:\Program Files\TeamViewer\TeamViewer_Resource_he.dll.
+2021-05-05-11-06-04  WriteFileChanges(RENAME): Move C:\Program Files\TeamViewer\TVExtractTemp\TeamViewer_Resource_hr.dll to C:\Program Files\TeamViewer\TeamViewer_Resource_hr.dll.
+2021-05-05-11-06-04  WriteFileChanges(RENAME): Move C:\Program Files\TeamViewer\TVExtractTemp\TeamViewer_Resource_hu.dll to C:\Program Files\TeamViewer\TeamViewer_Resource_hu.dll.
+2021-05-05-11-06-04  WriteFileChanges(RENAME): Move C:\Program Files\TeamViewer\TVExtractTemp\TeamViewer_Resource_id.dll to C:\Program Files\TeamViewer\TeamViewer_Resource_id.dll.
+2021-05-05-11-06-04  WriteFileChanges(RENAME): Move C:\Program Files\TeamViewer\TVExtractTemp\TeamViewer_Resource_lt.dll to C:\Program Files\TeamViewer\TeamViewer_Resource_lt.dll.
+2021-05-05-11-06-04  WriteFileChanges(RENAME): Move C:\Program Files\TeamViewer\TVExtractTemp\TeamViewer_Resource_ro.dll to C:\Program Files\TeamViewer\TeamViewer_Resource_ro.dll.
+2021-05-05-11-06-04  WriteFileChanges(RENAME): Move C:\Program Files\TeamViewer\TVExtractTemp\TeamViewer_Resource_sk.dll to C:\Program Files\TeamViewer\TeamViewer_Resource_sk.dll.
+2021-05-05-11-06-04  WriteFileChanges(RENAME): Move C:\Program Files\TeamViewer\TVExtractTemp\TeamViewer_Resource_sr.dll to C:\Program Files\TeamViewer\TeamViewer_Resource_sr.dll.
+2021-05-05-11-06-04  WriteFileChanges(RENAME): Move C:\Program Files\TeamViewer\TVExtractTemp\TeamViewer_Resource_th.dll to C:\Program Files\TeamViewer\TeamViewer_Resource_th.dll.
+2021-05-05-11-06-04  WriteFileChanges(RENAME): Move C:\Program Files\TeamViewer\TVExtractTemp\TeamViewer_Resource_uk.dll to C:\Program Files\TeamViewer\TeamViewer_Resource_uk.dll.
+2021-05-05-11-06-04  WriteFileChanges(RENAME): Move C:\Program Files\TeamViewer\TVExtractTemp\TeamViewer_Resource_vi.dll to C:\Program Files\TeamViewer\TeamViewer_Resource_vi.dll.
+2021-05-05-11-06-04  WriteFileChanges(RENAME): Move C:\Program Files\TeamViewer\TVExtractTemp\TeamViewer_Resource_zhTW.dll to C:\Program Files\TeamViewer\TeamViewer_Resource_zhTW.dll.
+2021-05-05-11-06-04  WriteFileChanges(RENAME): Move C:\Program Files\TeamViewer\Lizenz_TeamViewer_EN_unicode.txt to C:\Program Files\TeamViewer\License.txt.
+2021-05-05-11-06-04  WriteFileChanges(RENAME): Move C:\Program Files\TeamViewer\CopyRights_EN.txt to C:\Program Files\TeamViewer\CopyRights.txt.
+2021-05-05-11-06-04  WriteFileChanges(DELETE): Delete file C:\Program Files\TeamViewer\Lizenz_TeamViewer_DE_unicode.txt
+2021-05-05-11-06-04  WriteFileChanges(DELETE): Delete file C:\Program Files\TeamViewer\CopyRights_DE.txt
+2021-05-05-11-06-05  WriteFileChanges(RENAME): Move C:\Program Files\TeamViewer\x86\teamviewervpn.sy_ to C:\Program Files\TeamViewer\x86\teamviewervpn.sys.
+2021-05-05-11-06-05  WriteFileChanges(ADD_FIREWALL_EXCEPTION): Add firewall exception Teamviewer Remote Control Application for C:\Program Files\TeamViewer\TeamViewer.exe.
+2021-05-05-11-06-05  WriteFileChanges(ADD_FIREWALL_EXCEPTION): Status adding firewall exception Teamviewer Remote Control Application for C:\Program Files\TeamViewer\TeamViewer.exe. (EC: 0)
+2021-05-05-11-06-05  WriteFileChanges(ADD_FIREWALL_EXCEPTION): Add firewall exception Teamviewer Remote Control Service for C:\Program Files\TeamViewer\TeamViewer_Service.exe.
+2021-05-05-11-06-05  WriteFileChanges(ADD_FIREWALL_EXCEPTION): Status adding firewall exception Teamviewer Remote Control Service for C:\Program Files\TeamViewer\TeamViewer_Service.exe. (EC: 0)
+2021-05-05-11-06-05  WriteFileChanges(SHORTCUT): Create shortcut C:\Users\Public\Desktop\TeamViewer.lnk to C:\Program Files\TeamViewer\TeamViewer.exe
+2021-05-05-11-06-05  WriteFileChanges(SHORTCUT): Warning! File C:\Users\Public\Desktop\TeamViewer.lnk already exists.
+2021-05-05-11-06-05  WriteFileChanges(SHORTCUT): Create shortcut C:\ProgramData\Microsoft\Windows\Start Menu\Programs\TeamViewer.lnk to C:\Program Files\TeamViewer\TeamViewer.exe
+2021-05-05-11-06-05  WriteFileChanges(SHORTCUT): Warning! File C:\ProgramData\Microsoft\Windows\Start Menu\Programs\TeamViewer.lnk already exists.
+2021-05-05-11-06-05  WriteFileChanges(INSTALL_SERVICE): Install service TeamViewer with application path C:\Program Files\TeamViewer\TeamViewer_Service.exe.
+2021-05-05-11-06-09  WriteFileChanges(INSTALL_SERVICE)
+2021-05-05-11-06-09  WriteFileChanges(DELETE): Delete file C:\Program Files\TeamViewer\teamviewer15.otf
+2021-05-05-11-06-09  
+2021-05-05-11-06-09  Set update progress (handle:920, msg:PROGRESS:60 last error:0)
+2021-05-05-11-06-09  WriteRegChanges(): Compute all registry actions...
+2021-05-05-11-06-09  WriteRegChanges(DELETE_KEY): Delete registry key HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\Uninstall\TeamViewer
+2021-05-05-11-06-10  WriteRegChanges(DELETE_KEY): Delete registry key HKEY_CLASSES_ROOT\TeamViewerSession
+2021-05-05-11-06-10  WriteRegChanges(DELETE_VALUE): Delete registry value HKEY_LOCAL_MACHINE\Software\Microsoft\Windows NT\CurrentVersion\Fonts\TeamViewer10 (TrueType)
+DeleteRegValueWithRollback(): Warning! Registry value HKEY_LOCAL_MACHINE\Software\Microsoft\Windows NT\CurrentVersion\Fonts\TeamViewer10 (TrueType) does not exist.
+2021-05-05-11-06-10  WriteRegChanges(DELETE_VALUE): Delete registry value HKEY_LOCAL_MACHINE\Software\Microsoft\Windows NT\CurrentVersion\Fonts\TeamViewer11 (TrueType)
+DeleteRegValueWithRollback(): Warning! Registry value HKEY_LOCAL_MACHINE\Software\Microsoft\Windows NT\CurrentVersion\Fonts\TeamViewer11 (TrueType) does not exist.
+2021-05-05-11-06-10  WriteRegChanges(DELETE_VALUE): Delete registry value HKEY_LOCAL_MACHINE\Software\Microsoft\Windows NT\CurrentVersion\Fonts\TeamViewer12 (TrueType)
+DeleteRegValueWithRollback(): Warning! Registry value HKEY_LOCAL_MACHINE\Software\Microsoft\Windows NT\CurrentVersion\Fonts\TeamViewer12 (TrueType) does not exist.
+2021-05-05-11-06-10  WriteRegChanges(DELETE_VALUE): Delete registry value HKEY_LOCAL_MACHINE\Software\Microsoft\Windows NT\CurrentVersion\Fonts\TeamViewer13 (TrueType)
+DeleteRegValueWithRollback(): Warning! Registry value HKEY_LOCAL_MACHINE\Software\Microsoft\Windows NT\CurrentVersion\Fonts\TeamViewer13 (TrueType) does not exist.
+2021-05-05-11-06-10  WriteRegChanges(DELETE_VALUE): Delete registry value HKEY_LOCAL_MACHINE\Software\Microsoft\Windows NT\CurrentVersion\Fonts\TeamViewer14 (TrueType)
+DeleteRegValueWithRollback(): Warning! Registry value HKEY_LOCAL_MACHINE\Software\Microsoft\Windows NT\CurrentVersion\Fonts\TeamViewer14 (TrueType) does not exist.
+2021-05-05-11-06-10  WriteRegChanges(DELETE_VALUE): Delete registry value HKEY_LOCAL_MACHINE\SOFTWARE\TeamViewer\IsHostModule
+DeleteRegValueWithRollback(): Warning! Registry value HKEY_LOCAL_MACHINE\SOFTWARE\TeamViewer\IsHostModule does not exist.
+2021-05-05-11-06-10  WriteRegChanges(WRITE_STRING): Write registry value HKEY_LOCAL_MACHINE\SOFTWARE\TeamViewer\InstallationDirectory=C:\Program Files\TeamViewer
+2021-05-05-11-06-10  WriteRegChanges(DELETE_VALUE): Delete registry value HKEY_LOCAL_MACHINE\SOFTWARE\TeamViewer\Service_Installation_Status
+DeleteRegValueWithRollback(): Warning! Registry value HKEY_LOCAL_MACHINE\SOFTWARE\TeamViewer\Service_Installation_Status does not exist.
+2021-05-05-11-06-10  WriteRegChanges(COPY_VALUE): Copy registry value HKEY_LOCAL_MACHINE\SOFTWARE\TeamViewer\SecurityPasswordAES to HKEY_LOCAL_MACHINE\SOFTWARE\TeamViewer\Temp\SecurityPasswordExported
+CopyRegValueWithRollback(): Warning! Registry value HKEY_LOCAL_MACHINE\SOFTWARE\TeamViewer\SecurityPasswordAES does not exist. (EC2)
+2021-05-05-11-06-10  WriteRegChanges(COPY_VALUE): Copy registry value HKEY_LOCAL_MACHINE\SOFTWARE\TeamViewer\MultiPwdMgmtPWDs to HKEY_LOCAL_MACHINE\SOFTWARE\TeamViewer\Temp\MultiPwdMgmtPWDsExported
+CopyRegValueWithRollback(): Warning! Registry value HKEY_LOCAL_MACHINE\SOFTWARE\TeamViewer\MultiPwdMgmtPWDs does not exist. (EC2)
+2021-05-05-11-06-10  WriteRegChanges(DELETE_VALUE): Delete registry value HKEY_LOCAL_MACHINE\SOFTWARE\TeamViewer\SecurityPasswordAES
+DeleteRegValueWithRollback(): Warning! Registry value HKEY_LOCAL_MACHINE\SOFTWARE\TeamViewer\SecurityPasswordAES does not exist.
+2021-05-05-11-06-10  WriteRegChanges(DELETE_VALUE): Delete registry value HKEY_LOCAL_MACHINE\SOFTWARE\TeamViewer\MultiPwdMgmtPWDs
+DeleteRegValueWithRollback(): Warning! Registry value HKEY_LOCAL_MACHINE\SOFTWARE\TeamViewer\MultiPwdMgmtPWDs does not exist.
+2021-05-05-11-06-10  WriteRegChanges(WRITE_STRING): Write registry value HKEY_CLASSES_ROOT\.tvs\=TeamViewerSession
+2021-05-05-11-06-11  WriteRegChanges(WRITE_STRING): Write registry value HKEY_CLASSES_ROOT\TeamViewerSession\shell=
+2021-05-05-11-06-11  WriteRegChanges(WRITE_STRING): Write registry value HKEY_CLASSES_ROOT\TeamViewerSession\shell\open=
+2021-05-05-11-06-12  WriteRegChanges(WRITE_STRING): Write registry value HKEY_CLASSES_ROOT\TeamViewerSession\shell\open\command=
+2021-05-05-11-06-12  WriteRegChanges(WRITE_STRING): Write registry value HKEY_CLASSES_ROOT\TeamViewerSession\shell\open\command\="C:\Program Files\TeamViewer\TeamViewer.exe" --play "%1"
+2021-05-05-11-06-13  WriteRegChanges(WRITE_STRING): Write registry value HKEY_CLASSES_ROOT\TeamViewerSession\DefaultIcon=
+2021-05-05-11-06-13  WriteRegChanges(WRITE_STRING): Write registry value HKEY_CLASSES_ROOT\TeamViewerSession\DefaultIcon\="C:\Program Files\TeamViewer\TeamViewer.exe",0
+2021-05-05-11-06-14  WriteRegChanges(WRITE_STRING): Write registry value HKEY_CLASSES_ROOT\.tvc\=TeamViewerConfiguration
+2021-05-05-11-06-14  WriteRegChanges(WRITE_STRING): Write registry value HKEY_CLASSES_ROOT\TeamViewerConfiguration\shell=
+2021-05-05-11-06-15  WriteRegChanges(WRITE_STRING): Write registry value HKEY_CLASSES_ROOT\TeamViewerConfiguration\shell\open=
+2021-05-05-11-06-15  WriteRegChanges(WRITE_STRING): Write registry value HKEY_CLASSES_ROOT\TeamViewerConfiguration\shell\open\command=
+2021-05-05-11-06-16  WriteRegChanges(WRITE_STRING): Write registry value HKEY_CLASSES_ROOT\TeamViewerConfiguration\shell\open\command\="C:\Program Files\TeamViewer\TeamViewer.exe" --control "%1"
+2021-05-05-11-06-16  WriteRegChanges(WRITE_STRING): Write registry value HKEY_CLASSES_ROOT\TeamViewerConfiguration\DefaultIcon=
+2021-05-05-11-06-17  WriteRegChanges(WRITE_STRING): Write registry value HKEY_CLASSES_ROOT\TeamViewerConfiguration\DefaultIcon\="C:\Program Files\TeamViewer\TeamViewer.exe",0
+2021-05-05-11-06-18  WriteRegChanges(WRITE_STRING): Write registry value HKEY_CLASSES_ROOT\.tvlink\=InternetShortcut
+2021-05-05-11-06-18  WriteRegChanges(WRITE_STRING): Write registry value HKEY_CLASSES_ROOT\.tvlink\OpenWithProgIds\InternetShortcut=
+2021-05-05-11-06-19  WriteRegChanges(WRITE_STRING): Write registry value HKEY_CLASSES_ROOT\.tvlink\DefaultIcon\="C:\Program Files\TeamViewer\TeamViewer.exe"
+2021-05-05-11-06-20  WriteRegChanges(WRITE_STRING): Write registry value HKEY_CLASSES_ROOT\.tpsr\=TeamViewerPilotSessionReporting
+2021-05-05-11-06-20  WriteRegChanges(WRITE_STRING): Write registry value HKEY_CLASSES_ROOT\TeamViewerPilotSessionReporting\shell=
+2021-05-05-11-06-21  WriteRegChanges(WRITE_STRING): Write registry value HKEY_CLASSES_ROOT\TeamViewerPilotSessionReporting\shell\open=
+2021-05-05-11-06-21  WriteRegChanges(WRITE_STRING): Write registry value HKEY_CLASSES_ROOT\TeamViewerPilotSessionReporting\shell\open\command=
+2021-05-05-11-06-22  WriteRegChanges(WRITE_STRING): Write registry value HKEY_CLASSES_ROOT\TeamViewerPilotSessionReporting\shell\open\command\="C:\Program Files\TeamViewer\TeamViewer.exe" --opentpsr "%1"
+2021-05-05-11-06-23  WriteRegChanges(WRITE_STRING): Write registry value HKEY_CLASSES_ROOT\TeamViewerPilotSessionReporting\DefaultIcon=
+2021-05-05-11-06-23  WriteRegChanges(WRITE_STRING): Write registry value HKEY_CLASSES_ROOT\TeamViewerPilotSessionReporting\DefaultIcon\="C:\Program Files\TeamViewer\TeamViewer.exe",0
+2021-05-05-11-06-24  WriteRegChanges(WRITE_DWORD): Write registry value HKEY_LOCAL_MACHINE\SOFTWARE\TeamViewer\Always_Online=1
+2021-05-05-11-06-25  WriteRegChanges(WRITE_DWORD): Write registry value HKEY_LOCAL_MACHINE\SOFTWARE\TeamViewer\DefaultSettings\Autostart_GUI=1
+2021-05-05-11-06-25  WriteRegChanges(WRITE_STRING): Write registry value HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\TeamViewer\DisplayName=TeamViewer
+2021-05-05-11-06-26  WriteRegChanges(WRITE_STRING): Write registry value HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\TeamViewer\DisplayIcon=C:\Program Files\TeamViewer\TeamViewer.exe
+2021-05-05-11-06-26  WriteRegChanges(WRITE_STRING): Write registry value HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\TeamViewer\Publisher=TeamViewer
+2021-05-05-11-06-27  WriteRegChanges(WRITE_STRING): Write registry value HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\TeamViewer\HelpLink=http://www.teamviewer.com
+2021-05-05-11-06-27  WriteRegChanges(WRITE_STRING): Write registry value HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\TeamViewer\UninstallString="C:\Program Files\TeamViewer\uninstall.exe"
+2021-05-05-11-06-27  WriteRegChanges(WRITE_DWORD): Write registry
