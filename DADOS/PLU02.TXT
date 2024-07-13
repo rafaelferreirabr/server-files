@@ -1,4 +1,4 @@
-PLU200400000026320240713073525
+PLU200400000026720240713134943
 ABACATE                                 0000211
 ABACATE PROMOÇÃO                        0002110
 ABACAXI                                 0000220
@@ -83,6 +83,9 @@ CEBOLINHA                               0000309
 CENOURA                                 0000106
 CENOURA PROMOÇÃO                        0001060
 CEREJA                                  0000238
+CERVEJA BRAHMA D/M LATA                 0000565
+CERVEJA HEINEKEN LONGNECK               0000564
+CERVEJA IMPERIO LATA                    0000566
 CHEIRO VERDE                            0000305
 CHICORIA                                0000316
 CHIMICHURRI                             0000417
@@ -213,6 +216,7 @@ PIMENTAO PROMOCAO                       0001090
 PINHA                                   0000244
 PITAIA                                  0000260
 PLACA DE PREÇO                          0000617
+POWERADE 500ml                          0000567
 PROMOCAO VERDURAS                       0000325
 QUEIJO                                  0000508
 QUEIJO DESIDRATADO                      0000547
