@@ -1,8 +1,8 @@
 [Caixa001]
-Tempo=250724 2100
-Posicao=2418
-Operador=0
-[Caixa002]
-Tempo=310724 1828
-Posicao=73811
+Tempo=010824 1525
+Posicao=162
 Operador=9
+[Caixa002]
+Tempo=010824 1548
+Posicao=43849
+Operador=1
