@@ -1,4 +1,4 @@
-PLU200400000026720240906114901
+PLU200400000026820240907100250
 ABACATE                                 0000211
 ABACATE PROMOÇÃO                        0002110
 ABACAXI                                 0000220
@@ -43,8 +43,10 @@ BATATA ASTERIX                          0001030
 BATATA BAROA                            0000136
 BATATA CAROÇO                           0000102
 BATATA CAROÇO                           0001020
+BATATA DOCE                             0000120
 BATATA DOCE BRANCA                      0000137
 BATATA DOCE PROMOÇÃO                    0001100
+BATATA DOCE PROMOÇÃO                    0001200
 BATATA LISA                             0000101
 BATATA LISA (PROMOCAO)                  0001010
 BERINGELA                               0000126
@@ -181,7 +183,6 @@ MELANCIA UNIDADE PROMOÇÃO               0002360
 MELÃO                                   0000212
 MELAO REI                               0000258
 MELAO SAPO                              0000259
-MELÃO SAPO                              0000120
 MERCADO PROMOÇÃO                        0000549
 MILHO VERDE                             0000134
 MIXIRICA                                0000257
