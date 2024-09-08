@@ -1,4 +1,4 @@
-PLU200400000026820240907102629
+PLU200400000026820240908120112
 ABACATE                                 0000211
 ABACATE PROMOÇÃO                        0002110
 ABACAXI                                 0000220
@@ -212,7 +212,7 @@ PIMENTA CALABRESA                       0000403
 PIMENTA DO REINO                        0000402
 PIMENTA GARRAFA                         0000516
 PIMENTÃO                                0000109
-PIMENTÃO COLORIDO                       0000132
+PIMENTÃO BANDEJA                        0000132
 PIMENTAO PROMOCAO                       0001090
 PINHA                                   0000244
 PITAIA                                  0000260
