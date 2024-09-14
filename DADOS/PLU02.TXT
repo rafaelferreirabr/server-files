@@ -1,4 +1,4 @@
-PLU200400000026820240913152044
+PLU200400000026920240914072925
 ABACATE                                 0000211
 ABACATE PROMOÇÃO                        0002110
 ABACAXI                                 0000220
@@ -65,6 +65,7 @@ BOLSA 40X50(MILHEIRO)                   0000602
 BOLSA PLASCOL                           0000601
 BROCULES                                0000310
 BROCULES AMERICANO                      0000311
+BROCULES PROMOÇÃO                       0003110
 Cajá                                    0000245
 CAJU                                    0000247
 CANELA EM PAU                           0000406
