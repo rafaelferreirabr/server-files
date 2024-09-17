@@ -1,4 +1,4 @@
-PLU200400000026920240916144354
+PLU200400000027020240917073630
 ABACATE                                 0000211
 ABACATE PROMOÇÃO                        0002110
 ABACAXI                                 0000220
@@ -189,6 +189,7 @@ MILHO VERDE                             0000134
 MIXIRICA                                0000257
 MOLHO DE PIMENTA GARRAFA                0000517
 MORANGO                                 0000219
+MORANGO PROMOÇÃO                        0002190
 MOSTARDA                                0000318
 ÓLEO DE SOJA                            0000539
 OREGANO                                 0000404
